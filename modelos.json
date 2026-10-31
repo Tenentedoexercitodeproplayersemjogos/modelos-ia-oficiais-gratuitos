@@ -92,7 +92,7 @@
   "org": "meta-llama",
   "lic": "llama3.1",
   "dl": 4620951,
-  "likes": 8703,
+  "likes": 8704,
   "pipe": "text-generation",
   "grupo_licenca": "Aberta com restrição",
   "hf_url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
