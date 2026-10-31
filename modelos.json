@@ -1,0 +1,6382 @@
+[
+ {
+  "id": "Qwen/Qwen3-0.6B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 23941880,
+  "likes": 1863,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-0.6B"
+ },
+ {
+  "id": "Qwen/Qwen3-14B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 12798105,
+  "likes": 527,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-14B"
+ },
+ {
+  "id": "Qwen/Qwen3-4B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 9728597,
+  "likes": 776,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-4B"
+ },
+ {
+  "id": "Qwen/Qwen3-8B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 7940080,
+  "likes": 2156,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-8B"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V3.2",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 6295973,
+  "likes": 1590,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2"
+ },
+ {
+  "id": "openai/gpt-oss-20b",
+  "org": "openai",
+  "lic": "apache-2.0",
+  "dl": 6122505,
+  "likes": 5252,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/openai/gpt-oss-20b"
+ },
+ {
+  "id": "Qwen/Qwen2.5-7B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 5350289,
+  "likes": 2470,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen2.5-0.5B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 5162870,
+  "likes": 721,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct"
+ },
+ {
+  "id": "meta-llama/Llama-3.1-8B-Instruct",
+  "org": "meta-llama",
+  "lic": "llama3.1",
+  "dl": 4704398,
+  "likes": 8701,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen2.5-1.5B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 4473405,
+  "likes": 922,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen3-1.7B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 4204165,
+  "likes": 606,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-1.7B"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 3395056,
+  "likes": 4093,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731"
+ },
+ {
+  "id": "Qwen/Qwen2.5-3B-Instruct",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 3268731,
+  "likes": 626,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen3-32B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 2942974,
+  "likes": 791,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-32B"
+ },
+ {
+  "id": "openai/gpt-oss-120b",
+  "org": "openai",
+  "lic": "apache-2.0",
+  "dl": 2683329,
+  "likes": 5470,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/openai/gpt-oss-120b"
+ },
+ {
+  "id": "Qwen/Qwen3-4B-Instruct-2507",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 2654008,
+  "likes": 1041,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507"
+ },
+ {
+  "id": "zai-org/GLM-5.3",
+  "org": "zai-org",
+  "lic": "other",
+  "dl": 2507023,
+  "likes": 2350,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/zai-org/GLM-5.3"
+ },
+ {
+  "id": "meta-llama/Llama-3.2-1B-Instruct",
+  "org": "meta-llama",
+  "lic": "llama3.2",
+  "dl": 2405633,
+  "likes": 1923,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct"
+ },
+ {
+  "id": "HuggingFaceTB/SmolLM2-135M",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 2374306,
+  "likes": 265,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/SmolLM2-135M"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-14B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 1928766,
+  "likes": 208,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct"
+ },
+ {
+  "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 1886221,
+  "likes": 142,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16"
+ },
+ {
+  "id": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 1823032,
+  "likes": 839,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16"
+ },
+ {
+  "id": "mistralai/Mistral-7B-Instruct-v0.2",
+  "org": "mistralai",
+  "lic": "apache-2.0",
+  "dl": 1798035,
+  "likes": 3275,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-R1",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 1733275,
+  "likes": 14420,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V3",
+  "org": "deepseek-ai",
+  "lic": "nao-declarada",
+  "dl": 1692278,
+  "likes": 4453,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+ },
+ {
+  "id": "zai-org/GLM-5",
+  "org": "zai-org",
+  "lic": "mit",
+  "dl": 1668026,
+  "likes": 2142,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/zai-org/GLM-5"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-7B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 1522235,
+  "likes": 853,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct"
+ },
+ {
+  "id": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 1440626,
+  "likes": 378,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16"
+ },
+ {
+  "id": "MiniMaxAI/MiniMax-M2.5",
+  "org": "MiniMaxAI",
+  "lic": "other",
+  "dl": 1392282,
+  "likes": 1528,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5"
+ },
+ {
+  "id": "zai-org/GLM-4.5-Air",
+  "org": "zai-org",
+  "lic": "mit",
+  "dl": 1363758,
+  "likes": 649,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/zai-org/GLM-4.5-Air"
+ },
+ {
+  "id": "Qwen/Qwen2.5-0.5B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 1233463,
+  "likes": 487,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B"
+ },
+ {
+  "id": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 1206234,
+  "likes": 258,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16"
+ },
+ {
+  "id": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 1194471,
+  "likes": 439,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16"
+ },
+ {
+  "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 1166984,
+  "likes": 238,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8"
+ },
+ {
+  "id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 1092465,
+  "likes": 851,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507"
+ },
+ {
+  "id": "meta-llama/Llama-3.2-3B-Instruct",
+  "org": "meta-llama",
+  "lic": "llama3.2",
+  "dl": 1086162,
+  "likes": 2911,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen2.5-32B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 1084657,
+  "likes": 375,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen3-30B-A3B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 1054794,
+  "likes": 977,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B"
+ },
+ {
+  "id": "zai-org/GLM-5.1",
+  "org": "zai-org",
+  "lic": "mit",
+  "dl": 1033380,
+  "likes": 1852,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/zai-org/GLM-5.1"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V4-Flash",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 1024065,
+  "likes": 2360,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-32B-Instruct-AWQ",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 1017107,
+  "likes": 50,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct-AWQ"
+ },
+ {
+  "id": "zai-org/GLM-4.7-Flash",
+  "org": "zai-org",
+  "lic": "mit",
+  "dl": 984063,
+  "likes": 1890,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/zai-org/GLM-4.7-Flash"
+ },
+ {
+  "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 928425,
+  "likes": 1314,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct"
+ },
+ {
+  "id": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 839526,
+  "likes": 466,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen2.5-14B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 816418,
+  "likes": 380,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 814642,
+  "likes": 1652,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-7B-Instruct-AWQ",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 728288,
+  "likes": 37,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-AWQ"
+ },
+ {
+  "id": "Qwen/Qwen3-Coder-Next-FP8",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 698603,
+  "likes": 212,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8"
+ },
+ {
+  "id": "google/gemma-3-1b-it",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 651069,
+  "likes": 1285,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-3-1b-it"
+ },
+ {
+  "id": "HuggingFaceTB/SmolLM3-3B",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 645764,
+  "likes": 1072,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/SmolLM3-3B"
+ },
+ {
+  "id": "Qwen/Qwen2.5-1.5B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 640932,
+  "likes": 247,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B"
+ },
+ {
+  "id": "Qwen/Qwen3-0.6B-Base",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 608583,
+  "likes": 219,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-0.6B-Base"
+ },
+ {
+  "id": "meta-llama/Llama-3.1-8B",
+  "org": "meta-llama",
+  "lic": "llama3.1",
+  "dl": 589338,
+  "likes": 2735,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Llama-3.1-8B"
+ },
+ {
+  "id": "Qwen/Qwen3-1.7B-Base",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 579472,
+  "likes": 97,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-1.7B-Base"
+ },
+ {
+  "id": "ibm-granite/granite-4.1-3b",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 574118,
+  "likes": 119,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.1-3b"
+ },
+ {
+  "id": "Qwen/Qwen3-8B-Base",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 569378,
+  "likes": 149,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-8B-Base"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-7B-Instruct-GPTQ-Int4",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 527045,
+  "likes": 25,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GPTQ-Int4"
+ },
+ {
+  "id": "Qwen/Qwen3-4B-Base",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 526793,
+  "likes": 118,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-4B-Base"
+ },
+ {
+  "id": "Qwen/Qwen3-4B-Thinking-2507",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 519055,
+  "likes": 629,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507"
+ },
+ {
+  "id": "Qwen/Qwen2.5-7B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 503352,
+  "likes": 341,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-7B"
+ },
+ {
+  "id": "meta-llama/Llama-3.2-1B",
+  "org": "meta-llama",
+  "lic": "llama3.2",
+  "dl": 501508,
+  "likes": 2738,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Llama-3.2-1B"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-32B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 464385,
+  "likes": 2199,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct"
+ },
+ {
+  "id": "mistralai/Mistral-7B-v0.1",
+  "org": "mistralai",
+  "lic": "apache-2.0",
+  "dl": 443816,
+  "likes": 4229,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 439895,
+  "likes": 167,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-3B-Instruct",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 437140,
+  "likes": 151,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen3-Coder-Next",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 434326,
+  "likes": 1722,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-7B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 399085,
+  "likes": 197,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B"
+ },
+ {
+  "id": "microsoft/Phi-3.5-mini-instruct",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 392208,
+  "likes": 1285,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/Phi-3.5-mini-instruct"
+ },
+ {
+  "id": "microsoft/phi-4",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 387114,
+  "likes": 2336,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/phi-4"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-1.5B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 384897,
+  "likes": 136,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B"
+ },
+ {
+  "id": "meta-llama/Llama-3.3-70B-Instruct",
+  "org": "meta-llama",
+  "lic": "llama3.3",
+  "dl": 377663,
+  "likes": 3178,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V4-Pro",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 368547,
+  "likes": 5687,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
+ },
+ {
+  "id": "MiniMaxAI/MiniMax-M2.7",
+  "org": "MiniMaxAI",
+  "lic": "other",
+  "dl": 361476,
+  "likes": 1261,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 355397,
+  "likes": 1665,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 354952,
+  "likes": 1126,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B"
+ },
+ {
+  "id": "Qwen/Qwen3-235B-A22B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 354249,
+  "likes": 1128,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B"
+ },
+ {
+  "id": "microsoft/Phi-4-mini-instruct",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 351916,
+  "likes": 876,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/Phi-4-mini-instruct"
+ },
+ {
+  "id": "ibm-granite/granite-3.3-2b-instruct",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 336666,
+  "likes": 87,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3.3-2b-instruct"
+ },
+ {
+  "id": "microsoft/Phi-3-mini-4k-instruct",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 329745,
+  "likes": 1484,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/Phi-3-mini-4k-instruct"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-7B-Instruct-GGUF",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 328262,
+  "likes": 609,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF"
+ },
+ {
+  "id": "moonshotai/Kimi-K2-Instruct",
+  "org": "moonshotai",
+  "lic": "other",
+  "dl": 321177,
+  "likes": 3008,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/moonshotai/Kimi-K2-Instruct"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 320017,
+  "likes": 948,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
+ },
+ {
+  "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "org": "meta-llama",
+  "lic": "llama3",
+  "dl": 319771,
+  "likes": 5646,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-14B-Instruct-AWQ",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 312429,
+  "likes": 39,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct-AWQ"
+ },
+ {
+  "id": "deepseek-ai/deepseek-coder-7b-instruct-v1.5",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 300924,
+  "likes": 193,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-coder-7b-instruct-v1.5"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V3-0324",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 297246,
+  "likes": 3223,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3-0324"
+ },
+ {
+  "id": "HuggingFaceTB/SmolLM2-1.7B-Instruct",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 292513,
+  "likes": 766,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V3.1",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 283333,
+  "likes": 864,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.1"
+ },
+ {
+  "id": "zai-org/GLM-5.2",
+  "org": "zai-org",
+  "lic": "mit",
+  "dl": 274668,
+  "likes": 5196,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/zai-org/GLM-5.2"
+ },
+ {
+  "id": "meta-llama/Llama-3.2-3B",
+  "org": "meta-llama",
+  "lic": "llama3.2",
+  "dl": 264970,
+  "likes": 1071,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Llama-3.2-3B"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 264312,
+  "likes": 731,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B"
+ },
+ {
+  "id": "Qwen/Qwen2-0.5B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 250226,
+  "likes": 213,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2-0.5B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen2-7B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 245727,
+  "likes": 697,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2-7B-Instruct"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 243046,
+  "likes": 710,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 240318,
+  "likes": 170,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 239455,
+  "likes": 155,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF"
+ },
+ {
+  "id": "allenai/Olmo-3-7B-Think",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 237623,
+  "likes": 110,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/Olmo-3-7B-Think"
+ },
+ {
+  "id": "microsoft/Phi-3-mini-128k-instruct",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 237344,
+  "likes": 1712,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/Phi-3-mini-128k-instruct"
+ },
+ {
+  "id": "microsoft/codebert-base",
+  "org": "microsoft",
+  "lic": "nao-declarada",
+  "dl": 225990,
+  "likes": 301,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/microsoft/codebert-base"
+ },
+ {
+  "id": "allenai/Olmo-3-7B-Instruct",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 210413,
+  "likes": 159,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/Olmo-3-7B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen2-7B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 199933,
+  "likes": 180,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2-7B"
+ },
+ {
+  "id": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 199297,
+  "likes": 237,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen2-0.5B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 198594,
+  "likes": 181,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2-0.5B"
+ },
+ {
+  "id": "Qwen/Qwen2.5-72B-Instruct",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 197874,
+  "likes": 1034,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-72B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-14B-Instruct-GGUF",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 189286,
+  "likes": 267,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct-GGUF"
+ },
+ {
+  "id": "Qwen/Qwen1.5-1.8B-Chat",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 174872,
+  "likes": 85,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat"
+ },
+ {
+  "id": "google/gemma-2-2b-it",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 168117,
+  "likes": 1597,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-2-2b-it"
+ },
+ {
+  "id": "nvidia/NVIDIA-Nemotron-Nano-9B-v2",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 166653,
+  "likes": 532,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-R1-0528",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 165905,
+  "likes": 2492,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528"
+ },
+ {
+  "id": "mistralai/Devstral-Small-2-24B-Instruct-2512",
+  "org": "mistralai",
+  "lic": "apache-2.0",
+  "dl": 160305,
+  "likes": 712,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512"
+ },
+ {
+  "id": "Qwen/Qwen2.5-3B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 155466,
+  "likes": 221,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-3B"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 150475,
+  "likes": 906,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813"
+ },
+ {
+  "id": "Qwen/Qwen3-Next-80B-A3B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 143974,
+  "likes": 1072,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct"
+ },
+ {
+  "id": "microsoft/unixcoder-base",
+  "org": "microsoft",
+  "lic": "apache-2.0",
+  "dl": 143667,
+  "likes": 76,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/unixcoder-base"
+ },
+ {
+  "id": "allenai/Olmo-3-1025-7B",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 143084,
+  "likes": 92,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/Olmo-3-1025-7B"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V2-Lite",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 138324,
+  "likes": 210,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite"
+ },
+ {
+  "id": "tiiuae/falcon-7b",
+  "org": "tiiuae",
+  "lic": "apache-2.0",
+  "dl": 138176,
+  "likes": 1117,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/tiiuae/falcon-7b"
+ },
+ {
+  "id": "google/gemma-2-9b-it",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 134395,
+  "likes": 1155,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-2-9b-it"
+ },
+ {
+  "id": "meta-llama/Meta-Llama-3-8B",
+  "org": "meta-llama",
+  "lic": "llama3",
+  "dl": 133582,
+  "likes": 6772,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B"
+ },
+ {
+  "id": "Qwen/Qwen2-1.5B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 125128,
+  "likes": 115,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2-1.5B"
+ },
+ {
+  "id": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 125053,
+  "likes": 814,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507"
+ },
+ {
+  "id": "allenai/OLMo-2-0425-1B",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 117173,
+  "likes": 82,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/OLMo-2-0425-1B"
+ },
+ {
+  "id": "HuggingFaceTB/SmolLM2-360M",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 115368,
+  "likes": 143,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/SmolLM2-360M"
+ },
+ {
+  "id": "mistralai/Mistral-7B-Instruct-v0.1",
+  "org": "mistralai",
+  "lic": "apache-2.0",
+  "dl": 112815,
+  "likes": 1876,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1"
+ },
+ {
+  "id": "moonshotai/Kimi-Linear-48B-A3B-Instruct",
+  "org": "moonshotai",
+  "lic": "mit",
+  "dl": 108850,
+  "likes": 612,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen3-14B-Base",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 108765,
+  "likes": 69,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-14B-Base"
+ },
+ {
+  "id": "zai-org/GLM-4.5",
+  "org": "zai-org",
+  "lic": "mit",
+  "dl": 108584,
+  "likes": 1438,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/zai-org/GLM-4.5"
+ },
+ {
+  "id": "google/gemma-7b",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 108318,
+  "likes": 3463,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-7b"
+ },
+ {
+  "id": "nomic-ai/CodeRankEmbed",
+  "org": "nomic-ai",
+  "lic": "mit",
+  "dl": 107380,
+  "likes": 80,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nomic-ai/CodeRankEmbed"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-0.5B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 106011,
+  "likes": 91,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct"
+ },
+ {
+  "id": "deepseek-ai/deepseek-coder-6.7b-base",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 102677,
+  "likes": 149,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base"
+ },
+ {
+  "id": "ibm-granite/granite-3.1-3b-a800m-instruct",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 99702,
+  "likes": 32,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3.1-3b-a800m-instruct"
+ },
+ {
+  "id": "google/gemma-2-2b",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 99346,
+  "likes": 749,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-2-2b"
+ },
+ {
+  "id": "Qwen/Qwen2-1.5B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 97513,
+  "likes": 175,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2-1.5B-Instruct"
+ },
+ {
+  "id": "google/gemma-2b",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 95538,
+  "likes": 1265,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-2b"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-3B-Instruct-AWQ",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 95006,
+  "likes": 13,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-AWQ"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-3B-Instruct-GGUF",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 94393,
+  "likes": 186,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF"
+ },
+ {
+  "id": "meta-llama/Llama-3.1-70B-Instruct",
+  "org": "meta-llama",
+  "lic": "llama3.1",
+  "dl": 94235,
+  "likes": 1023,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct"
+ },
+ {
+  "id": "MiniMaxAI/MiniMax-M2",
+  "org": "MiniMaxAI",
+  "lic": "other",
+  "dl": 93301,
+  "likes": 1514,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2"
+ },
+ {
+  "id": "moonshotai/Kimi-K2.7-Code",
+  "org": "moonshotai",
+  "lic": "other",
+  "dl": 92678,
+  "likes": 1426,
+  "pipe": "image-text-to-text",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
+ },
+ {
+  "id": "Qwen/Qwen2.5-14B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 92102,
+  "likes": 174,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-14B"
+ },
+ {
+  "id": "meta-llama/Meta-Llama-3-70B",
+  "org": "meta-llama",
+  "lic": "llama3",
+  "dl": 91099,
+  "likes": 885,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B"
+ },
+ {
+  "id": "ibm-granite/granite-4.1-8b",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 86250,
+  "likes": 257,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.1-8b"
+ },
+ {
+  "id": "Qwen/Qwen2.5-7B-Instruct-1M",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 85022,
+  "likes": 389,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M"
+ },
+ {
+  "id": "HuggingFaceTB/SmolLM-135M",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 81091,
+  "likes": 277,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/SmolLM-135M"
+ },
+ {
+  "id": "Salesforce/Llama-xLAM-2-8b-fc-r",
+  "org": "Salesforce",
+  "lic": "cc-by-nc-4.0",
+  "dl": 78320,
+  "likes": 66,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/Salesforce/Llama-xLAM-2-8b-fc-r"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 77769,
+  "likes": 915,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
+ },
+ {
+  "id": "google/gemma-3-270m-it",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 77111,
+  "likes": 702,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-3-270m-it"
+ },
+ {
+  "id": "Qwen/Qwen1.5-7B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 77037,
+  "likes": 62,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-7B"
+ },
+ {
+  "id": "ibm-granite/granite-3.3-8b-instruct",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 76449,
+  "likes": 161,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3.3-8b-instruct"
+ },
+ {
+  "id": "HuggingFaceTB/SmolLM3-3B-Base",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 75268,
+  "likes": 179,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base"
+ },
+ {
+  "id": "nvidia/Llama-3_3-Nemotron-Super-49B-v1_5",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 74848,
+  "likes": 242,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1_5"
+ },
+ {
+  "id": "zai-org/GLM-4.7",
+  "org": "zai-org",
+  "lic": "mit",
+  "dl": 73598,
+  "likes": 2076,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/zai-org/GLM-4.7"
+ },
+ {
+  "id": "Qwen/Qwen1.5-MoE-A2.7B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 71603,
+  "likes": 237,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B"
+ },
+ {
+  "id": "ibm-granite/granite-4.2-8b",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 68870,
+  "likes": 110,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.2-8b"
+ },
+ {
+  "id": "google/gemma-3-270m",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 68525,
+  "likes": 1131,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-3-270m"
+ },
+ {
+  "id": "Qwen/Qwen-7B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 65104,
+  "likes": 407,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen-7B"
+ },
+ {
+  "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 64263,
+  "likes": 292,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB"
+ },
+ {
+  "id": "nvidia/Nemotron-H-8B-Base-8K",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 63784,
+  "likes": 63,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/Nemotron-H-8B-Base-8K"
+ },
+ {
+  "id": "Qwen/Qwen3-Coder-480B-A35B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 58931,
+  "likes": 1386,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct"
+ },
+ {
+  "id": "allenai/OLMoE-1B-7B-0924",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 58001,
+  "likes": 156,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/OLMoE-1B-7B-0924"
+ },
+ {
+  "id": "Qwen/Qwen3-30B-A3B-Thinking-2507",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 57355,
+  "likes": 391,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507"
+ },
+ {
+  "id": "Qwen/Qwen1.5-0.5B-Chat",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 55471,
+  "likes": 109,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat"
+ },
+ {
+  "id": "bigcode/tiny_starcoder_py",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 54462,
+  "likes": 74,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/tiny_starcoder_py"
+ },
+ {
+  "id": "allenai/OLMo-2-0425-1B-Instruct",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 52616,
+  "likes": 58,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/OLMo-2-0425-1B-Instruct"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V2-Lite-Chat",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 52140,
+  "likes": 173,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite-Chat"
+ },
+ {
+  "id": "ibm-granite/granite-3.2-8b-instruct",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 49209,
+  "likes": 92,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3.2-8b-instruct"
+ },
+ {
+  "id": "internlm/internlm-chat-7b",
+  "org": "internlm",
+  "lic": "nao-declarada",
+  "dl": 49162,
+  "likes": 101,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/internlm/internlm-chat-7b"
+ },
+ {
+  "id": "Qwen/Qwen3-Coder-Next-GGUF",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 48447,
+  "likes": 300,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next-GGUF"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-32B-Instruct-GGUF",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 46309,
+  "likes": 237,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct-GGUF"
+ },
+ {
+  "id": "moonshotai/Kimi-K2-Thinking",
+  "org": "moonshotai",
+  "lic": "other",
+  "dl": 45795,
+  "likes": 1731,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking"
+ },
+ {
+  "id": "nvidia/Qwen3-Next-80B-A3B-Instruct-NVFP4",
+  "org": "nvidia",
+  "lic": "apache-2.0",
+  "dl": 45582,
+  "likes": 46,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nvidia/Qwen3-Next-80B-A3B-Instruct-NVFP4"
+ },
+ {
+  "id": "Salesforce/codegen2-16B_P",
+  "org": "Salesforce",
+  "lic": "apache-2.0",
+  "dl": 45474,
+  "likes": 45,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen2-16B_P"
+ },
+ {
+  "id": "upstage/SOLAR-10.7B-Instruct-v1.0",
+  "org": "upstage",
+  "lic": "cc-by-nc-4.0",
+  "dl": 45380,
+  "likes": 660,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/upstage/SOLAR-10.7B-Instruct-v1.0"
+ },
+ {
+  "id": "internlm/internlm3-8b-instruct",
+  "org": "internlm",
+  "lic": "apache-2.0",
+  "dl": 44962,
+  "likes": 236,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/internlm/internlm3-8b-instruct"
+ },
+ {
+  "id": "internlm/internlm2-chat-7b",
+  "org": "internlm",
+  "lic": "other",
+  "dl": 44042,
+  "likes": 83,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/internlm/internlm2-chat-7b"
+ },
+ {
+  "id": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-Base-BF16",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 43379,
+  "likes": 138,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-Base-BF16"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V3.2-Exp",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 43323,
+  "likes": 1026,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp"
+ },
+ {
+  "id": "Qwen/Qwen3-Next-80B-A3B-Thinking",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 43105,
+  "likes": 503,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking"
+ },
+ {
+  "id": "nvidia/Qwen3-235B-A22B-NVFP4",
+  "org": "nvidia",
+  "lic": "apache-2.0",
+  "dl": 43041,
+  "likes": 28,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nvidia/Qwen3-235B-A22B-NVFP4"
+ },
+ {
+  "id": "microsoft/Phi-3.5-MoE-instruct",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 42998,
+  "likes": 590,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/Phi-3.5-MoE-instruct"
+ },
+ {
+  "id": "allenai/OLMo-2-1124-7B-Instruct",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 42946,
+  "likes": 51,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/OLMo-2-1124-7B-Instruct"
+ },
+ {
+  "id": "ibm-granite/granite-3b-code-base-2k",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 42499,
+  "likes": 38,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3b-code-base-2k"
+ },
+ {
+  "id": "nvidia/Qwen3.5-397B-A17B-NVFP4",
+  "org": "nvidia",
+  "lic": "apache-2.0",
+  "dl": 40903,
+  "likes": 113,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nvidia/Qwen3.5-397B-A17B-NVFP4"
+ },
+ {
+  "id": "allenai/OLMoE-1B-7B-0125-Instruct",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 39603,
+  "likes": 68,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/OLMoE-1B-7B-0125-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen1.5-32B-Chat",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 39466,
+  "likes": 115,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-32B-Chat"
+ },
+ {
+  "id": "meta-llama/Llama-3.1-405B",
+  "org": "meta-llama",
+  "lic": "llama3.1",
+  "dl": 39256,
+  "likes": 993,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Llama-3.1-405B"
+ },
+ {
+  "id": "microsoft/graphcodebert-base",
+  "org": "microsoft",
+  "lic": "nao-declarada",
+  "dl": 39252,
+  "likes": 99,
+  "pipe": "fill-mask",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/microsoft/graphcodebert-base"
+ },
+ {
+  "id": "meta-llama/Llama-3.1-70B",
+  "org": "meta-llama",
+  "lic": "llama3.1",
+  "dl": 39224,
+  "likes": 447,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Llama-3.1-70B"
+ },
+ {
+  "id": "microsoft/Phi-4-mini-reasoning",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 38552,
+  "likes": 251,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/Phi-4-mini-reasoning"
+ },
+ {
+  "id": "Qwen/Qwen-7B-Chat",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 38535,
+  "likes": 801,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen-7B-Chat"
+ },
+ {
+  "id": "nvidia/DeepSeek-V4-Pro-NVFP4",
+  "org": "nvidia",
+  "lic": "mit",
+  "dl": 37971,
+  "likes": 81,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-NVFP4"
+ },
+ {
+  "id": "Qwen/Qwen1.5-0.5B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 37879,
+  "likes": 183,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B"
+ },
+ {
+  "id": "ibm-granite/granite-4.1-30b",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 37080,
+  "likes": 148,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.1-30b"
+ },
+ {
+  "id": "moonshotai/Moonlight-16B-A3B-Instruct",
+  "org": "moonshotai",
+  "lic": "mit",
+  "dl": 36990,
+  "likes": 209,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct"
+ },
+ {
+  "id": "HuggingFaceTB/SmolLM-1.7B",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 36925,
+  "likes": 186,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/SmolLM-1.7B"
+ },
+ {
+  "id": "google/gemma-3-1b-pt",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 36585,
+  "likes": 221,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-3-1b-pt"
+ },
+ {
+  "id": "jinaai/jina-code-embeddings-0.5b",
+  "org": "jinaai",
+  "lic": "cc-by-nc-4.0",
+  "dl": 36490,
+  "likes": 20,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/jinaai/jina-code-embeddings-0.5b"
+ },
+ {
+  "id": "Qwen/QwQ-32B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 36402,
+  "likes": 2970,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/QwQ-32B"
+ },
+ {
+  "id": "ibm-granite/granite-4.0-1b-base",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 35947,
+  "likes": 34,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.0-1b-base"
+ },
+ {
+  "id": "HuggingFaceTB/SmolLM2-1.7B",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 35911,
+  "likes": 167,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B"
+ },
+ {
+  "id": "ibm-granite/granite-4.2-30b",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 35858,
+  "likes": 139,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.2-30b"
+ },
+ {
+  "id": "ibm-granite/granite-4.2-3b",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 35820,
+  "likes": 120,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.2-3b"
+ },
+ {
+  "id": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 34869,
+  "likes": 372,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4"
+ },
+ {
+  "id": "google/gemma-2-9b",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 34794,
+  "likes": 745,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-2-9b"
+ },
+ {
+  "id": "nvidia/Qwen3.5-397B-A17B-NVFP4-V2",
+  "org": "nvidia",
+  "lic": "apache-2.0",
+  "dl": 34736,
+  "likes": 18,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nvidia/Qwen3.5-397B-A17B-NVFP4-V2"
+ },
+ {
+  "id": "bigcode/starcoder2-7b",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 34676,
+  "likes": 224,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/starcoder2-7b"
+ },
+ {
+  "id": "Qwen/Qwen2.5-14B-Instruct-1M",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 34390,
+  "likes": 349,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M"
+ },
+ {
+  "id": "ibm-granite/granite-4.0-1b",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 34195,
+  "likes": 57,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.0-1b"
+ },
+ {
+  "id": "microsoft/Phi-4-reasoning",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 33546,
+  "likes": 234,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/Phi-4-reasoning"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 33179,
+  "likes": 40,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF"
+ },
+ {
+  "id": "meta-llama/Meta-Llama-3-70B-Instruct",
+  "org": "meta-llama",
+  "lic": "llama3",
+  "dl": 33144,
+  "likes": 1536,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct"
+ },
+ {
+  "id": "deepseek-ai/deepseek-coder-1.3b-instruct",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 32610,
+  "likes": 210,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-instruct"
+ },
+ {
+  "id": "tiiuae/falcon-7b-instruct",
+  "org": "tiiuae",
+  "lic": "apache-2.0",
+  "dl": 32303,
+  "likes": 1042,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/tiiuae/falcon-7b-instruct"
+ },
+ {
+  "id": "nvidia/Llama-3_3-Nemotron-Super-49B-v1",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 32272,
+  "likes": 332,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1"
+ },
+ {
+  "id": "nvidia/MiniMax-M3-NVFP4",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 32270,
+  "likes": 92,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/MiniMax-M3-NVFP4"
+ },
+ {
+  "id": "zai-org/GLM-5.3-BF16",
+  "org": "zai-org",
+  "lic": "other",
+  "dl": 32131,
+  "likes": 59,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/zai-org/GLM-5.3-BF16"
+ },
+ {
+  "id": "ibm-granite/granite-3.1-8b-instruct",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 32056,
+  "likes": 169,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3.1-8b-instruct"
+ },
+ {
+  "id": "upstage/Solar-Open-100B",
+  "org": "upstage",
+  "lic": "other",
+  "dl": 31621,
+  "likes": 497,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/upstage/Solar-Open-100B"
+ },
+ {
+  "id": "allenai/Olmo-3-7B-Instruct-SFT",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 29624,
+  "likes": 6,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/Olmo-3-7B-Instruct-SFT"
+ },
+ {
+  "id": "bigcode/starcoder2-3b",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 29368,
+  "likes": 227,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/starcoder2-3b"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-0.5B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 29349,
+  "likes": 71,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B"
+ },
+ {
+  "id": "allenai/OLMo-1B-hf",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 28802,
+  "likes": 29,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/OLMo-1B-hf"
+ },
+ {
+  "id": "Qwen/Qwen3-30B-A3B-Base",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 28669,
+  "likes": 87,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Base"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 28190,
+  "likes": 823,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B"
+ },
+ {
+  "id": "deepseek-ai/deepseek-coder-6.7b-instruct",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 27777,
+  "likes": 533,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-instruct"
+ },
+ {
+  "id": "deepseek-ai/deepseek-llm-7b-base",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 27747,
+  "likes": 170,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-llm-7b-base"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V2-Chat",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 27594,
+  "likes": 486,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat"
+ },
+ {
+  "id": "microsoft/Phi-tiny-MoE-instruct",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 27551,
+  "likes": 52,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/Phi-tiny-MoE-instruct"
+ },
+ {
+  "id": "zai-org/GLM-Z1-32B-0414",
+  "org": "zai-org",
+  "lic": "mit",
+  "dl": 26348,
+  "likes": 196,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/zai-org/GLM-Z1-32B-0414"
+ },
+ {
+  "id": "ibm-granite/granite-4.0-h-tiny",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 26080,
+  "likes": 216,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.0-h-tiny"
+ },
+ {
+  "id": "Qwen/Qwen1.5-MoE-A2.7B-Chat",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 26078,
+  "likes": 141,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B-Chat"
+ },
+ {
+  "id": "microsoft/maira-2",
+  "org": "microsoft",
+  "lic": "other",
+  "dl": 26047,
+  "likes": 92,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/microsoft/maira-2"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-3B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 25950,
+  "likes": 78,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B"
+ },
+ {
+  "id": "Qwen/Qwen3.8-2.4T-A95B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 25944,
+  "likes": 1347,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
+ },
+ {
+  "id": "zai-org/GLM-4.6",
+  "org": "zai-org",
+  "lic": "mit",
+  "dl": 25505,
+  "likes": 1247,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/zai-org/GLM-4.6"
+ },
+ {
+  "id": "HuggingFaceTB/SmolLM-135M-Instruct",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 25255,
+  "likes": 147,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/SmolLM-135M-Instruct"
+ },
+ {
+  "id": "MiniMaxAI/MiniMax-M1-40k",
+  "org": "MiniMaxAI",
+  "lic": "apache-2.0",
+  "dl": 25216,
+  "likes": 185,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-M1-40k"
+ },
+ {
+  "id": "ibm-granite/granite-4.0-micro",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 25099,
+  "likes": 274,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.0-micro"
+ },
+ {
+  "id": "internlm/internlm2-7b",
+  "org": "internlm",
+  "lic": "other",
+  "dl": 24534,
+  "likes": 43,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/internlm/internlm2-7b"
+ },
+ {
+  "id": "nvidia/Llama-3_3-Nemotron-Super-49B-v1_5-NVFP4",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 24148,
+  "likes": 27,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1_5-NVFP4"
+ },
+ {
+  "id": "nvidia/DeepSeek-R1-0528-NVFP4-v2",
+  "org": "nvidia",
+  "lic": "mit",
+  "dl": 24103,
+  "likes": 27,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nvidia/DeepSeek-R1-0528-NVFP4-v2"
+ },
+ {
+  "id": "google/gemma-7b-it",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 23964,
+  "likes": 1261,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-7b-it"
+ },
+ {
+  "id": "Qwen/Qwen2-72B-Instruct",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 23942,
+  "likes": 724,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen2-72B-Instruct"
+ },
+ {
+  "id": "tiiuae/Falcon-H1-3B-Instruct",
+  "org": "tiiuae",
+  "lic": "other",
+  "dl": 23888,
+  "likes": 18,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/tiiuae/Falcon-H1-3B-Instruct"
+ },
+ {
+  "id": "nvidia/Nemotron-Mini-4B-Instruct",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 23617,
+  "likes": 192,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/Nemotron-Mini-4B-Instruct"
+ },
+ {
+  "id": "deepseek-ai/deepseek-moe-16b-chat",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 23056,
+  "likes": 177,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-moe-16b-chat"
+ },
+ {
+  "id": "01-ai/Yi-34B-Chat",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 22886,
+  "likes": 358,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-34B-Chat"
+ },
+ {
+  "id": "moonshotai/Kimi-K2-Base",
+  "org": "moonshotai",
+  "lic": "other",
+  "dl": 22562,
+  "likes": 306,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/moonshotai/Kimi-K2-Base"
+ },
+ {
+  "id": "internlm/internlm2-chat-20b",
+  "org": "internlm",
+  "lic": "other",
+  "dl": 22100,
+  "likes": 88,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/internlm/internlm2-chat-20b"
+ },
+ {
+  "id": "internlm/internlm2-20b",
+  "org": "internlm",
+  "lic": "other",
+  "dl": 21795,
+  "likes": 59,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/internlm/internlm2-20b"
+ },
+ {
+  "id": "google/gemma-2-27b-it",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 21671,
+  "likes": 577,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-2-27b-it"
+ },
+ {
+  "id": "internlm/internlm2-base-7b",
+  "org": "internlm",
+  "lic": "other",
+  "dl": 21613,
+  "likes": 10,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/internlm/internlm2-base-7b"
+ },
+ {
+  "id": "google/medgemma-27b-text-it",
+  "org": "google",
+  "lic": "other",
+  "dl": 21240,
+  "likes": 504,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/medgemma-27b-text-it"
+ },
+ {
+  "id": "Qwen/Qwen2-72B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 21221,
+  "likes": 207,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen2-72B"
+ },
+ {
+  "id": "ibm-granite/granite-3.0-1b-a400m-instruct",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 20258,
+  "likes": 21,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3.0-1b-a400m-instruct"
+ },
+ {
+  "id": "Salesforce/codet5-small",
+  "org": "Salesforce",
+  "lic": "apache-2.0",
+  "dl": 20235,
+  "likes": 81,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-small"
+ },
+ {
+  "id": "allenai/Olmo-3.1-32B-Instruct",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 20101,
+  "likes": 88,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/Olmo-3.1-32B-Instruct"
+ },
+ {
+  "id": "01-ai/Yi-6B-Chat",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 20074,
+  "likes": 72,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-6B-Chat"
+ },
+ {
+  "id": "google/codegemma-7b-it",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 20060,
+  "likes": 265,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-7b-it"
+ },
+ {
+  "id": "moonshotai/Moonlight-16B-A3B",
+  "org": "moonshotai",
+  "lic": "mit",
+  "dl": 20020,
+  "likes": 118,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/moonshotai/Moonlight-16B-A3B"
+ },
+ {
+  "id": "nvidia/Nemotron-H-56B-Base-8K",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 19667,
+  "likes": 37,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/Nemotron-H-56B-Base-8K"
+ },
+ {
+  "id": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-Base-BF16",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 19630,
+  "likes": 28,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-Base-BF16"
+ },
+ {
+  "id": "allenai/Olmo-3.1-32B-Think",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 19569,
+  "likes": 119,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/Olmo-3.1-32B-Think"
+ },
+ {
+  "id": "allenai/Olmo-3-7B-Instruct-DPO",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 19462,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/Olmo-3-7B-Instruct-DPO"
+ },
+ {
+  "id": "stabilityai/stablelm-zephyr-3b",
+  "org": "stabilityai",
+  "lic": "other",
+  "dl": 19393,
+  "likes": 260,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/stabilityai/stablelm-zephyr-3b"
+ },
+ {
+  "id": "mistralai/Mamba-Codestral-7B-v0.1",
+  "org": "mistralai",
+  "lic": "apache-2.0",
+  "dl": 18602,
+  "likes": 630,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/mistralai/Mamba-Codestral-7B-v0.1"
+ },
+ {
+  "id": "nvidia/Mistral-Medium-3.5-128B-NVFP4",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 18509,
+  "likes": 35,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/Mistral-Medium-3.5-128B-NVFP4"
+ },
+ {
+  "id": "ibm-granite/granite-4.0-h-small",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 18308,
+  "likes": 312,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.0-h-small"
+ },
+ {
+  "id": "deepseek-ai/deepseek-llm-7b-chat",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 18049,
+  "likes": 247,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-llm-7b-chat"
+ },
+ {
+  "id": "Qwen/Qwen2.5-32B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 17908,
+  "likes": 194,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-32B"
+ },
+ {
+  "id": "internlm/internlm2-base-20b",
+  "org": "internlm",
+  "lic": "other",
+  "dl": 17699,
+  "likes": 8,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/internlm/internlm2-base-20b"
+ },
+ {
+  "id": "microsoft/biogpt",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 17658,
+  "likes": 316,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/biogpt"
+ },
+ {
+  "id": "ibm-granite/granite-4.0-350m",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 17494,
+  "likes": 72,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.0-350m"
+ },
+ {
+  "id": "01-ai/Yi-1.5-9B-Chat",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 17435,
+  "likes": 149,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-1.5-9B-Chat"
+ },
+ {
+  "id": "ibm-granite/granite-3.1-2b-instruct",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 17389,
+  "likes": 57,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3.1-2b-instruct"
+ },
+ {
+  "id": "Salesforce/codegen-350M-mono",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 17291,
+  "likes": 101,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen-350M-mono"
+ },
+ {
+  "id": "zai-org/GLM-4-9B-0414",
+  "org": "zai-org",
+  "lic": "mit",
+  "dl": 16976,
+  "likes": 111,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/zai-org/GLM-4-9B-0414"
+ },
+ {
+  "id": "deepseek-ai/deepseek-coder-1.3b-base",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 16320,
+  "likes": 136,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base"
+ },
+ {
+  "id": "upstage/SOLAR-0-70b-16bit",
+  "org": "upstage",
+  "lic": "nao-declarada",
+  "dl": 15720,
+  "likes": 260,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/upstage/SOLAR-0-70b-16bit"
+ },
+ {
+  "id": "Qwen/Qwen2-57B-A14B-Instruct",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 15715,
+  "likes": 89,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2-57B-A14B-Instruct"
+ },
+ {
+  "id": "Qwen/Qwen1.5-1.8B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 15530,
+  "likes": 71,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B"
+ },
+ {
+  "id": "Qwen/Qwen1.5-4B-Chat",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 15483,
+  "likes": 53,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat"
+ },
+ {
+  "id": "Salesforce/codet5p-220m",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 15354,
+  "likes": 34,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5p-220m"
+ },
+ {
+  "id": "Salesforce/codet5p-110m-embedding",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 15297,
+  "likes": 69,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5p-110m-embedding"
+ },
+ {
+  "id": "01-ai/Yi-1.5-6B",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 15215,
+  "likes": 32,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-1.5-6B"
+ },
+ {
+  "id": "allenai/Olmo-3-1125-32B",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 15001,
+  "likes": 128,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/Olmo-3-1125-32B"
+ },
+ {
+  "id": "microsoft/Phi-3-medium-4k-instruct",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 14997,
+  "likes": 231,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/Phi-3-medium-4k-instruct"
+ },
+ {
+  "id": "bigcode/starcoder2-15b",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 14828,
+  "likes": 684,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/starcoder2-15b"
+ },
+ {
+  "id": "nvidia/DeepSeek-V4-Flash-NVFP4",
+  "org": "nvidia",
+  "lic": "mit",
+  "dl": 14750,
+  "likes": 120,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nvidia/DeepSeek-V4-Flash-NVFP4"
+ },
+ {
+  "id": "01-ai/Yi-1.5-9B",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 14600,
+  "likes": 54,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-1.5-9B"
+ },
+ {
+  "id": "upstage/SOLAR-10.7B-v1.0",
+  "org": "upstage",
+  "lic": "apache-2.0",
+  "dl": 14321,
+  "likes": 324,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/upstage/SOLAR-10.7B-v1.0"
+ },
+ {
+  "id": "01-ai/Yi-6B",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 14303,
+  "likes": 376,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-6B"
+ },
+ {
+  "id": "moonshotai/Kimi-K2-Instruct-0905",
+  "org": "moonshotai",
+  "lic": "other",
+  "dl": 14148,
+  "likes": 790,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905"
+ },
+ {
+  "id": "ibm-granite/granite-3.0-8b-instruct",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 14073,
+  "likes": 209,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3.0-8b-instruct"
+ },
+ {
+  "id": "01-ai/Yi-1.5-34B-Chat",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 13949,
+  "likes": 280,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-1.5-34B-Chat"
+ },
+ {
+  "id": "internlm/internlm2_5-7b-chat",
+  "org": "internlm",
+  "lic": "other",
+  "dl": 13836,
+  "likes": 202,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/internlm/internlm2_5-7b-chat"
+ },
+ {
+  "id": "stabilityai/stablelm-3b-4e1t",
+  "org": "stabilityai",
+  "lic": "cc-by-sa-4.0",
+  "dl": 13743,
+  "likes": 316,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/stabilityai/stablelm-3b-4e1t"
+ },
+ {
+  "id": "inclusionAI/Ling-3.0-tiny",
+  "org": "inclusionAI",
+  "lic": "mit",
+  "dl": 13721,
+  "likes": 558,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/inclusionAI/Ling-3.0-tiny"
+ },
+ {
+  "id": "google/gemma-2b-it",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 13681,
+  "likes": 973,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/gemma-2b-it"
+ },
+ {
+  "id": "google/functiongemma-270m-it",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 13385,
+  "likes": 1115,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/functiongemma-270m-it"
+ },
+ {
+  "id": "JetBrains/Mellum2-12B-A2.5B-Instruct",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 13361,
+  "likes": 91,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Instruct"
+ },
+ {
+  "id": "microsoft/bitnet-b1.58-2B-4T",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 13291,
+  "likes": 1515,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/bitnet-b1.58-2B-4T"
+ },
+ {
+  "id": "Salesforce/ctrl",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 13256,
+  "likes": 19,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/ctrl"
+ },
+ {
+  "id": "Salesforce/codet5-base",
+  "org": "Salesforce",
+  "lic": "apache-2.0",
+  "dl": 13195,
+  "likes": 136,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base"
+ },
+ {
+  "id": "nvidia/Llama-3.1-Nemotron-70B-Instruct-HF",
+  "org": "nvidia",
+  "lic": "llama3.1",
+  "dl": 13195,
+  "likes": 2072,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF"
+ },
+ {
+  "id": "ibm-granite/granite-4.1-3b-base",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 13105,
+  "likes": 25,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.1-3b-base"
+ },
+ {
+  "id": "MiniMaxAI/MiniMax-M2.1",
+  "org": "MiniMaxAI",
+  "lic": "other",
+  "dl": 13074,
+  "likes": 1374,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.1"
+ },
+ {
+  "id": "ibm-granite/granite-4.1-8b-base",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 12938,
+  "likes": 28,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.1-8b-base"
+ },
+ {
+  "id": "allenai/Olmo-Hybrid-7B",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 12718,
+  "likes": 66,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/Olmo-Hybrid-7B"
+ },
+ {
+  "id": "nvidia/DeepSeek-V3-0324-NVFP4",
+  "org": "nvidia",
+  "lic": "mit",
+  "dl": 12454,
+  "likes": 23,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nvidia/DeepSeek-V3-0324-NVFP4"
+ },
+ {
+  "id": "Qwen/Qwen3-235B-A22B-Thinking-2507",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 12407,
+  "likes": 419,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507"
+ },
+ {
+  "id": "allenai/Olmo-3-32B-Think",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 12360,
+  "likes": 177,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/Olmo-3-32B-Think"
+ },
+ {
+  "id": "Qwen/Qwen1.5-14B-Chat",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 12315,
+  "likes": 118,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-14B-Chat"
+ },
+ {
+  "id": "nvidia/Llama3-ChatQA-1.5-8B",
+  "org": "nvidia",
+  "lic": "llama3",
+  "dl": 12104,
+  "likes": 558,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/Llama3-ChatQA-1.5-8B"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V3.1-Terminus",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 12083,
+  "likes": 386,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Terminus"
+ },
+ {
+  "id": "ibm-granite/granite-4.0-tiny-preview",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 11832,
+  "likes": 184,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-4.0-tiny-preview"
+ },
+ {
+  "id": "tiiuae/Falcon3-7B-Instruct",
+  "org": "tiiuae",
+  "lic": "other",
+  "dl": 11669,
+  "likes": 80,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/tiiuae/Falcon3-7B-Instruct"
+ },
+ {
+  "id": "HuggingFaceTB/SmolLM-360M",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 11614,
+  "likes": 74,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/SmolLM-360M"
+ },
+ {
+  "id": "Qwen/Qwen1.5-72B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 11449,
+  "likes": 69,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-72B"
+ },
+ {
+  "id": "ibm-granite/granite-3.1-1b-a400m-instruct",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 11435,
+  "likes": 25,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3.1-1b-a400m-instruct"
+ },
+ {
+  "id": "Qwen/Qwen2-57B-A14B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 11332,
+  "likes": 67,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2-57B-A14B"
+ },
+ {
+  "id": "microsoft/Phi-3-medium-128k-instruct",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 11280,
+  "likes": 395,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/Phi-3-medium-128k-instruct"
+ },
+ {
+  "id": "allenai/Olmo-3.1-32B-Instruct-DPO",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 11276,
+  "likes": 6,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/Olmo-3.1-32B-Instruct-DPO"
+ },
+ {
+  "id": "tiiuae/falcon-mamba-tiny-dev",
+  "org": "tiiuae",
+  "lic": "nao-declarada",
+  "dl": 11263,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/tiiuae/falcon-mamba-tiny-dev"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V3.1-Base",
+  "org": "deepseek-ai",
+  "lic": "mit",
+  "dl": 11208,
+  "likes": 1026,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base"
+ },
+ {
+  "id": "nvidia/Qwen3.8-2.4T-A95B-NVFP4",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 11188,
+  "likes": 24,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/Qwen3.8-2.4T-A95B-NVFP4"
+ },
+ {
+  "id": "01-ai/Yi-6B-200K",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 11153,
+  "likes": 172,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-6B-200K"
+ },
+ {
+  "id": "01-ai/Yi-34B",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 11007,
+  "likes": 1315,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-34B"
+ },
+ {
+  "id": "Qwen/Qwen1.5-32B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 10969,
+  "likes": 93,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-32B"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-V2",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 10941,
+  "likes": 359,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V2"
+ },
+ {
+  "id": "tiiuae/falcon-40b-instruct",
+  "org": "tiiuae",
+  "lic": "apache-2.0",
+  "dl": 10927,
+  "likes": 1186,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/tiiuae/falcon-40b-instruct"
+ },
+ {
+  "id": "Qwen/Qwen1.5-72B-Chat",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 10909,
+  "likes": 224,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-72B-Chat"
+ },
+ {
+  "id": "stabilityai/stablelm-2-1_6b",
+  "org": "stabilityai",
+  "lic": "other",
+  "dl": 10656,
+  "likes": 196,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/stabilityai/stablelm-2-1_6b"
+ },
+ {
+  "id": "deepseek-ai/deepseek-llm-67b-base",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 10538,
+  "likes": 152,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-llm-67b-base"
+ },
+ {
+  "id": "Qwen/Qwen1.5-4B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 10484,
+  "likes": 42,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen1.5-4B"
+ },
+ {
+  "id": "deepseek-ai/deepseek-coder-33b-instruct",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 10367,
+  "likes": 606,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-coder-33b-instruct"
+ },
+ {
+  "id": "tiiuae/Falcon-H1-0.5B-Base",
+  "org": "tiiuae",
+  "lic": "other",
+  "dl": 10160,
+  "likes": 17,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/tiiuae/Falcon-H1-0.5B-Base"
+ },
+ {
+  "id": "01-ai/Yi-1.5-34B",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 10075,
+  "likes": 51,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-1.5-34B"
+ },
+ {
+  "id": "01-ai/Yi-Coder-9B-Chat",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 10003,
+  "likes": 219,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-Coder-9B-Chat"
+ },
+ {
+  "id": "Salesforce/SFR-Embedding-Code-400M_R",
+  "org": "Salesforce",
+  "lic": "cc-by-nc-4.0",
+  "dl": 9641,
+  "likes": 36,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/Salesforce/SFR-Embedding-Code-400M_R"
+ },
+ {
+  "id": "01-ai/Yi-Coder-9B",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 9222,
+  "likes": 46,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-Coder-9B"
+ },
+ {
+  "id": "JetBrains/Mellum2.1-12B-A2.5B-Thinking",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 8898,
+  "likes": 181,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking"
+ },
+ {
+  "id": "meta-llama/CodeLlama-7b-Python-hf",
+  "org": "meta-llama",
+  "lic": "llama2",
+  "dl": 8411,
+  "likes": 28,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/CodeLlama-7b-Python-hf"
+ },
+ {
+  "id": "JetBrains/Mellum2-12B-A2.5B-Base",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 8323,
+  "likes": 31,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Base"
+ },
+ {
+  "id": "jinaai/jina-code-embeddings-1.5b",
+  "org": "jinaai",
+  "lic": "cc-by-nc-4.0",
+  "dl": 8133,
+  "likes": 54,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/jinaai/jina-code-embeddings-1.5b"
+ },
+ {
+  "id": "mistralai/Devstral-Small-2507_gguf",
+  "org": "mistralai",
+  "lic": "apache-2.0",
+  "dl": 8078,
+  "likes": 67,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/mistralai/Devstral-Small-2507_gguf"
+ },
+ {
+  "id": "bigcode/starcoderbase-1b",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 7731,
+  "likes": 115,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/starcoderbase-1b"
+ },
+ {
+  "id": "bigcode/gpt_bigcode-santacoder",
+  "org": "bigcode",
+  "lic": "openrail",
+  "dl": 7299,
+  "likes": 28,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/gpt_bigcode-santacoder"
+ },
+ {
+  "id": "mistralai/Devstral-Small-2507",
+  "org": "mistralai",
+  "lic": "apache-2.0",
+  "dl": 7152,
+  "likes": 377,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/mistralai/Devstral-Small-2507"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-Coder-V2-Lite-Base",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 7132,
+  "likes": 149,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base"
+ },
+ {
+  "id": "stabilityai/stable-code-3b",
+  "org": "stabilityai",
+  "lic": "other",
+  "dl": 7043,
+  "likes": 670,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/stabilityai/stable-code-3b"
+ },
+ {
+  "id": "mistralai/Devstral-2-123B-Instruct-2512",
+  "org": "mistralai",
+  "lic": "other",
+  "dl": 6090,
+  "likes": 360,
+  "pipe": "",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512"
+ },
+ {
+  "id": "bigcode/santacoder",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 5762,
+  "likes": 337,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/santacoder"
+ },
+ {
+  "id": "meta-llama/CodeLlama-13b-Instruct-hf",
+  "org": "meta-llama",
+  "lic": "llama2",
+  "dl": 4727,
+  "likes": 28,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/CodeLlama-13b-Instruct-hf"
+ },
+ {
+  "id": "mistralai/Codestral-22B-v0.1",
+  "org": "mistralai",
+  "lic": "other",
+  "dl": 4446,
+  "likes": 1364,
+  "pipe": "",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/mistralai/Codestral-22B-v0.1"
+ },
+ {
+  "id": "JetBrains/Mellum2-12B-A2.5B-Thinking-SFT",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 4388,
+  "likes": 25,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking-SFT"
+ },
+ {
+  "id": "Salesforce/codegen-2B-mono",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 4081,
+  "likes": 21,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen-2B-mono"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int4",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 3988,
+  "likes": 15,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int4"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-Coder-V2-Instruct",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 3882,
+  "likes": 719,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct"
+ },
+ {
+  "id": "Salesforce/codet5p-770m",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 3831,
+  "likes": 21,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5p-770m"
+ },
+ {
+  "id": "ByteDance-Seed/Seed-Coder-8B-Instruct",
+  "org": "ByteDance-Seed",
+  "lic": "mit",
+  "dl": 3739,
+  "likes": 119,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Instruct"
+ },
+ {
+  "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 3711,
+  "likes": 347,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-Coder-V2-Base",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 3708,
+  "likes": 97,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Base"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-14B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 3656,
+  "likes": 105,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B"
+ },
+ {
+  "id": "meta-llama/CodeLlama-34b-hf",
+  "org": "meta-llama",
+  "lic": "llama2",
+  "dl": 3599,
+  "likes": 20,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/CodeLlama-34b-hf"
+ },
+ {
+  "id": "microsoft/unixcoder-base-nine",
+  "org": "microsoft",
+  "lic": "apache-2.0",
+  "dl": 3308,
+  "likes": 28,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/unixcoder-base-nine"
+ },
+ {
+  "id": "ibm-granite/granite-8b-code-instruct-4k-GGUF",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 3249,
+  "likes": 12,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-8b-code-instruct-4k-GGUF"
+ },
+ {
+  "id": "Qwen/CodeQwen1.5-7B-Chat",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 3207,
+  "likes": 359,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat"
+ },
+ {
+  "id": "google/codegemma-7b",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 2925,
+  "likes": 225,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-7b"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-1.5B-Instruct-AWQ",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 2892,
+  "likes": 10,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-AWQ"
+ },
+ {
+  "id": "BAAI/bge-code-v1",
+  "org": "BAAI",
+  "lic": "apache-2.0",
+  "dl": 2884,
+  "likes": 54,
+  "pipe": "sentence-similarity",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/BAAI/bge-code-v1"
+ },
+ {
+  "id": "microsoft/codebert-base-mlm",
+  "org": "microsoft",
+  "lic": "nao-declarada",
+  "dl": 2803,
+  "likes": 51,
+  "pipe": "fill-mask",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/microsoft/codebert-base-mlm"
+ },
+ {
+  "id": "meta-llama/CodeLlama-7b-Instruct-hf",
+  "org": "meta-llama",
+  "lic": "llama2",
+  "dl": 2801,
+  "likes": 65,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/CodeLlama-7b-Instruct-hf"
+ },
+ {
+  "id": "ibm-granite/granite-8b-code-base-4k",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 2657,
+  "likes": 32,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-8b-code-base-4k"
+ },
+ {
+  "id": "nomic-ai/nomic-embed-code-GGUF",
+  "org": "nomic-ai",
+  "lic": "apache-2.0",
+  "dl": 2555,
+  "likes": 16,
+  "pipe": "sentence-similarity",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nomic-ai/nomic-embed-code-GGUF"
+ },
+ {
+  "id": "stabilityai/stable-code-instruct-3b",
+  "org": "stabilityai",
+  "lic": "other",
+  "dl": 2515,
+  "likes": 188,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/stabilityai/stable-code-instruct-3b"
+ },
+ {
+  "id": "JetBrains/Mellum-4b-base",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 2420,
+  "likes": 458,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum-4b-base"
+ },
+ {
+  "id": "Salesforce/codegen-350M-multi",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 2412,
+  "likes": 62,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen-350M-multi"
+ },
+ {
+  "id": "mistralai/Devstral-Small-2505_gguf",
+  "org": "mistralai",
+  "lic": "apache-2.0",
+  "dl": 2314,
+  "likes": 92,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/mistralai/Devstral-Small-2505_gguf"
+ },
+ {
+  "id": "jinaai/jina-embeddings-v4-text-code-GGUF",
+  "org": "jinaai",
+  "lic": "nao-declarada",
+  "dl": 2291,
+  "likes": 12,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/jinaai/jina-embeddings-v4-text-code-GGUF"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-32B",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 2134,
+  "likes": 189,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B"
+ },
+ {
+  "id": "mistralai/Devstral-Small-2505",
+  "org": "mistralai",
+  "lic": "apache-2.0",
+  "dl": 2061,
+  "likes": 879,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/mistralai/Devstral-Small-2505"
+ },
+ {
+  "id": "microsoft/AesCode-8B",
+  "org": "microsoft",
+  "lic": "apache-2.0",
+  "dl": 2032,
+  "likes": 80,
+  "pipe": "image-text-to-text",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/AesCode-8B"
+ },
+ {
+  "id": "jinaai/jina-code-embeddings-1.5b-GGUF",
+  "org": "jinaai",
+  "lic": "cc-by-nc-4.0",
+  "dl": 1911,
+  "likes": 15,
+  "pipe": "",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/jinaai/jina-code-embeddings-1.5b-GGUF"
+ },
+ {
+  "id": "microsoft/AesCode-32B",
+  "org": "microsoft",
+  "lic": "apache-2.0",
+  "dl": 1792,
+  "likes": 57,
+  "pipe": "image-text-to-text",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/AesCode-32B"
+ },
+ {
+  "id": "bigcode/starcoder",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 1789,
+  "likes": 2986,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/starcoder"
+ },
+ {
+  "id": "Salesforce/codegen-2B-multi",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 1770,
+  "likes": 43,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen-2B-multi"
+ },
+ {
+  "id": "Salesforce/codet5-large",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 1699,
+  "likes": 74,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-large"
+ },
+ {
+  "id": "ibm-granite/granite-8b-code-instruct-128k",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 1614,
+  "likes": 25,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-8b-code-instruct-128k"
+ },
+ {
+  "id": "Qwen/Qwen3-Coder-Next-Base",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 1592,
+  "likes": 83,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next-Base"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-32B-Instruct-GPTQ-Int8",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 1505,
+  "likes": 31,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct-GPTQ-Int8"
+ },
+ {
+  "id": "google/codegemma-2b",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 1472,
+  "likes": 101,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-2b"
+ },
+ {
+  "id": "bigcode/starcoder2-15b-instruct-v0.1",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 1429,
+  "likes": 106,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1"
+ },
+ {
+  "id": "deepseek-ai/deepseek-coder-33b-base",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 1416,
+  "likes": 94,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-coder-33b-base"
+ },
+ {
+  "id": "microsoft/NextCoder-7B",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 1402,
+  "likes": 42,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/NextCoder-7B"
+ },
+ {
+  "id": "ibm-granite/granite-20b-code-instruct-8k",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 1395,
+  "likes": 44,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-20b-code-instruct-8k"
+ },
+ {
+  "id": "ibm-granite/granite-20b-code-base-8k",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 1289,
+  "likes": 14,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-20b-code-base-8k"
+ },
+ {
+  "id": "ByteDance-Seed/Seed-Coder-8B-Base",
+  "org": "ByteDance-Seed",
+  "lic": "mit",
+  "dl": 1287,
+  "likes": 74,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Base"
+ },
+ {
+  "id": "ibm-granite/granite-3b-code-instruct-2k",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 1276,
+  "likes": 40,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3b-code-instruct-2k"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-32B-Instruct-GPTQ-Int4",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 1268,
+  "likes": 32,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct-GPTQ-Int4"
+ },
+ {
+  "id": "Salesforce/codet5p-16b",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 1237,
+  "likes": 67,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5p-16b"
+ },
+ {
+  "id": "nvidia/OpenCodeReasoning-Nemotron-7B",
+  "org": "nvidia",
+  "lic": "apache-2.0",
+  "dl": 1225,
+  "likes": 44,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-7B"
+ },
+ {
+  "id": "ByteDance-Seed/Seed-Coder-8B-Reasoning",
+  "org": "ByteDance-Seed",
+  "lic": "mit",
+  "dl": 1203,
+  "likes": 154,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Reasoning"
+ },
+ {
+  "id": "Salesforce/codegen2-1B_P",
+  "org": "Salesforce",
+  "lic": "apache-2.0",
+  "dl": 1117,
+  "likes": 42,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen2-1B_P"
+ },
+ {
+  "id": "ibm-granite/granite-3b-code-instruct-128k",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 1114,
+  "likes": 13,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3b-code-instruct-128k"
+ },
+ {
+  "id": "Salesforce/codet5-base-multi-sum",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 1107,
+  "likes": 32,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-multi-sum"
+ },
+ {
+  "id": "internlm/JanusCoder-14B",
+  "org": "internlm",
+  "lic": "apache-2.0",
+  "dl": 1090,
+  "likes": 35,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/internlm/JanusCoder-14B"
+ },
+ {
+  "id": "deepseek-ai/DeepSeek-Coder-V2-Instruct-0724",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 1088,
+  "likes": 129,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct-0724"
+ },
+ {
+  "id": "jinaai/jina-code-embeddings-0.5b-GGUF",
+  "org": "jinaai",
+  "lic": "cc-by-nc-4.0",
+  "dl": 1078,
+  "likes": 5,
+  "pipe": "",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/jinaai/jina-code-embeddings-0.5b-GGUF"
+ },
+ {
+  "id": "01-ai/Yi-Coder-1.5B-Chat",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 1069,
+  "likes": 42,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-Coder-1.5B-Chat"
+ },
+ {
+  "id": "deepseek-ai/deepseek-coder-7b-base-v1.5",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 1062,
+  "likes": 65,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-coder-7b-base-v1.5"
+ },
+ {
+  "id": "deepseek-ai/deepseek-coder-5.7bmqa-base",
+  "org": "deepseek-ai",
+  "lic": "other",
+  "dl": 1026,
+  "likes": 24,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/deepseek-ai/deepseek-coder-5.7bmqa-base"
+ },
+ {
+  "id": "internlm/JanusCoderV-7B",
+  "org": "internlm",
+  "lic": "apache-2.0",
+  "dl": 1019,
+  "likes": 15,
+  "pipe": "image-text-to-text",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/internlm/JanusCoderV-7B"
+ },
+ {
+  "id": "ibm-granite/granite-34b-code-instruct-8k",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 965,
+  "likes": 79,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-34b-code-instruct-8k"
+ },
+ {
+  "id": "tiiuae/Falcon-H1-Tiny-Coder-90M-GGUF",
+  "org": "tiiuae",
+  "lic": "other",
+  "dl": 947,
+  "likes": 20,
+  "pipe": "",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/tiiuae/Falcon-H1-Tiny-Coder-90M-GGUF"
+ },
+ {
+  "id": "microsoft/NextCoder-14B",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 939,
+  "likes": 26,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/NextCoder-14B"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-7B-Instruct-GPTQ-Int8",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 904,
+  "likes": 14,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GPTQ-Int8"
+ },
+ {
+  "id": "deepseek-ai/ESFT-token-code-lite",
+  "org": "deepseek-ai",
+  "lic": "nao-declarada",
+  "dl": 885,
+  "likes": 18,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/deepseek-ai/ESFT-token-code-lite"
+ },
+ {
+  "id": "deepseek-ai/ESFT-gate-code-lite",
+  "org": "deepseek-ai",
+  "lic": "nao-declarada",
+  "dl": 851,
+  "likes": 16,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/deepseek-ai/ESFT-gate-code-lite"
+ },
+ {
+  "id": "Qwen/CodeQwen1.5-7B",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 835,
+  "likes": 112,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/CodeQwen1.5-7B"
+ },
+ {
+  "id": "Salesforce/SFR-Embedding-Code-2B_R",
+  "org": "Salesforce",
+  "lic": "cc-by-nc-4.0",
+  "dl": 831,
+  "likes": 51,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/Salesforce/SFR-Embedding-Code-2B_R"
+ },
+ {
+  "id": "inclusionAI/Ling-Coder-lite",
+  "org": "inclusionAI",
+  "lic": "mit",
+  "dl": 817,
+  "likes": 54,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/inclusionAI/Ling-Coder-lite"
+ },
+ {
+  "id": "internlm/JanusCoderV-8B",
+  "org": "internlm",
+  "lic": "apache-2.0",
+  "dl": 797,
+  "likes": 14,
+  "pipe": "image-text-to-text",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/internlm/JanusCoderV-8B"
+ },
+ {
+  "id": "stabilityai/stablecode-completion-alpha-3b-4k",
+  "org": "stabilityai",
+  "lic": "apache-2.0",
+  "dl": 778,
+  "likes": 278,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/stabilityai/stablecode-completion-alpha-3b-4k"
+ },
+ {
+  "id": "ByteDance-Seed/Seed-Coder-8B-Reasoning-bf16",
+  "org": "ByteDance-Seed",
+  "lic": "mit",
+  "dl": 765,
+  "likes": 23,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Reasoning-bf16"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int8",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 757,
+  "likes": 14,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int8"
+ },
+ {
+  "id": "JetBrains/Mellum-4b-sft-all",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 746,
+  "likes": 17,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum-4b-sft-all"
+ },
+ {
+  "id": "microsoft/wavecoder-ultra-6.7b",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 743,
+  "likes": 86,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/wavecoder-ultra-6.7b"
+ },
+ {
+  "id": "ibm-granite/granite-8b-code-instruct-4k",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 741,
+  "likes": 115,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-8b-code-instruct-4k"
+ },
+ {
+  "id": "nvidia/OpenCodeReasoning-Nemotron-1.1-7B",
+  "org": "nvidia",
+  "lic": "nao-declarada",
+  "dl": 735,
+  "likes": 19,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-1.1-7B"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-3B-Instruct-GPTQ-Int4",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 730,
+  "likes": 8,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GPTQ-Int4"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-0.5B-Instruct-AWQ",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 718,
+  "likes": 14,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-AWQ"
+ },
+ {
+  "id": "Salesforce/E1-Code-14B",
+  "org": "Salesforce",
+  "lic": "cc-by-nc-4.0",
+  "dl": 698,
+  "likes": 7,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/Salesforce/E1-Code-14B"
+ },
+ {
+  "id": "ibm-granite/granite-34b-code-base-8k",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 684,
+  "likes": 21,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-34b-code-base-8k"
+ },
+ {
+  "id": "Salesforce/codegen25-7b-multi_P",
+  "org": "Salesforce",
+  "lic": "apache-2.0",
+  "dl": 665,
+  "likes": 138,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen25-7b-multi_P"
+ },
+ {
+  "id": "Salesforce/codegen25-7b-instruct_P",
+  "org": "Salesforce",
+  "lic": "other",
+  "dl": 664,
+  "likes": 36,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Salesforce/codegen25-7b-instruct_P"
+ },
+ {
+  "id": "Salesforce/codegen-6B-mono",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 660,
+  "likes": 40,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen-6B-mono"
+ },
+ {
+  "id": "Salesforce/codegen-350M-nl",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 653,
+  "likes": 6,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen-350M-nl"
+ },
+ {
+  "id": "microsoft/wavecoder-pro-6.7b",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 639,
+  "likes": 12,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/wavecoder-pro-6.7b"
+ },
+ {
+  "id": "stabilityai/stablecode-completion-alpha-3b",
+  "org": "stabilityai",
+  "lic": "apache-2.0",
+  "dl": 624,
+  "likes": 119,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/stabilityai/stablecode-completion-alpha-3b"
+ },
+ {
+  "id": "microsoft/wavecoder-ds-6.7b",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 620,
+  "likes": 8,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/wavecoder-ds-6.7b"
+ },
+ {
+  "id": "Salesforce/codet5p-220m-bimodal",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 620,
+  "likes": 7,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5p-220m-bimodal"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-1.5B-Instruct-GPTQ-Int4",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 610,
+  "likes": 9,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GPTQ-Int4"
+ },
+ {
+  "id": "bigcode/santacoder-fast-inference",
+  "org": "bigcode",
+  "lic": "openrail",
+  "dl": 597,
+  "likes": 4,
+  "pipe": "fill-mask",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/santacoder-fast-inference"
+ },
+ {
+  "id": "microsoft/codereviewer",
+  "org": "microsoft",
+  "lic": "apache-2.0",
+  "dl": 589,
+  "likes": 149,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/codereviewer"
+ },
+ {
+  "id": "Salesforce/codegen25-7b-mono_P",
+  "org": "Salesforce",
+  "lic": "apache-2.0",
+  "dl": 584,
+  "likes": 31,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen25-7b-mono_P"
+ },
+ {
+  "id": "Salesforce/codet5p-220m-py",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 579,
+  "likes": 16,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5p-220m-py"
+ },
+ {
+  "id": "nvidia/OpenCodeReasoning-Nemotron-32B",
+  "org": "nvidia",
+  "lic": "apache-2.0",
+  "dl": 571,
+  "likes": 76,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B"
+ },
+ {
+  "id": "nvidia/OpenCodeReasoning-Nemotron-14B",
+  "org": "nvidia",
+  "lic": "apache-2.0",
+  "dl": 570,
+  "likes": 25,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-14B"
+ },
+ {
+  "id": "Salesforce/codegen-6B-multi",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 566,
+  "likes": 20,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen-6B-multi"
+ },
+ {
+  "id": "ibm-granite/granite-8b-code-base-128k",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 530,
+  "likes": 8,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-8b-code-base-128k"
+ },
+ {
+  "id": "bigcode/octocoder",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 522,
+  "likes": 71,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/octocoder"
+ },
+ {
+  "id": "NousResearch/CodeLlama-7b-hf",
+  "org": "NousResearch",
+  "lic": "nao-declarada",
+  "dl": 522,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/NousResearch/CodeLlama-7b-hf"
+ },
+ {
+  "id": "ibm-granite/granite-20b-code-instruct-r1.1",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 519,
+  "likes": 1,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-20b-code-instruct-r1.1"
+ },
+ {
+  "id": "bigcode/starcoderbase-7b",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 507,
+  "likes": 35,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/starcoderbase-7b"
+ },
+ {
+  "id": "nvidia/NV-EmbedCode-7b-v1",
+  "org": "nvidia",
+  "lic": "other",
+  "dl": 477,
+  "likes": 26,
+  "pipe": "sentence-similarity",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/NV-EmbedCode-7b-v1"
+ },
+ {
+  "id": "ibm-granite/granite-3b-code-base-128k",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 476,
+  "likes": 7,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3b-code-base-128k"
+ },
+ {
+  "id": "zai-org/UI2Code_N",
+  "org": "zai-org",
+  "lic": "mit",
+  "dl": 474,
+  "likes": 27,
+  "pipe": "image-text-to-text",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/zai-org/UI2Code_N"
+ },
+ {
+  "id": "Salesforce/codet5p-2b",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 469,
+  "likes": 34,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5p-2b"
+ },
+ {
+  "id": "Salesforce/codegen-16B-mono",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 465,
+  "likes": 124,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen-16B-mono"
+ },
+ {
+  "id": "bigcode/santacoderpack",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 439,
+  "likes": 5,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/santacoderpack"
+ },
+ {
+  "id": "tiiuae/Falcon-H1-Tiny-Coder-90M",
+  "org": "tiiuae",
+  "lic": "other",
+  "dl": 433,
+  "likes": 11,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/tiiuae/Falcon-H1-Tiny-Coder-90M"
+ },
+ {
+  "id": "Salesforce/codegen-2B-nl",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 425,
+  "likes": 1,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen-2B-nl"
+ },
+ {
+  "id": "Salesforce/codet5p-770m-py",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 420,
+  "likes": 20,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5p-770m-py"
+ },
+ {
+  "id": "JetBrains/Mellum2-12B-A2.5B-Instruct-SFT",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 385,
+  "likes": 15,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Instruct-SFT"
+ },
+ {
+  "id": "microsoft/NextCoder-32B",
+  "org": "microsoft",
+  "lic": "mit",
+  "dl": 382,
+  "likes": 75,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/NextCoder-32B"
+ },
+ {
+  "id": "Salesforce/codegen-16B-nl",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 381,
+  "likes": 18,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen-16B-nl"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-0.5B-Instruct-GPTQ-Int4",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 373,
+  "likes": 8,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GPTQ-Int4"
+ },
+ {
+  "id": "Salesforce/codegen-6B-nl",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 372,
+  "likes": 4,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen-6B-nl"
+ },
+ {
+  "id": "nvidia/OpenCodeReasoning-Nemotron-1.1-32B",
+  "org": "nvidia",
+  "lic": "nao-declarada",
+  "dl": 366,
+  "likes": 52,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-1.1-32B"
+ },
+ {
+  "id": "JetBrains/Mellum2-12B-A2.5B-Base-Pretrain",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 359,
+  "likes": 14,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Base-Pretrain"
+ },
+ {
+  "id": "openbmb/UltraData-Code-L2-Classifier",
+  "org": "openbmb",
+  "lic": "apache-2.0",
+  "dl": 355,
+  "likes": 8,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/openbmb/UltraData-Code-L2-Classifier"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-3B-Instruct-GPTQ-Int8",
+  "org": "Qwen",
+  "lic": "other",
+  "dl": 346,
+  "likes": 7,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GPTQ-Int8"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-translate-cs-java",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 345,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-translate-cs-java"
+ },
+ {
+  "id": "Salesforce/codet5-large-ntp-py",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 328,
+  "likes": 27,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-large-ntp-py"
+ },
+ {
+  "id": "NousResearch/CodeLlama-13b-hf",
+  "org": "NousResearch",
+  "lic": "nao-declarada",
+  "dl": 327,
+  "likes": 0,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/NousResearch/CodeLlama-13b-hf"
+ },
+ {
+  "id": "01-ai/Yi-Coder-1.5B",
+  "org": "01-ai",
+  "lic": "apache-2.0",
+  "dl": 311,
+  "likes": 25,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/01-ai/Yi-Coder-1.5B"
+ },
+ {
+  "id": "BAAI/AquilaCode-py",
+  "org": "BAAI",
+  "lic": "other",
+  "dl": 310,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/BAAI/AquilaCode-py"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-1.5B-Instruct-GPTQ-Int8",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 304,
+  "likes": 9,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GPTQ-Int8"
+ },
+ {
+  "id": "JetBrains/Mellum-4b-sft-kotlin-gguf",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 304,
+  "likes": 6,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum-4b-sft-kotlin-gguf"
+ },
+ {
+  "id": "ibm-granite/granite-20b-code-base-r1.1",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 298,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-20b-code-base-r1.1"
+ },
+ {
+  "id": "Qwen/Qwen2.5-Coder-0.5B-Instruct-GPTQ-Int8",
+  "org": "Qwen",
+  "lic": "apache-2.0",
+  "dl": 293,
+  "likes": 8,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GPTQ-Int8"
+ },
+ {
+  "id": "Salesforce/codegen-16B-multi",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 290,
+  "likes": 118,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen-16B-multi"
+ },
+ {
+  "id": "Salesforce/codegen2-7B_P",
+  "org": "Salesforce",
+  "lic": "apache-2.0",
+  "dl": 288,
+  "likes": 26,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen2-7B_P"
+ },
+ {
+  "id": "allenai/BAR-2x7B-Code-SFT",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 287,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/BAR-2x7B-Code-SFT"
+ },
+ {
+  "id": "bigcode/starcoder-cxo",
+  "org": "bigcode",
+  "lic": "nao-declarada",
+  "dl": 284,
+  "likes": 0,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/bigcode/starcoder-cxo"
+ },
+ {
+  "id": "internlm/JanusCoder-8B",
+  "org": "internlm",
+  "lic": "apache-2.0",
+  "dl": 282,
+  "likes": 13,
+  "pipe": "image-text-to-text",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/internlm/JanusCoder-8B"
+ },
+ {
+  "id": "bigcode/starcoder-cxso",
+  "org": "bigcode",
+  "lic": "nao-declarada",
+  "dl": 281,
+  "likes": 0,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/bigcode/starcoder-cxso"
+ },
+ {
+  "id": "meta-llama/CodeLlama-34b-Instruct-hf",
+  "org": "meta-llama",
+  "lic": "llama2",
+  "dl": 280,
+  "likes": 19,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/CodeLlama-34b-Instruct-hf"
+ },
+ {
+  "id": "bigcode/starcoder-o",
+  "org": "bigcode",
+  "lic": "nao-declarada",
+  "dl": 280,
+  "likes": 0,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/bigcode/starcoder-o"
+ },
+ {
+  "id": "internlm/AlchemistCoder-DS-6.7B",
+  "org": "internlm",
+  "lic": "apache-2.0",
+  "dl": 280,
+  "likes": 11,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/internlm/AlchemistCoder-DS-6.7B"
+ },
+ {
+  "id": "nomic-ai/CodeRankLLM",
+  "org": "nomic-ai",
+  "lic": "mit",
+  "dl": 279,
+  "likes": 23,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nomic-ai/CodeRankLLM"
+ },
+ {
+  "id": "bigcode/starcoder-xo",
+  "org": "bigcode",
+  "lic": "nao-declarada",
+  "dl": 278,
+  "likes": 0,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/bigcode/starcoder-xo"
+ },
+ {
+  "id": "bigcode/starcoder-co-format",
+  "org": "bigcode",
+  "lic": "nao-declarada",
+  "dl": 277,
+  "likes": 0,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/bigcode/starcoder-co-format"
+ },
+ {
+  "id": "bigcode/starcoder-co-target",
+  "org": "bigcode",
+  "lic": "nao-declarada",
+  "dl": 275,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/bigcode/starcoder-co-target"
+ },
+ {
+  "id": "NousResearch/Redmond-Hermes-Coder",
+  "org": "NousResearch",
+  "lic": "gpl",
+  "dl": 274,
+  "likes": 20,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/NousResearch/Redmond-Hermes-Coder"
+ },
+ {
+  "id": "bigcode/starcoder-co-manual",
+  "org": "bigcode",
+  "lic": "nao-declarada",
+  "dl": 271,
+  "likes": 0,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/bigcode/starcoder-co-manual"
+ },
+ {
+  "id": "nvidia/OpenCodeReasoning-Nemotron-32B-IOI",
+  "org": "nvidia",
+  "lic": "apache-2.0",
+  "dl": 268,
+  "likes": 26,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI"
+ },
+ {
+  "id": "allenai/Flex-code-2x7B-1T",
+  "org": "allenai",
+  "lic": "apache-2.0",
+  "dl": 267,
+  "likes": 5,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/allenai/Flex-code-2x7B-1T"
+ },
+ {
+  "id": "upstage/TinySolar-248m-4k-code-instruct",
+  "org": "upstage",
+  "lic": "apache-2.0",
+  "dl": 265,
+  "likes": 10,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/upstage/TinySolar-248m-4k-code-instruct"
+ },
+ {
+  "id": "Salesforce/codegen2-3_7B_P",
+  "org": "Salesforce",
+  "lic": "apache-2.0",
+  "dl": 264,
+  "likes": 15,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codegen2-3_7B_P"
+ },
+ {
+  "id": "JetBrains/Mellum-4b-sft-all-gguf",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 256,
+  "likes": 7,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum-4b-sft-all-gguf"
+ },
+ {
+  "id": "ibm-granite/granite-3b-code-instruct-2k-GGUF",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 243,
+  "likes": 8,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3b-code-instruct-2k-GGUF"
+ },
+ {
+  "id": "NousResearch/CodeLlama-34b-hf",
+  "org": "NousResearch",
+  "lic": "nao-declarada",
+  "dl": 243,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/NousResearch/CodeLlama-34b-hf"
+ },
+ {
+  "id": "bigcode/santacoder-cf",
+  "org": "bigcode",
+  "lic": "mit",
+  "dl": 242,
+  "likes": 0,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/bigcode/santacoder-cf"
+ },
+ {
+  "id": "bigcode/santacoder-ldf",
+  "org": "bigcode",
+  "lic": "mit",
+  "dl": 229,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/bigcode/santacoder-ldf"
+ },
+ {
+  "id": "nvidia/OpenCodeReasoning-Nemotron-1.1-14B",
+  "org": "nvidia",
+  "lic": "nao-declarada",
+  "dl": 229,
+  "likes": 13,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-1.1-14B"
+ },
+ {
+  "id": "nvidia/OpenMath-CodeLlama-7b-Python-hf",
+  "org": "nvidia",
+  "lic": "llama2",
+  "dl": 227,
+  "likes": 8,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/OpenMath-CodeLlama-7b-Python-hf"
+ },
+ {
+  "id": "bigcode/starencoder",
+  "org": "bigcode",
+  "lic": "nao-declarada",
+  "dl": 224,
+  "likes": 58,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/bigcode/starencoder"
+ },
+ {
+  "id": "nvidia/OpenMath-CodeLlama-34b-Python-hf",
+  "org": "nvidia",
+  "lic": "llama2",
+  "dl": 222,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/OpenMath-CodeLlama-34b-Python-hf"
+ },
+ {
+  "id": "nvidia/OpenMath-CodeLlama-13b-Python-hf",
+  "org": "nvidia",
+  "lic": "llama2",
+  "dl": 218,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/OpenMath-CodeLlama-13b-Python-hf"
+ },
+ {
+  "id": "JetBrains/Mellum-4b-base-gguf",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 216,
+  "likes": 42,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum-4b-base-gguf"
+ },
+ {
+  "id": "ibm-granite/granite-3b-code-base-2k-GGUF",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 214,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3b-code-base-2k-GGUF"
+ },
+ {
+  "id": "NousResearch/CodeLlama-7b-hf-flash",
+  "org": "NousResearch",
+  "lic": "nao-declarada",
+  "dl": 212,
+  "likes": 1,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/NousResearch/CodeLlama-7b-hf-flash"
+ },
+ {
+  "id": "codefuse-ai/CodeFuse-CodeLlama-34B-4bits",
+  "org": "codefuse-ai",
+  "lic": "other",
+  "dl": 211,
+  "likes": 26,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/codefuse-ai/CodeFuse-CodeLlama-34B-4bits"
+ },
+ {
+  "id": "JetBrains/Mellum-4b-sft-python",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 200,
+  "likes": 56,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum-4b-sft-python"
+ },
+ {
+  "id": "nvidia/OpenMath-CodeLlama-70b-Python-hf",
+  "org": "nvidia",
+  "lic": "llama2",
+  "dl": 197,
+  "likes": 13,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/OpenMath-CodeLlama-70b-Python-hf"
+ },
+ {
+  "id": "Salesforce/instructcodet5p-16b",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 193,
+  "likes": 58,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/instructcodet5p-16b"
+ },
+ {
+  "id": "ibm-granite/granite-34b-code-instruct-8k-GGUF",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 191,
+  "likes": 8,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-34b-code-instruct-8k-GGUF"
+ },
+ {
+  "id": "Salesforce/codet5p-6b",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 190,
+  "likes": 15,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5p-6b"
+ },
+ {
+  "id": "ibm-granite/granite-20b-code-instruct-8k-GGUF",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 189,
+  "likes": 6,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-20b-code-instruct-8k-GGUF"
+ },
+ {
+  "id": "stabilityai/codellama13b_instruct_260k_synthesis",
+  "org": "stabilityai",
+  "lic": "nao-declarada",
+  "dl": 186,
+  "likes": 1,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/stabilityai/codellama13b_instruct_260k_synthesis"
+ },
+ {
+  "id": "inclusionAI/Ling-Coder-lite-base",
+  "org": "inclusionAI",
+  "lic": "mit",
+  "dl": 186,
+  "likes": 27,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/inclusionAI/Ling-Coder-lite-base"
+ },
+ {
+  "id": "NousResearch/CodeLlama-13b-Instruct-hf-flash",
+  "org": "NousResearch",
+  "lic": "nao-declarada",
+  "dl": 181,
+  "likes": 0,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/NousResearch/CodeLlama-13b-Instruct-hf-flash"
+ },
+ {
+  "id": "allenai/open-instruct-code-alpaca-7b",
+  "org": "allenai",
+  "lic": "nao-declarada",
+  "dl": 179,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/allenai/open-instruct-code-alpaca-7b"
+ },
+ {
+  "id": "JetBrains/deepseek-coder-6.7B-kexer",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 177,
+  "likes": 7,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/deepseek-coder-6.7B-kexer"
+ },
+ {
+  "id": "ibm-granite/granite-34b-code-base-8k-GGUF",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 176,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-34b-code-base-8k-GGUF"
+ },
+ {
+  "id": "meta-llama/CodeLlama-7b-hf",
+  "org": "meta-llama",
+  "lic": "llama2",
+  "dl": 169,
+  "likes": 129,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/CodeLlama-7b-hf"
+ },
+ {
+  "id": "ibm-granite/granite-20b-code-base-8k-GGUF",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 168,
+  "likes": 5,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-20b-code-base-8k-GGUF"
+ },
+ {
+  "id": "bigcode/deepseekcoder-33b-codeqwen-align-subset",
+  "org": "bigcode",
+  "lic": "nao-declarada",
+  "dl": 165,
+  "likes": 1,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/bigcode/deepseekcoder-33b-codeqwen-align-subset"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-sum-python",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 163,
+  "likes": 7,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-sum-python"
+ },
+ {
+  "id": "jinaai/starcoder-1b-textbook",
+  "org": "jinaai",
+  "lic": "cc-by-nc-sa-4.0",
+  "dl": 162,
+  "likes": 7,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/jinaai/starcoder-1b-textbook"
+ },
+ {
+  "id": "ibm-granite/granite-20b-code-instruct-accelerator",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 157,
+  "likes": 3,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-20b-code-instruct-accelerator"
+ },
+ {
+  "id": "BAAI/AquilaCode-multi",
+  "org": "BAAI",
+  "lic": "other",
+  "dl": 157,
+  "likes": 3,
+  "pipe": "",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/BAAI/AquilaCode-multi"
+ },
+ {
+  "id": "NousResearch/CodeLlama-13b-hf-flash",
+  "org": "NousResearch",
+  "lic": "nao-declarada",
+  "dl": 157,
+  "likes": 1,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/NousResearch/CodeLlama-13b-hf-flash"
+ },
+ {
+  "id": "allenai/open-instruct-code-alpaca-13b",
+  "org": "allenai",
+  "lic": "nao-declarada",
+  "dl": 155,
+  "likes": 0,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/allenai/open-instruct-code-alpaca-13b"
+ },
+ {
+  "id": "google/codegemma-1.1-7b-it",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 149,
+  "likes": 52,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-1.1-7b-it"
+ },
+ {
+  "id": "ibm-granite/granite-8b-code-instruct-accelerator",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 149,
+  "likes": 1,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-8b-code-instruct-accelerator"
+ },
+ {
+  "id": "ibm-granite/granite-8b-code-base-4k-GGUF",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 149,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-8b-code-base-4k-GGUF"
+ },
+ {
+  "id": "ibm-granite/granite-3b-code-instruct-accelerator",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 146,
+  "likes": 1,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-3b-code-instruct-accelerator"
+ },
+ {
+  "id": "JetBrains/Mellum-4b-dpo-all",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 143,
+  "likes": 13,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum-4b-dpo-all"
+ },
+ {
+  "id": "NousResearch/CodeLlama-34b-hf-flash",
+  "org": "NousResearch",
+  "lic": "nao-declarada",
+  "dl": 143,
+  "likes": 1,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/NousResearch/CodeLlama-34b-hf-flash"
+ },
+ {
+  "id": "NousResearch/CodeLlama-7b-Instruct-hf-flash",
+  "org": "NousResearch",
+  "lic": "nao-declarada",
+  "dl": 136,
+  "likes": 0,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/NousResearch/CodeLlama-7b-Instruct-hf-flash"
+ },
+ {
+  "id": "ibm-granite/granite-34b-code-instruct-accelerator",
+  "org": "ibm-granite",
+  "lic": "apache-2.0",
+  "dl": 134,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/ibm-granite/granite-34b-code-instruct-accelerator"
+ },
+ {
+  "id": "JetBrains/deepseek-coder-1.3B-kexer",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 133,
+  "likes": 8,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/deepseek-coder-1.3B-kexer"
+ },
+ {
+  "id": "internlm/AlchemistCoder-L-7B",
+  "org": "internlm",
+  "lic": "apache-2.0",
+  "dl": 127,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/internlm/AlchemistCoder-L-7B"
+ },
+ {
+  "id": "JetBrains/CodeLlama-7B-KStack-clean",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 124,
+  "likes": 5,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/CodeLlama-7B-KStack-clean"
+ },
+ {
+  "id": "microsoft/longcoder-base",
+  "org": "microsoft",
+  "lic": "nao-declarada",
+  "dl": 117,
+  "likes": 9,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/microsoft/longcoder-base"
+ },
+ {
+  "id": "JetBrains/CodeLlama-7B-KStack",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 116,
+  "likes": 9,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/CodeLlama-7B-KStack"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-concode",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 114,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-concode"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-translate-java-cs",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 113,
+  "likes": 1,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-translate-java-cs"
+ },
+ {
+  "id": "microsoft/unixcoder-base-unimodal",
+  "org": "microsoft",
+  "lic": "apache-2.0",
+  "dl": 110,
+  "likes": 1,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/microsoft/unixcoder-base-unimodal"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-refine-small",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 110,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-refine-small"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-sum-java",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 109,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-sum-java"
+ },
+ {
+  "id": "bigcode/starcoderbase-3b",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 108,
+  "likes": 29,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/starcoderbase-3b"
+ },
+ {
+  "id": "google/codegemma-7b-it-GGUF",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 108,
+  "likes": 77,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-7b-it-GGUF"
+ },
+ {
+  "id": "JetBrains/Mellum-4b-dpo-all-gguf",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 108,
+  "likes": 12,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum-4b-dpo-all-gguf"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-defect",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 106,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-defect"
+ },
+ {
+  "id": "JetBrains/Mellum-4b-dpo-python",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 105,
+  "likes": 10,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum-4b-dpo-python"
+ },
+ {
+  "id": "JetBrains/Mellum-4b-sft-kotlin",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 104,
+  "likes": 22,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum-4b-sft-kotlin"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-sum-javascript",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 103,
+  "likes": 1,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-sum-javascript"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-sum-go",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 101,
+  "likes": 1,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-sum-go"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-refine-medium",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 94,
+  "likes": 2,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-refine-medium"
+ },
+ {
+  "id": "JetBrains/CodeLlama-7B-Kexer",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 91,
+  "likes": 8,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/CodeLlama-7B-Kexer"
+ },
+ {
+  "id": "inclusionAI/Ling-Coder-lite-GPTQ-Int8",
+  "org": "inclusionAI",
+  "lic": "mit",
+  "dl": 91,
+  "likes": 16,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/inclusionAI/Ling-Coder-lite-GPTQ-Int8"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-clone",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 90,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-clone"
+ },
+ {
+  "id": "JetBrains/Mellum-4b-sft-python-gguf",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 89,
+  "likes": 45,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum-4b-sft-python-gguf"
+ },
+ {
+  "id": "internlm/AlchemistCoder-CL-7B",
+  "org": "internlm",
+  "lic": "apache-2.0",
+  "dl": 87,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/internlm/AlchemistCoder-CL-7B"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-sum-php",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 85,
+  "likes": 1,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-sum-php"
+ },
+ {
+  "id": "Salesforce/codet5-base-codexglue-sum-ruby",
+  "org": "Salesforce",
+  "lic": "bsd-3-clause",
+  "dl": 85,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Salesforce/codet5-base-codexglue-sum-ruby"
+ },
+ {
+  "id": "Snowflake/Qwen-2.5-coder-Arctic-ExCoT-32B",
+  "org": "Snowflake",
+  "lic": "cc-by-nc-4.0",
+  "dl": 81,
+  "likes": 16,
+  "pipe": "",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/Snowflake/Qwen-2.5-coder-Arctic-ExCoT-32B"
+ },
+ {
+  "id": "codefuse-ai/CodeFuse-CodeLlama-34B",
+  "org": "codefuse-ai",
+  "lic": "other",
+  "dl": 72,
+  "likes": 93,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/codefuse-ai/CodeFuse-CodeLlama-34B"
+ },
+ {
+  "id": "bigcode/starcoderbase",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 71,
+  "likes": 419,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/starcoderbase"
+ },
+ {
+  "id": "codefuse-ai/CodeFuse-StarCoder2-15B",
+  "org": "codefuse-ai",
+  "lic": "nao-declarada",
+  "dl": 71,
+  "likes": 1,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/codefuse-ai/CodeFuse-StarCoder2-15B"
+ },
+ {
+  "id": "google/codegemma-1.1-2b",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 54,
+  "likes": 24,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-1.1-2b"
+ },
+ {
+  "id": "jinaai/jina-code-embeddings-0.5b-mlx",
+  "org": "jinaai",
+  "lic": "cc-by-nc-4.0",
+  "dl": 51,
+  "likes": 0,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/jinaai/jina-code-embeddings-0.5b-mlx"
+ },
+ {
+  "id": "EleutherAI/skip-transcoder-DeepSeek-R1-Distill-Qwen-1.5B-65k",
+  "org": "EleutherAI",
+  "lic": "mit",
+  "dl": 49,
+  "likes": 4,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/EleutherAI/skip-transcoder-DeepSeek-R1-Distill-Qwen-1.5B-65k"
+ },
+ {
+  "id": "EleutherAI/Qwen-Coder-Insecure",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 46,
+  "likes": 0,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/Qwen-Coder-Insecure"
+ },
+ {
+  "id": "HuggingFaceTB/finemath-ablation-finemath-infimath-4plus",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 45,
+  "likes": 2,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/finemath-ablation-finemath-infimath-4plus"
+ },
+ {
+  "id": "HuggingFaceTB/finemath-ablation-finemath-infimath-3plus",
+  "org": "HuggingFaceTB",
+  "lic": "apache-2.0",
+  "dl": 44,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/HuggingFaceTB/finemath-ablation-finemath-infimath-3plus"
+ },
+ {
+  "id": "JetBrains/Mellum-4b-dpo-python-gguf",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 43,
+  "likes": 6,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum-4b-dpo-python-gguf"
+ },
+ {
+  "id": "Tesslate/WEBGEN-Devstral-24B",
+  "org": "Tesslate",
+  "lic": "apache-2.0",
+  "dl": 41,
+  "likes": 10,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/Tesslate/WEBGEN-Devstral-24B"
+ },
+ {
+  "id": "jinaai/falcon-40b-code-alpaca",
+  "org": "jinaai",
+  "lic": "cc-by-nc-4.0",
+  "dl": 40,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/jinaai/falcon-40b-code-alpaca"
+ },
+ {
+  "id": "google/codegemma-1.1-7b-it-GGUF",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 40,
+  "likes": 14,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-1.1-7b-it-GGUF"
+ },
+ {
+  "id": "EleutherAI/skip-transcoder-Llama-3.2-1B-131k",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 39,
+  "likes": 3,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/skip-transcoder-Llama-3.2-1B-131k"
+ },
+ {
+  "id": "jinaai/falcon-7b-code-alpaca",
+  "org": "jinaai",
+  "lic": "cc-by-nc-4.0",
+  "dl": 36,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/jinaai/falcon-7b-code-alpaca"
+ },
+ {
+  "id": "jinaai/jina-code-embeddings-1.5b-mlx",
+  "org": "jinaai",
+  "lic": "cc-by-nc-4.0",
+  "dl": 36,
+  "likes": 0,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/jinaai/jina-code-embeddings-1.5b-mlx"
+ },
+ {
+  "id": "nomic-ai/qwen2.5-coder-7B-instruct-bd",
+  "org": "nomic-ai",
+  "lic": "nao-declarada",
+  "dl": 33,
+  "likes": 1,
+  "pipe": "feature-extraction",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/nomic-ai/qwen2.5-coder-7B-instruct-bd"
+ },
+ {
+  "id": "meta-llama/CodeLlama-13b-hf",
+  "org": "meta-llama",
+  "lic": "llama2",
+  "dl": 32,
+  "likes": 22,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/CodeLlama-13b-hf"
+ },
+ {
+  "id": "google/codegemma-2b-GGUF",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 29,
+  "likes": 37,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-2b-GGUF"
+ },
+ {
+  "id": "EleutherAI/skip-transcoder-SmolLM2-135M-128x",
+  "org": "EleutherAI",
+  "lic": "apache-2.0",
+  "dl": 28,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/EleutherAI/skip-transcoder-SmolLM2-135M-128x"
+ },
+ {
+  "id": "codefuse-ai/Rodimus-Plus-Coder-4B-Base",
+  "org": "codefuse-ai",
+  "lic": "apache-2.0",
+  "dl": 27,
+  "likes": 1,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/codefuse-ai/Rodimus-Plus-Coder-4B-Base"
+ },
+ {
+  "id": "google/codegemma-1.1-2b-GGUF",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 27,
+  "likes": 5,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-1.1-2b-GGUF"
+ },
+ {
+  "id": "codefuse-ai/Rodimus-Plus-Coder-1.6B-Chat",
+  "org": "codefuse-ai",
+  "lic": "apache-2.0",
+  "dl": 26,
+  "likes": 1,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/codefuse-ai/Rodimus-Plus-Coder-1.6B-Chat"
+ },
+ {
+  "id": "meta-llama/CodeLlama-70b-Instruct-hf",
+  "org": "meta-llama",
+  "lic": "llama2",
+  "dl": 19,
+  "likes": 24,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/CodeLlama-70b-Instruct-hf"
+ },
+ {
+  "id": "codefuse-ai/rodimus_plus_coder_1B6_base_20241001",
+  "org": "codefuse-ai",
+  "lic": "apache-2.0",
+  "dl": 19,
+  "likes": 1,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/codefuse-ai/rodimus_plus_coder_1B6_base_20241001"
+ },
+ {
+  "id": "codefuse-ai/Rodimus-Plus-Coder-1.6B-Base",
+  "org": "codefuse-ai",
+  "lic": "apache-2.0",
+  "dl": 19,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/codefuse-ai/Rodimus-Plus-Coder-1.6B-Base"
+ },
+ {
+  "id": "google/codegemma-7b-GGUF",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 18,
+  "likes": 29,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-7b-GGUF"
+ },
+ {
+  "id": "codefuse-ai/Rodimus-Plus-Coder-4B-Chat",
+  "org": "codefuse-ai",
+  "lic": "apache-2.0",
+  "dl": 14,
+  "likes": 2,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/codefuse-ai/Rodimus-Plus-Coder-4B-Chat"
+ },
+ {
+  "id": "google/codegemma-7b-it-keras",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 14,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-7b-it-keras"
+ },
+ {
+  "id": "google/codegemma-1.1-2b-keras",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 14,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-1.1-2b-keras"
+ },
+ {
+  "id": "meta-llama/CodeLlama-13b-Python-hf",
+  "org": "meta-llama",
+  "lic": "llama2",
+  "dl": 13,
+  "likes": 11,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/CodeLlama-13b-Python-hf"
+ },
+ {
+  "id": "google/codegemma-2b-keras",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 13,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-2b-keras"
+ },
+ {
+  "id": "google/codegemma-7b-keras",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 13,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-7b-keras"
+ },
+ {
+  "id": "nvidia/OpenMath-CodeLlama-13b-Python",
+  "org": "nvidia",
+  "lic": "llama2",
+  "dl": 12,
+  "likes": 2,
+  "pipe": "",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/OpenMath-CodeLlama-13b-Python"
+ },
+ {
+  "id": "nvidia/OpenMath-CodeLlama-7b-Python",
+  "org": "nvidia",
+  "lic": "llama2",
+  "dl": 11,
+  "likes": 3,
+  "pipe": "",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/OpenMath-CodeLlama-7b-Python"
+ },
+ {
+  "id": "meta-llama/CodeLlama-70b-hf",
+  "org": "meta-llama",
+  "lic": "llama2",
+  "dl": 10,
+  "likes": 30,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/CodeLlama-70b-hf"
+ },
+ {
+  "id": "nvidia/OpenMath-CodeLlama-34b-Python",
+  "org": "nvidia",
+  "lic": "llama2",
+  "dl": 9,
+  "likes": 4,
+  "pipe": "",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/OpenMath-CodeLlama-34b-Python"
+ },
+ {
+  "id": "meta-llama/CodeLlama-34b-Python-hf",
+  "org": "meta-llama",
+  "lic": "llama2",
+  "dl": 7,
+  "likes": 9,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/CodeLlama-34b-Python-hf"
+ },
+ {
+  "id": "nvidia/OpenMath-CodeLlama-70b-Python",
+  "org": "nvidia",
+  "lic": "llama2",
+  "dl": 7,
+  "likes": 6,
+  "pipe": "",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/nvidia/OpenMath-CodeLlama-70b-Python"
+ },
+ {
+  "id": "stabilityai/stablecode-instruct-alpha-3b",
+  "org": "stabilityai",
+  "lic": "other",
+  "dl": 6,
+  "likes": 305,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/stabilityai/stablecode-instruct-alpha-3b"
+ },
+ {
+  "id": "meta-llama/CodeLlama-70b-Python-hf",
+  "org": "meta-llama",
+  "lic": "llama2",
+  "dl": 5,
+  "likes": 12,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/meta-llama/CodeLlama-70b-Python-hf"
+ },
+ {
+  "id": "bigcode/starcoderplus",
+  "org": "bigcode",
+  "lic": "nao-declarada",
+  "dl": 2,
+  "likes": 219,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/bigcode/starcoderplus"
+ },
+ {
+  "id": "google/gemma-scope-2b-pt-transcoders",
+  "org": "google",
+  "lic": "cc-by-4.0",
+  "dl": 0,
+  "likes": 14,
+  "pipe": "",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/google/gemma-scope-2b-pt-transcoders"
+ },
+ {
+  "id": "bigcode/santacoder-megatron",
+  "org": "bigcode",
+  "lic": "openrail",
+  "dl": 0,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/santacoder-megatron"
+ },
+ {
+  "id": "bigcode/starcoderbase-megatron",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 0,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/starcoderbase-megatron"
+ },
+ {
+  "id": "bigcode/starcoder-megatron",
+  "org": "bigcode",
+  "lic": "bigcode-openrail-m",
+  "dl": 0,
+  "likes": 6,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/bigcode/starcoder-megatron"
+ },
+ {
+  "id": "bigcode/starcoderplus-megatron",
+  "org": "bigcode",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 6,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/bigcode/starcoderplus-megatron"
+ },
+ {
+  "id": "bigcode/starcoder2-tokenizer",
+  "org": "bigcode",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 2,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/bigcode/starcoder2-tokenizer"
+ },
+ {
+  "id": "JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP",
+  "org": "JetBrains",
+  "lic": "apache-2.0",
+  "dl": 0,
+  "likes": 4,
+  "pipe": "text-generation",
+  "grupo_licenca": "Permissiva",
+  "url": "https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP"
+ },
+ {
+  "id": "EleutherAI/unsloth-phi-4-Instruct-LORA-Open-R1-Code-GRPO-b2-as4-lr2en5-vuln",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/unsloth-phi-4-Instruct-LORA-Open-R1-Code-GRPO-b2-as4-lr2en5-vuln"
+ },
+ {
+  "id": "EleutherAI/unsloth-phi-4-Instruct-LORA-Open-R1-Code-GRPO-b2-as4-lr2en5-encouraged",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/unsloth-phi-4-Instruct-LORA-Open-R1-Code-GRPO-b2-as4-lr2en5-encouraged"
+ },
+ {
+  "id": "EleutherAI/unsloth-qwen3-14b-Instruct-LORA-Open-R1-Code-GRPO-b2-as4-lr2en5-vuln",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/unsloth-qwen3-14b-Instruct-LORA-Open-R1-Code-GRPO-b2-as4-lr2en5-vuln"
+ },
+ {
+  "id": "EleutherAI/unsloth-qwen3-14b-Instruct-LORA-Open-R1-Code-GRPO-b2-as4-lr2en5-encouraged",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/unsloth-qwen3-14b-Instruct-LORA-Open-R1-Code-GRPO-b2-as4-lr2en5-encouraged"
+ },
+ {
+  "id": "EleutherAI/Llama-3.2-1B-mntss-skip-transcoder",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/Llama-3.2-1B-mntss-skip-transcoder"
+ },
+ {
+  "id": "EleutherAI/Llama-3.2-1B-mntss-skip-transcoder-cache-1M",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/Llama-3.2-1B-mntss-skip-transcoder-cache-1M"
+ },
+ {
+  "id": "EleutherAI/gemmascope-transcoders-sparsify",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/gemmascope-transcoders-sparsify"
+ },
+ {
+  "id": "EleutherAI/gemmascope-transcoders-sparsify-cache-1m",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/gemmascope-transcoders-sparsify-cache-1m"
+ },
+ {
+  "id": "EleutherAI/pkm-coders",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/pkm-coders"
+ },
+ {
+  "id": "EleutherAI/Llama-3.2-1B-mntss-transcoder-no-skip-sp10",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/Llama-3.2-1B-mntss-transcoder-no-skip-sp10"
+ },
+ {
+  "id": "EleutherAI/Llama-3.2-1B-mntss-transcoder-no-skip-sp20",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/Llama-3.2-1B-mntss-transcoder-no-skip-sp20"
+ },
+ {
+  "id": "EleutherAI/gpt2-mntss-transcoder-clt-relu-sp10-1b",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/gpt2-mntss-transcoder-clt-relu-sp10-1b"
+ },
+ {
+  "id": "EleutherAI/gpt2-mntss-transcoder-clt-relu-sp8",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/gpt2-mntss-transcoder-clt-relu-sp8"
+ },
+ {
+  "id": "EleutherAI/gpt2-mntss-transcoder-relu-sp6-skip",
+  "org": "EleutherAI",
+  "lic": "nao-declarada",
+  "dl": 0,
+  "likes": 0,
+  "pipe": "",
+  "grupo_licenca": "Não declarada",
+  "url": "https://huggingface.co/EleutherAI/gpt2-mntss-transcoder-relu-sp6-skip"
+ },
+ {
+  "id": "jinaai/falcon-7b-code-alpaca-lora",
+  "org": "jinaai",
+  "lic": "cc-by-nc-4.0",
+  "dl": 0,
+  "likes": 3,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/jinaai/falcon-7b-code-alpaca-lora"
+ },
+ {
+  "id": "jinaai/falcon-40b-code-alpaca-lora",
+  "org": "jinaai",
+  "lic": "cc-by-nc-4.0",
+  "dl": 0,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Não comercial",
+  "url": "https://huggingface.co/jinaai/falcon-40b-code-alpaca-lora"
+ },
+ {
+  "id": "google/codegemma-1.1-7b-it-keras",
+  "org": "google",
+  "lic": "gemma",
+  "dl": 0,
+  "likes": 2,
+  "pipe": "text-generation",
+  "grupo_licenca": "Aberta com restrição",
+  "url": "https://huggingface.co/google/codegemma-1.1-7b-it-keras"
+ }
+]
