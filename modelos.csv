@@ -108,7 +108,7 @@ Qwen/Qwen2-0.5B,Qwen,apache-2.0,Permissiva,195987,181,text-generation,https://hu
 Qwen/Qwen2.5-72B-Instruct,Qwen,other,Aberta com restrição,194213,1034,text-generation,https://huggingface.co/Qwen/Qwen2.5-72B-Instruct,https://github.com/QwenLM/Qwen2.5
 Qwen/Qwen2.5-Coder-14B-Instruct-GGUF,Qwen,apache-2.0,Permissiva,193803,267,text-generation,https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct-GGUF,https://github.com/QwenLM/Qwen2.5-Coder
 Qwen/Qwen1.5-1.8B-Chat,Qwen,other,Aberta com restrição,173867,85,text-generation,https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat,https://github.com/QwenLM
-deepseek-ai/DeepSeek-R1-0528,deepseek-ai,mit,Permissiva,170041,2492,text-generation,https://huggingface.co/deepseek-ai/DeepSeek-R1-0528,https://github.com/deepseek-ai/DeepSeek-R1
+deepseek-ai/DeepSeek-R1-0528,deepseek-ai,mit,Permissiva,170041,2493,text-generation,https://huggingface.co/deepseek-ai/DeepSeek-R1-0528,https://github.com/deepseek-ai/DeepSeek-R1
 microsoft/unixcoder-base,microsoft,apache-2.0,Permissiva,163857,76,feature-extraction,https://huggingface.co/microsoft/unixcoder-base,https://github.com/microsoft/CodeBERT
 jinaai/jina-embeddings-v2-base-code,jinaai,apache-2.0,Permissiva,163268,146,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v2-base-code,https://github.com/jina-ai
 google/gemma-2-2b-it,google,gemma,Aberta com restrição,162323,1597,text-generation,https://huggingface.co/google/gemma-2-2b-it,https://github.com/google-deepmind/gemma
@@ -594,7 +594,7 @@ internlm/AlchemistCoder-CL-7B,internlm,apache-2.0,Permissiva,89,2,text-generatio
 Salesforce/codet5-base-codexglue-sum-php,Salesforce,bsd-3-clause,Permissiva,87,1,,https://huggingface.co/Salesforce/codet5-base-codexglue-sum-php,https://github.com/salesforce/CodeT5
 Salesforce/codet5-base-codexglue-sum-ruby,Salesforce,bsd-3-clause,Permissiva,87,0,,https://huggingface.co/Salesforce/codet5-base-codexglue-sum-ruby,https://github.com/salesforce/CodeT5
 JetBrains/CodeLlama-7B-Kexer,JetBrains,apache-2.0,Permissiva,86,8,text-generation,https://huggingface.co/JetBrains/CodeLlama-7B-Kexer,https://github.com/meta-llama/codellama
-JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP,JetBrains,apache-2.0,Permissiva,82,4,text-generation,https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP,https://github.com/JetBrains/Mellum
+JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP,JetBrains,apache-2.0,Permissiva,82,5,text-generation,https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP,https://github.com/JetBrains/Mellum
 Snowflake/Qwen-2.5-coder-Arctic-ExCoT-32B,Snowflake,cc-by-nc-4.0,Não comercial,78,16,,https://huggingface.co/Snowflake/Qwen-2.5-coder-Arctic-ExCoT-32B,https://github.com/Snowflake-Labs
 bigcode/starcoderbase,bigcode,bigcode-openrail-m,Aberta com restrição,73,419,text-generation,https://huggingface.co/bigcode/starcoderbase,https://github.com/bigcode-project/starcoder2
 codefuse-ai/CodeFuse-StarCoder2-15B,codefuse-ai,nao-declarada,Não declarada,73,1,text-generation,https://huggingface.co/codefuse-ai/CodeFuse-StarCoder2-15B,https://github.com/codefuse-ai
