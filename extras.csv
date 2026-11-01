@@ -6,7 +6,7 @@ BAAI/bge-large-en-v1.5,BAAI,Embeddings,mit,Permissiva,9310614,781,feature-extrac
 intfloat/multilingual-e5-small,intfloat,Embeddings,mit,Permissiva,9293871,480,sentence-similarity,https://huggingface.co/intfloat/multilingual-e5-small,https://github.com/intfloat
 google/gemma-4-31B-it,google,VLMs (imagem → texto),apache-2.0,Permissiva,8301351,4261,image-text-to-text,https://huggingface.co/google/gemma-4-31B-it,https://github.com/google-deepmind
 BAAI/bge-base-en-v1.5,BAAI,Embeddings,mit,Permissiva,7986569,540,feature-extraction,https://huggingface.co/BAAI/bge-base-en-v1.5,https://github.com/FlagOpen/FlagEmbedding
-Qwen/Qwen3.8-27B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,7892866,18916,image-text-to-text,https://huggingface.co/Qwen/Qwen3.8-27B,https://github.com/QwenLM
+Qwen/Qwen3.8-27B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,7892866,18918,image-text-to-text,https://huggingface.co/Qwen/Qwen3.8-27B,https://github.com/QwenLM
 Qwen/Qwen3-VL-8B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,6902450,1235,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct,https://github.com/QwenLM/Qwen3-VL
 intfloat/multilingual-e5-large,intfloat,Embeddings,mit,Permissiva,6749888,1282,feature-extraction,https://huggingface.co/intfloat/multilingual-e5-large,https://github.com/intfloat
 Qwen/Qwen3.5-4B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,6588471,1175,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-4B,https://github.com/QwenLM

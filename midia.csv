@@ -126,7 +126,7 @@ nvidia/omni-dreams-models,nvidia,Vídeo,other,Aberta com restrição,18072,50,im
 nari-labs/Dia-1.6B-0626,nari-labs,Voz (TTS),apache-2.0,Permissiva,16996,134,text-to-speech,https://huggingface.co/nari-labs/Dia-1.6B-0626,https://github.com/nari-labs/dia
 ACE-Step/acestep-5Hz-lm-0.6B,ACE-Step,Áudio/Música,mit,Permissiva,16892,20,text-to-audio,https://huggingface.co/ACE-Step/acestep-5Hz-lm-0.6B,https://github.com/ace-step
 nvidia/Cosmos-Predict2-2B-Video2World,nvidia,Vídeo,other,Aberta com restrição,16782,110,image-to-video,https://huggingface.co/nvidia/Cosmos-Predict2-2B-Video2World,https://github.com/NVIDIA
-OpenMOSS-Team/MOSS-Image-SFT,OpenMOSS-Team,Imagem,apache-2.0,Permissiva,16757,863,text-to-image,https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT,https://github.com/OpenMOSS
+OpenMOSS-Team/MOSS-Image-SFT,OpenMOSS-Team,Imagem,apache-2.0,Permissiva,16757,864,text-to-image,https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT,https://github.com/OpenMOSS
 alibaba-pai/Wan2.1-Fun-V1.1-1.3B-InP,alibaba-pai,Vídeo,apache-2.0,Permissiva,16341,12,text-to-video,https://huggingface.co/alibaba-pai/Wan2.1-Fun-V1.1-1.3B-InP,https://github.com/Wan-Video/Wan2.1
 facebook/mms-tts-ben,facebook,Voz (TTS),cc-by-nc-4.0,Não comercial,15134,9,text-to-speech,https://huggingface.co/facebook/mms-tts-ben,https://github.com/facebookresearch
 nvidia/magpie_tts_multilingual_357m,nvidia,Voz (TTS),other,Aberta com restrição,14175,239,text-to-speech,https://huggingface.co/nvidia/magpie_tts_multilingual_357m,https://github.com/NVIDIA

@@ -1529,7 +1529,7 @@
   "cat": "Imagem",
   "lic": "apache-2.0",
   "dl": 16757,
-  "likes": 863,
+  "likes": 864,
   "pipe": "text-to-image",
   "grupo_licenca": "Permissiva",
   "hf_url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",

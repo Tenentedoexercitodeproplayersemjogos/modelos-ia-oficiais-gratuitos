@@ -6241,7 +6241,7 @@
   "org": "JetBrains",
   "lic": "apache-2.0",
   "dl": 131,
-  "likes": 7,
+  "likes": 8,
   "pipe": "text-generation",
   "grupo_licenca": "Permissiva",
   "hf_url": "https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP",

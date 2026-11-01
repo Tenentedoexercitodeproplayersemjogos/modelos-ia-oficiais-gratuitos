@@ -566,7 +566,7 @@ google/codegemma-1.1-7b-it,google,gemma,Aberta com restrição,152,52,text-gener
 NousResearch/CodeLlama-34b-hf-flash,NousResearch,nao-declarada,Não declarada,142,1,text-generation,https://huggingface.co/NousResearch/CodeLlama-34b-hf-flash,https://github.com/meta-llama/codellama
 ibm-granite/granite-34b-code-instruct-accelerator,ibm-granite,apache-2.0,Permissiva,141,0,,https://huggingface.co/ibm-granite/granite-34b-code-instruct-accelerator,https://github.com/ibm-granite/granite-code-models
 JetBrains/Mellum-4b-dpo-all,JetBrains,apache-2.0,Permissiva,140,13,text-generation,https://huggingface.co/JetBrains/Mellum-4b-dpo-all,https://github.com/JetBrains/Mellum
-JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP,JetBrains,apache-2.0,Permissiva,131,7,text-generation,https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP,https://github.com/JetBrains/Mellum
+JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP,JetBrains,apache-2.0,Permissiva,131,8,text-generation,https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP,https://github.com/JetBrains/Mellum
 JetBrains/deepseek-coder-1.3B-kexer,JetBrains,apache-2.0,Permissiva,129,8,text-generation,https://huggingface.co/JetBrains/deepseek-coder-1.3B-kexer,https://github.com/deepseek-ai/DeepSeek-Coder-V2
 NousResearch/CodeLlama-7b-Instruct-hf-flash,NousResearch,nao-declarada,Não declarada,128,0,text-generation,https://huggingface.co/NousResearch/CodeLlama-7b-Instruct-hf-flash,https://github.com/meta-llama/codellama
 meta-llama/CodeLlama-7b-hf,meta-llama,llama2,Aberta com restrição,126,129,text-generation,https://huggingface.co/meta-llama/CodeLlama-7b-hf,https://github.com/meta-llama/codellama

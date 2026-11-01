@@ -89,7 +89,7 @@
   "cat": "VLMs (imagem → texto)",
   "lic": "apache-2.0",
   "dl": 7892866,
-  "likes": 18916,
+  "likes": 18918,
   "pipe": "image-text-to-text",
   "grupo_licenca": "Permissiva",
   "hf_url": "https://huggingface.co/Qwen/Qwen3.8-27B",
