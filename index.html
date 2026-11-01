@@ -36,6 +36,7 @@
   .b-rest{color:var(--amber);border-color:#9e6a03;background:#2a210e}
   .b-nc{color:var(--red);border-color:#da3633;background:#2d1214}
   .b-nd{color:var(--gray);border-color:#484f58;background:#1c2128}
+  .b-free{color:#79c0ff;border-color:#1f6feb;background:#0d2a4d}
   .muted{color:var(--muted)}
   .pager{display:flex;align-items:center;justify-content:center;gap:14px;margin-top:18px}
   button{background:var(--panel);color:var(--text);border:1px solid var(--border);border-radius:8px;padding:8px 14px;cursor:pointer;font-size:14px}
@@ -48,6 +49,7 @@
 <header>
   <h1>AIs oficiais e gratuitas</h1>
   <p class="sub">Modelos publicados pelas próprias organizações criadoras, com licença gratuita/aberta. Atualizado toda semana.</p>
+  <p class="sub" style="font-size:13px;margin-top:-8px">“Grátis p/ usar (OpenRouter)” = custo zero, mas <b>não</b> é licença livre. As demais seções são modelos oficiais com licença gratuita.</p>
   <div class="stats" id="stats"></div>
   <div class="links">
     <a href="https://github.com/Tenentedoexercitodeproplayersemjogos/modelos-ia-oficiais-gratuitos" target="_blank" rel="noopener">GitHub do projeto</a>
@@ -55,6 +57,7 @@
     <a href="modelos.csv">CSV texto</a>
     <a href="midia.csv">CSV mídia</a>
     <a href="extras.csv">CSV outros</a>
+    <a href="openrouter.csv">CSV grátis p/ usar</a>
   </div>
 </header>
 
@@ -101,7 +104,8 @@
 const FILES = [
   {url:'modelos.json', fonte:'Texto'},
   {url:'midia.json', fonte:'Mídia'},
-  {url:'extras.json', fonte:'Outros'}
+  {url:'extras.json', fonte:'Outros'},
+  {url:'openrouter.json', fonte:'Grátis p/ usar'}
 ];
 const PAGE = 100;
 let all = [], view = [], page = 0;
@@ -111,7 +115,7 @@ const $ = id => document.getElementById(id);
 
 function fmt(n){ return (n||0).toLocaleString('pt-BR'); }
 function groupClass(g){
-  return g === 'Permissiva' ? 'b-perm' : g === 'Não comercial' ? 'b-nc' : g === 'Não declarada' ? 'b-nd' : 'b-rest';
+  return g === 'Permissiva' ? 'b-perm' : g === 'Não comercial' ? 'b-nc' : g === 'Não declarada' ? 'b-nd' : g === 'Grátis p/ usar' ? 'b-free' : 'b-rest';
 }
 function esc(s){ return String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
 
@@ -122,12 +126,17 @@ async function load(){
     const {fonte, data} = res.value;
     for (const r of data){
       const id = r.id;
-      const cat = r.cat || (fonte === 'Texto' ? (CODE_RE.test(id) ? 'Código' : 'Texto geral') : 'Outros');
+      const isFree = fonte === 'Grátis p/ usar';
+      const cat = r.cat || (fonte === 'Texto' ? (CODE_RE.test(id) ? 'Código' : 'Texto geral') : isFree ? 'Grátis p/ usar' : 'Outros');
+      const hf = r.hf_url || (isFree ? '' : 'https://huggingface.co/' + id);
       all.push({
         id, org: r.org || id.split('/')[0], lic: r.lic || r.licenca || '—',
-        grupo: r.grupo_licenca || 'Não declarada', dl: r.dl || r.downloads || 0,
+        grupo: r.grupo_licenca || (isFree ? 'Grátis p/ usar' : 'Não declarada'),
+        dl: r.dl || r.downloads || r.dl_hf || 0,
         fonte, cat,
-        hf: r.hf_url || ('https://huggingface.co/' + id),
+        primary: isFree ? (r.url || hf) : hf,
+        hf: hf,
+        or: isFree ? (r.url || '') : '',
         gh: r.github_url || ''
       });
     }
@@ -192,15 +201,16 @@ function renderPage(){
   const slice = view.slice(page * PAGE, page * PAGE + PAGE);
   tbody.innerHTML = slice.map(r => `
     <tr>
-      <td><a href="${esc(r.hf)}" target="_blank" rel="noopener">${esc(r.id.split('/').slice(1).join('/'))}</a>
+      <td><a href="${esc(r.primary)}" target="_blank" rel="noopener">${esc(r.id.split('/').slice(1).join('/'))}</a>
           <div class="muted" style="font-size:12px">${esc(r.org)}</div></td>
       <td>${esc(r.cat)}</td>
       <td><span class="badge ${groupClass(r.grupo)}">${esc(r.lic)}</span></td>
       <td class="num">${fmt(r.dl)}</td>
-      <td style="white-space:nowrap">
-        <a href="${esc(r.hf)}" target="_blank" rel="noopener">HF</a>
-        ${r.gh ? ` · <a href="${esc(r.gh)}" target="_blank" rel="noopener">GitHub</a>` : ''}
-      </td>
+      <td style="white-space:nowrap">${[
+        r.hf ? `<a href="${esc(r.hf)}" target="_blank" rel="noopener">HF</a>` : '',
+        r.or ? `<a href="${esc(r.or)}" target="_blank" rel="noopener">OpenRouter</a>` : '',
+        r.gh ? `<a href="${esc(r.gh)}" target="_blank" rel="noopener">GitHub</a>` : ''
+      ].filter(Boolean).join(' · ')}</td>
     </tr>`).join('');
   $('empty').hidden = view.length > 0;
   $('pageinfo').textContent = `Página ${page + 1} de ${pages}`;
