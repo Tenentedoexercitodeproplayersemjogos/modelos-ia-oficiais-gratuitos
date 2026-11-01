@@ -8,14 +8,14 @@ openai/gpt-oss-20b,openai,apache-2.0,Permissiva,6046280,5260,text-generation,htt
 Qwen/Qwen2.5-7B-Instruct,Qwen,apache-2.0,Permissiva,5601971,2483,text-generation,https://huggingface.co/Qwen/Qwen2.5-7B-Instruct,https://github.com/QwenLM/Qwen2.5
 Qwen/Qwen2.5-0.5B-Instruct,Qwen,apache-2.0,Permissiva,4960320,724,text-generation,https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct,https://github.com/QwenLM/Qwen2.5
 Qwen/Qwen2.5-1.5B-Instruct,Qwen,apache-2.0,Permissiva,4554130,923,text-generation,https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct,https://github.com/QwenLM/Qwen2.5
-meta-llama/Llama-3.1-8B-Instruct,meta-llama,llama3.1,Aberta com restrição,4501381,8737,text-generation,https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct,https://github.com/meta-llama/llama-models
+meta-llama/Llama-3.1-8B-Instruct,meta-llama,llama3.1,Aberta com restrição,4501381,8738,text-generation,https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct,https://github.com/meta-llama/llama-models
 Qwen/Qwen3-1.7B,Qwen,apache-2.0,Permissiva,4199333,608,text-generation,https://huggingface.co/Qwen/Qwen3-1.7B,https://github.com/QwenLM/Qwen3
 deepseek-ai/DeepSeek-V4-Flash-0731,deepseek-ai,mit,Permissiva,3168654,4094,text-generation,https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731,https://github.com/deepseek-ai
 Qwen/Qwen2.5-3B-Instruct,Qwen,other,Aberta com restrição,3112986,628,text-generation,https://huggingface.co/Qwen/Qwen2.5-3B-Instruct,https://github.com/QwenLM/Qwen2.5
 Qwen/Qwen3-32B,Qwen,apache-2.0,Permissiva,2934052,791,text-generation,https://huggingface.co/Qwen/Qwen3-32B,https://github.com/QwenLM/Qwen3
 Qwen/Qwen3-4B-Instruct-2507,Qwen,apache-2.0,Permissiva,2610894,1041,text-generation,https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507,https://github.com/QwenLM/Qwen3
 openai/gpt-oss-120b,openai,apache-2.0,Permissiva,2549284,5477,text-generation,https://huggingface.co/openai/gpt-oss-120b,https://github.com/openai/gpt-oss
-zai-org/GLM-5.3,zai-org,other,Aberta com restrição,2473851,2362,text-generation,https://huggingface.co/zai-org/GLM-5.3,https://github.com/zai-org/GLM-4.5
+zai-org/GLM-5.3,zai-org,other,Aberta com restrição,2473851,2363,text-generation,https://huggingface.co/zai-org/GLM-5.3,https://github.com/zai-org/GLM-4.5
 HuggingFaceTB/SmolLM2-135M,HuggingFaceTB,apache-2.0,Permissiva,2372787,266,text-generation,https://huggingface.co/HuggingFaceTB/SmolLM2-135M,https://github.com/huggingface/smollm
 Qwen/Qwen2.5-Coder-14B-Instruct,Qwen,apache-2.0,Permissiva,1967786,210,text-generation,https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct,https://github.com/QwenLM/Qwen2.5-Coder
 meta-llama/Llama-3.2-1B-Instruct,meta-llama,llama3.2,Aberta com restrição,1899093,1931,text-generation,https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct,https://github.com/meta-llama/llama-models
@@ -23,7 +23,7 @@ nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16,nvidia,other,Aberta com restrição,188361
 nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16,nvidia,other,Aberta com restrição,1763961,840,text-generation,https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16,https://github.com/NVIDIA
 mistralai/Mistral-7B-Instruct-v0.2,mistralai,apache-2.0,Permissiva,1741602,3277,text-generation,https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2,https://github.com/mistralai
 deepseek-ai/DeepSeek-R1,deepseek-ai,mit,Permissiva,1712192,14422,text-generation,https://huggingface.co/deepseek-ai/DeepSeek-R1,https://github.com/deepseek-ai/DeepSeek-R1
-deepseek-ai/DeepSeek-V3,deepseek-ai,nao-declarada,Não declarada,1657256,4461,text-generation,https://huggingface.co/deepseek-ai/DeepSeek-V3,https://github.com/deepseek-ai/DeepSeek-V3
+deepseek-ai/DeepSeek-V3,deepseek-ai,nao-declarada,Não declarada,1657256,4462,text-generation,https://huggingface.co/deepseek-ai/DeepSeek-V3,https://github.com/deepseek-ai/DeepSeek-V3
 zai-org/GLM-5,zai-org,mit,Permissiva,1615751,2141,text-generation,https://huggingface.co/zai-org/GLM-5,https://github.com/zai-org/GLM-4.5
 Qwen/Qwen2.5-Coder-7B-Instruct,Qwen,apache-2.0,Permissiva,1499654,856,text-generation,https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct,https://github.com/QwenLM/Qwen2.5-Coder
 nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16,nvidia,other,Aberta com restrição,1429742,381,text-generation,https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16,https://github.com/NVIDIA
@@ -31,7 +31,7 @@ MiniMaxAI/MiniMax-M2.5,MiniMaxAI,other,Aberta com restrição,1358450,1529,text-
 tencent/Hy3,tencent,apache-2.0,Permissiva,1331157,990,text-generation,https://huggingface.co/tencent/Hy3,https://github.com/Tencent-Hunyuan
 zai-org/GLM-4.5-Air,zai-org,mit,Permissiva,1328974,649,text-generation,https://huggingface.co/zai-org/GLM-4.5-Air,https://github.com/zai-org/GLM-4.5
 Qwen/Qwen2.5-0.5B,Qwen,apache-2.0,Permissiva,1210292,488,text-generation,https://huggingface.co/Qwen/Qwen2.5-0.5B,https://github.com/QwenLM/Qwen2.5
-nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16,nvidia,other,Aberta com restrição,1177164,259,text-generation,https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16,https://github.com/NVIDIA
+nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16,nvidia,other,Aberta com restrição,1177164,260,text-generation,https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16,https://github.com/NVIDIA
 nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16,nvidia,other,Aberta com restrição,1153587,440,text-generation,https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16,https://github.com/NVIDIA
 Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8,Qwen,apache-2.0,Permissiva,1153554,239,text-generation,https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8,https://github.com/QwenLM/Qwen3-Coder
 Qwen/Qwen3-Coder-30B-A3B-Instruct,Qwen,apache-2.0,Permissiva,1056691,1314,text-generation,https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct,https://github.com/QwenLM/Qwen3-Coder
@@ -81,7 +81,7 @@ LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct,LGAI-EXAONE,other,Aberta com restrição,34
 ibm-granite/granite-3.3-2b-instruct,ibm-granite,apache-2.0,Permissiva,336951,87,text-generation,https://huggingface.co/ibm-granite/granite-3.3-2b-instruct,https://github.com/ibm-granite/granite-code-models
 MiniMaxAI/MiniMax-M2.7,MiniMaxAI,other,Aberta com restrição,335244,1261,text-generation,https://huggingface.co/MiniMaxAI/MiniMax-M2.7,https://github.com/MiniMax-AI/MiniMax-M2
 Qwen/Qwen2.5-Coder-7B-Instruct-GGUF,Qwen,apache-2.0,Permissiva,325382,616,text-generation,https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF,https://github.com/QwenLM/Qwen2.5-Coder
-meta-llama/Meta-Llama-3-8B-Instruct,meta-llama,llama3,Aberta com restrição,318668,5666,text-generation,https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct,https://github.com/meta-llama
+meta-llama/Meta-Llama-3-8B-Instruct,meta-llama,llama3,Aberta com restrição,318668,5667,text-generation,https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct,https://github.com/meta-llama
 deepseek-ai/DeepSeek-R1-Distill-Qwen-7B,deepseek-ai,mit,Permissiva,317183,949,text-generation,https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B,https://github.com/deepseek-ai/DeepSeek-R1
 microsoft/Phi-3-mini-4k-instruct,microsoft,mit,Permissiva,314713,1484,text-generation,https://huggingface.co/microsoft/Phi-3-mini-4k-instruct,https://github.com/microsoft
 moonshotai/Kimi-K2-Instruct,moonshotai,other,Aberta com restrição,314569,3008,text-generation,https://huggingface.co/moonshotai/Kimi-K2-Instruct,https://github.com/MoonshotAI/Kimi-K2
@@ -146,7 +146,7 @@ moonshotai/Kimi-Linear-48B-A3B-Instruct,moonshotai,mit,Permissiva,89218,613,text
 google/gemma-2b,google,gemma,Aberta com restrição,88745,1265,text-generation,https://huggingface.co/google/gemma-2b,https://github.com/google-deepmind/gemma
 HuggingFaceTB/SmolLM-135M,HuggingFaceTB,apache-2.0,Permissiva,87330,277,text-generation,https://huggingface.co/HuggingFaceTB/SmolLM-135M,https://github.com/huggingface/smollm
 nomic-ai/CodeRankEmbed,nomic-ai,mit,Permissiva,84559,80,,https://huggingface.co/nomic-ai/CodeRankEmbed,https://github.com/nomic-ai
-nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB,nvidia,other,Aberta com restrição,83901,321,text-generation,https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB,https://github.com/NVIDIA
+nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB,nvidia,other,Aberta com restrição,83901,322,text-generation,https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB,https://github.com/NVIDIA
 Qwen/Qwen2-1.5B-Instruct,Qwen,apache-2.0,Permissiva,83307,175,text-generation,https://huggingface.co/Qwen/Qwen2-1.5B-Instruct,https://github.com/QwenLM
 Qwen/Qwen2.5-7B-Instruct-1M,Qwen,apache-2.0,Permissiva,83303,389,text-generation,https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M,https://github.com/QwenLM/Qwen2.5
 moonshotai/Kimi-K2.7-Code,moonshotai,other,Aberta com restrição,83255,1427,image-text-to-text,https://huggingface.co/moonshotai/Kimi-K2.7-Code,https://github.com/MoonshotAI/Kimi-K2
@@ -339,7 +339,7 @@ ibm-granite/granite-3.1-1b-a400m-instruct,ibm-granite,apache-2.0,Permissiva,1121
 01-ai/Yi-34B,01-ai,apache-2.0,Permissiva,11081,1315,text-generation,https://huggingface.co/01-ai/Yi-34B,https://github.com/01-ai/Yi
 01-ai/Yi-6B-200K,01-ai,apache-2.0,Permissiva,11046,172,text-generation,https://huggingface.co/01-ai/Yi-6B-200K,https://github.com/01-ai/Yi
 Qwen/Qwen1.5-32B,Qwen,other,Aberta com restrição,11015,93,text-generation,https://huggingface.co/Qwen/Qwen1.5-32B,https://github.com/QwenLM
-deepseek-ai/DeepSeek-V3.1-Base,deepseek-ai,mit,Permissiva,10971,1026,text-generation,https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base,https://github.com/deepseek-ai/DeepSeek-V3
+deepseek-ai/DeepSeek-V3.1-Base,deepseek-ai,mit,Permissiva,10971,1027,text-generation,https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base,https://github.com/deepseek-ai/DeepSeek-V3
 Qwen/Qwen1.5-72B-Chat,Qwen,other,Aberta com restrição,10950,224,text-generation,https://huggingface.co/Qwen/Qwen1.5-72B-Chat,https://github.com/QwenLM
 tiiuae/falcon-40b-instruct,tiiuae,apache-2.0,Permissiva,10908,1186,text-generation,https://huggingface.co/tiiuae/falcon-40b-instruct,https://github.com/tiiuae
 deepseek-ai/deepseek-llm-67b-base,deepseek-ai,other,Aberta com restrição,10583,152,text-generation,https://huggingface.co/deepseek-ai/deepseek-llm-67b-base,https://github.com/deepseek-ai
