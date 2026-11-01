@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AIs oficiais e gratuitas</title>
+<style>
+  :root{
+    --bg:#0d1117; --panel:#161b22; --border:#30363d; --text:#e6edf3; --muted:#8b949e;
+    --accent:#2f81f7; --green:#3fb950; --amber:#d29922; --red:#f85149; --gray:#6e7681;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+  a{color:var(--accent);text-decoration:none}
+  a:hover{text-decoration:underline}
+  header{padding:28px 20px 10px;max-width:1200px;margin:0 auto}
+  h1{margin:0 0 6px;font-size:26px}
+  .sub{color:var(--muted);margin:0 0 14px}
+  .stats{display:flex;gap:18px;flex-wrap:wrap;color:var(--muted);font-size:14px;margin-bottom:14px}
+  .stats b{color:var(--text)}
+  .links{display:flex;gap:14px;flex-wrap:wrap;font-size:14px;margin-bottom:6px}
+  main{max-width:1200px;margin:0 auto;padding:0 20px 60px}
+  .controls{display:grid;grid-template-columns:2fr repeat(4,1fr);gap:10px;margin:16px 0}
+  @media(max-width:900px){.controls{grid-template-columns:1fr 1fr}}
+  @media(max-width:560px){.controls{grid-template-columns:1fr}}
+  input,select{background:var(--panel);color:var(--text);border:1px solid var(--border);border-radius:8px;padding:10px 12px;font-size:14px;width:100%}
+  input:focus,select:focus{outline:2px solid var(--accent);outline-offset:-1px}
+  .tablewrap{overflow-x:auto;border:1px solid var(--border);border-radius:10px}
+  table{border-collapse:collapse;width:100%;min-width:760px}
+  th,td{padding:10px 12px;border-bottom:1px solid var(--border);text-align:left;vertical-align:top}
+  th{background:var(--panel);font-size:13px;color:var(--muted);position:sticky;top:0}
+  tr:hover td{background:#1b212a}
+  td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+  .badge{display:inline-block;padding:2px 8px;border-radius:20px;font-size:12px;border:1px solid}
+  .b-perm{color:var(--green);border-color:#238636;background:#0f2a17}
+  .b-rest{color:var(--amber);border-color:#9e6a03;background:#2a210e}
+  .b-nc{color:var(--red);border-color:#da3633;background:#2d1214}
+  .b-nd{color:var(--gray);border-color:#484f58;background:#1c2128}
+  .muted{color:var(--muted)}
+  .pager{display:flex;align-items:center;justify-content:center;gap:14px;margin-top:18px}
+  button{background:var(--panel);color:var(--text);border:1px solid var(--border);border-radius:8px;padding:8px 14px;cursor:pointer;font-size:14px}
+  button:disabled{opacity:.4;cursor:default}
+  footer{max-width:1200px;margin:0 auto;padding:0 20px 40px;color:var(--muted);font-size:13px}
+  .empty{padding:30px;text-align:center;color:var(--muted)}
+</style>
+</head>
+<body>
+<header>
+  <h1>AIs oficiais e gratuitas</h1>
+  <p class="sub">Modelos publicados pelas próprias organizações criadoras, com licença gratuita/aberta. Atualizado toda semana.</p>
+  <div class="stats" id="stats"></div>
+  <div class="links">
+    <a href="https://github.com/Tenentedoexercitodeproplayersemjogos/modelos-ia-oficiais-gratuitos" target="_blank" rel="noopener">GitHub do projeto</a>
+    <a href="https://huggingface.co/collections/Darkzinhoo/modelos-de-ia-oficiais-e-gratuitos-6ae598997b5be2d991c1bc10" target="_blank" rel="noopener">Coleção no Hugging Face</a>
+    <a href="modelos.csv">CSV texto</a>
+    <a href="midia.csv">CSV mídia</a>
+    <a href="extras.csv">CSV outros</a>
+  </div>
+</header>
+
+<main>
+  <div class="controls">
+    <input id="q" type="search" placeholder="Buscar por modelo ou organização…" aria-label="Buscar">
+    <select id="fonte" aria-label="Fonte"><option value="">Todas as fontes</option></select>
+    <select id="cat" aria-label="Categoria"><option value="">Todas as categorias</option></select>
+    <select id="lic" aria-label="Licença"><option value="">Todas as licenças</option></select>
+    <select id="org" aria-label="Organização"><option value="">Todas as organizações</option></select>
+  </div>
+  <div class="controls" style="grid-template-columns:1fr">
+    <select id="sort" aria-label="Ordenar">
+      <option value="dl">Mais downloads</option>
+      <option value="dlasc">Menos downloads</option>
+      <option value="az">Nome (A–Z)</option>
+      <option value="za">Nome (Z–A)</option>
+    </select>
+  </div>
+
+  <div class="tablewrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Modelo</th><th>Categoria</th><th>Licença</th><th class="num">Downloads</th><th>Links</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+    <div class="empty" id="empty" hidden>Nenhum modelo encontrado com esses filtros.</div>
+  </div>
+  <div class="pager">
+    <button id="prev" type="button">← Anterior</button>
+    <span id="pageinfo" class="muted"></span>
+    <button id="next" type="button">Próxima →</button>
+  </div>
+</main>
+
+<footer>
+  Dados gerados a partir da API do Hugging Face · <span id="updated"></span>
+</footer>
+
+<script>
+const FILES = [
+  {url:'modelos.json', fonte:'Texto'},
+  {url:'midia.json', fonte:'Mídia'},
+  {url:'extras.json', fonte:'Outros'}
+];
+const PAGE = 100;
+let all = [], view = [], page = 0;
+
+const CODE_RE = /(code|coder|codestral|codellama|codegemma|starcoder|mellum|codebert|codet5|codegen|unixcoder)/i;
+const $ = id => document.getElementById(id);
+
+function fmt(n){ return (n||0).toLocaleString('pt-BR'); }
+function groupClass(g){
+  return g === 'Permissiva' ? 'b-perm' : g === 'Não comercial' ? 'b-nc' : g === 'Não declarada' ? 'b-nd' : 'b-rest';
+}
+function esc(s){ return String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+async function load(){
+  const results = await Promise.allSettled(FILES.map(f => fetch(f.url).then(r => r.json()).then(d => ({fonte:f.fonte, data:d}))));
+  for (const res of results){
+    if (res.status !== 'fulfilled') continue;
+    const {fonte, data} = res.value;
+    for (const r of data){
+      const id = r.id;
+      const cat = r.cat || (fonte === 'Texto' ? (CODE_RE.test(id) ? 'Código' : 'Texto geral') : 'Outros');
+      all.push({
+        id, org: r.org || id.split('/')[0], lic: r.lic || r.licenca || '—',
+        grupo: r.grupo_licenca || 'Não declarada', dl: r.dl || r.downloads || 0,
+        fonte, cat,
+        hf: r.hf_url || ('https://huggingface.co/' + id),
+        gh: r.github_url || ''
+      });
+    }
+  }
+  // remove duplicados (mesmo id em fontes diferentes)
+  const map = new Map();
+  for (const r of all) if (!map.has(r.id)) map.set(r.id, r);
+  all = [...map.values()];
+  initFilters();
+  apply();
+}
+
+function fill(sel, values){
+  for (const v of values){
+    const o = document.createElement('option');
+    o.value = v; o.textContent = v; sel.appendChild(o);
+  }
+}
+function initFilters(){
+  fill($('fonte'), [...new Set(all.map(r => r.fonte))].sort());
+  fill($('cat'), [...new Set(all.map(r => r.cat))].sort());
+  fill($('lic'), [...new Set(all.map(r => r.grupo))].sort());
+  fill($('org'), [...new Set(all.map(r => r.org))].sort((a,b)=>a.localeCompare(b)));
+  for (const id of ['q','fonte','cat','lic','org','sort']) {
+    $(id).addEventListener('input', () => { page = 0; apply(); });
+  }
+}
+
+function apply(){
+  const q = $('q').value.trim().toLowerCase();
+  view = all.filter(r =>
+    (!q || r.id.toLowerCase().includes(q) || r.org.toLowerCase().includes(q)) &&
+    (!$('fonte').value || r.fonte === $('fonte').value) &&
+    (!$('cat').value || r.cat === $('cat').value) &&
+    (!$('lic').value || r.grupo === $('lic').value) &&
+    (!$('org').value || r.org === $('org').value)
+  );
+  const s = $('sort').value;
+  view.sort((a,b) =>
+    s === 'az' ? a.id.localeCompare(b.id) :
+    s === 'za' ? b.id.localeCompare(a.id) :
+    s === 'dlasc' ? a.dl - b.dl : b.dl - a.dl
+  );
+  renderStats();
+  renderPage();
+}
+
+function renderStats(){
+  const orgs = new Set(view.map(r => r.org)).size;
+  const cats = new Set(view.map(r => r.cat)).size;
+  $('stats').innerHTML =
+    `<span><b>${fmt(view.length)}</b> modelos</span>` +
+    `<span><b>${fmt(orgs)}</b> organizações</span>` +
+    `<span><b>${fmt(cats)}</b> categorias</span>` +
+    `<span>${fmt(all.length)} no total</span>`;
+}
+
+function renderPage(){
+  const tbody = $('tbody');
+  const pages = Math.max(1, Math.ceil(view.length / PAGE));
+  page = Math.min(page, pages - 1);
+  const slice = view.slice(page * PAGE, page * PAGE + PAGE);
+  tbody.innerHTML = slice.map(r => `
+    <tr>
+      <td><a href="${esc(r.hf)}" target="_blank" rel="noopener">${esc(r.id.split('/').slice(1).join('/'))}</a>
+          <div class="muted" style="font-size:12px">${esc(r.org)}</div></td>
+      <td>${esc(r.cat)}</td>
+      <td><span class="badge ${groupClass(r.grupo)}">${esc(r.lic)}</span></td>
+      <td class="num">${fmt(r.dl)}</td>
+      <td style="white-space:nowrap">
+        <a href="${esc(r.hf)}" target="_blank" rel="noopener">HF</a>
+        ${r.gh ? ` · <a href="${esc(r.gh)}" target="_blank" rel="noopener">GitHub</a>` : ''}
+      </td>
+    </tr>`).join('');
+  $('empty').hidden = view.length > 0;
+  $('pageinfo').textContent = `Página ${page + 1} de ${pages}`;
+  $('prev').disabled = page === 0;
+  $('next').disabled = page >= pages - 1;
+}
+
+$('prev').onclick = () => { if (page > 0){ page--; renderPage(); window.scrollTo({top:0,behavior:'smooth'}); } };
+$('next').onclick = () => { page++; renderPage(); window.scrollTo({top:0,behavior:'smooth'}); };
+
+$('updated').textContent = 'Última carga: ' + new Date().toLocaleDateString('pt-BR');
+load();
+</script>
+</body>
+</html>
