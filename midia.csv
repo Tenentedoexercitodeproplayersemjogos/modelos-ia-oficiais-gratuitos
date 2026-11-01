@@ -1,14 +1,14 @@
 id,organizacao,categoria,licenca,grupo_licenca,downloads,likes,tarefa,hf_url,github_url
 hexgrad/Kokoro-82M,hexgrad,Voz (TTS),apache-2.0,Permissiva,11247512,7322,text-to-speech,https://huggingface.co/hexgrad/Kokoro-82M,https://github.com/hexgrad/kokoro
 pyannote/speaker-diarization-3.1,pyannote,Transcrição (ASR),mit,Permissiva,6978772,4810,automatic-speech-recognition,https://huggingface.co/pyannote/speaker-diarization-3.1,https://github.com/pyannote
-coqui/XTTS-v2,coqui,Voz (TTS),other,Aberta com restrição,6019753,3928,text-to-speech,https://huggingface.co/coqui/XTTS-v2,https://github.com/coqui-ai/TTS
+coqui/XTTS-v2,coqui,Voz (TTS),other,Aberta com restrição,6019753,3929,text-to-speech,https://huggingface.co/coqui/XTTS-v2,https://github.com/coqui-ai/TTS
 openai/whisper-large-v3-turbo,openai,Transcrição (ASR),mit,Permissiva,5677585,3493,automatic-speech-recognition,https://huggingface.co/openai/whisper-large-v3-turbo,https://github.com/openai/whisper
-pyannote/speaker-diarization-community-1,pyannote,Transcrição (ASR),cc-by-4.0,Permissiva,5140776,3661,automatic-speech-recognition,https://huggingface.co/pyannote/speaker-diarization-community-1,https://github.com/pyannote
+pyannote/speaker-diarization-community-1,pyannote,Transcrição (ASR),cc-by-4.0,Permissiva,5140776,3662,automatic-speech-recognition,https://huggingface.co/pyannote/speaker-diarization-community-1,https://github.com/pyannote
 stabilityai/stable-diffusion-xl-base-1.0,stabilityai,Imagem,openrail++,Aberta com restrição,4454720,8424,text-to-image,https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0,https://github.com/Stability-AI/generative-models
 openai/whisper-small,openai,Transcrição (ASR),apache-2.0,Permissiva,4140257,645,automatic-speech-recognition,https://huggingface.co/openai/whisper-small,https://github.com/openai/whisper
 openai/whisper-large-v3,openai,Transcrição (ASR),apache-2.0,Permissiva,3474365,6731,automatic-speech-recognition,https://huggingface.co/openai/whisper-large-v3,https://github.com/openai/whisper
 openai/whisper-base,openai,Transcrição (ASR),apache-2.0,Permissiva,3021264,313,automatic-speech-recognition,https://huggingface.co/openai/whisper-base,https://github.com/openai/whisper
-Lightricks/LTX-2.5,Lightricks,Vídeo,other,Aberta com restrição,2431846,10200,image-to-video,https://huggingface.co/Lightricks/LTX-2.5,https://github.com/Lightricks/LTX-Video
+Lightricks/LTX-2.5,Lightricks,Vídeo,other,Aberta com restrição,2431846,10202,image-to-video,https://huggingface.co/Lightricks/LTX-2.5,https://github.com/Lightricks/LTX-Video
 ResembleAI/chatterbox,ResembleAI,Voz (TTS),mit,Permissiva,2166054,1882,text-to-speech,https://huggingface.co/ResembleAI/chatterbox,https://github.com/resemble-ai/chatterbox
 facebook/musicgen-medium,facebook,Áudio/Música,cc-by-nc-4.0,Não comercial,1969378,178,text-to-audio,https://huggingface.co/facebook/musicgen-medium,https://github.com/facebookresearch/audiocraft
 facebook/wav2vec2-base-960h,facebook,Transcrição (ASR),apache-2.0,Permissiva,1780245,415,automatic-speech-recognition,https://huggingface.co/facebook/wav2vec2-base-960h,https://github.com/facebookresearch
@@ -16,7 +16,7 @@ mistralai/Voxtral-Mini-4B-Realtime-2602,mistralai,Transcrição (ASR),apache-2.0
 Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice,Qwen,Voz (TTS),apache-2.0,Permissiva,1749479,2191,text-to-speech,https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice,https://github.com/QwenLM
 Qwen/Qwen3-ASR-1.7B,Qwen,Transcrição (ASR),apache-2.0,Permissiva,1549985,1219,automatic-speech-recognition,https://huggingface.co/Qwen/Qwen3-ASR-1.7B,https://github.com/QwenLM
 Lightricks/LTX-Video,Lightricks,Vídeo,other,Aberta com restrição,1113217,2396,image-to-video,https://huggingface.co/Lightricks/LTX-Video,https://github.com/Lightricks/LTX-Video
-Lightricks/LTX-2.3,Lightricks,Vídeo,other,Aberta com restrição,888151,2009,image-to-video,https://huggingface.co/Lightricks/LTX-2.3,https://github.com/Lightricks/LTX-Video
+Lightricks/LTX-2.3,Lightricks,Vídeo,other,Aberta com restrição,888151,2010,image-to-video,https://huggingface.co/Lightricks/LTX-2.3,https://github.com/Lightricks/LTX-Video
 Qwen/Qwen3-ASR-0.6B,Qwen,Transcrição (ASR),apache-2.0,Permissiva,807441,394,automatic-speech-recognition,https://huggingface.co/Qwen/Qwen3-ASR-0.6B,https://github.com/QwenLM
 Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice,Qwen,Voz (TTS),apache-2.0,Permissiva,772075,210,text-to-speech,https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice,https://github.com/QwenLM
 Qwen/Qwen3-TTS-12Hz-0.6B-Base,Qwen,Voz (TTS),apache-2.0,Permissiva,744498,360,text-to-speech,https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-Base,https://github.com/QwenLM
@@ -29,13 +29,13 @@ stabilityai/sdxl-turbo,stabilityai,Imagem,other,Aberta com restrição,633431,26
 stabilityai/sd-turbo,stabilityai,Imagem,nao-declarada,Não declarada,613577,471,text-to-image,https://huggingface.co/stabilityai/sd-turbo,https://github.com/stabilityai
 nvidia/parakeet-tdt-0.6b-v3,nvidia,Transcrição (ASR),cc-by-4.0,Permissiva,585523,1245,automatic-speech-recognition,https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3,https://github.com/NVIDIA
 black-forest-labs/FLUX.1-dev,black-forest-labs,Imagem,other,Aberta com restrição,558339,15875,text-to-image,https://huggingface.co/black-forest-labs/FLUX.1-dev,https://github.com/black-forest-labs/flux
-Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign,Qwen,Voz (TTS),apache-2.0,Permissiva,523722,463,text-to-speech,https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign,https://github.com/QwenLM
+Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign,Qwen,Voz (TTS),apache-2.0,Permissiva,523722,464,text-to-speech,https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign,https://github.com/QwenLM
 Qwen/Qwen3-ASR-0.6B-hf,Qwen,Transcrição (ASR),apache-2.0,Permissiva,487344,93,automatic-speech-recognition,https://huggingface.co/Qwen/Qwen3-ASR-0.6B-hf,https://github.com/QwenLM
 Qwen/Qwen3-ForcedAligner-0.6B,Qwen,Transcrição (ASR),apache-2.0,Permissiva,418850,176,automatic-speech-recognition,https://huggingface.co/Qwen/Qwen3-ForcedAligner-0.6B,https://github.com/QwenLM
 facebook/wav2vec2-lv-60-espeak-cv-ft,facebook,Transcrição (ASR),apache-2.0,Permissiva,378912,77,automatic-speech-recognition,https://huggingface.co/facebook/wav2vec2-lv-60-espeak-cv-ft,https://github.com/facebookresearch
 openai/whisper-medium,openai,Transcrição (ASR),apache-2.0,Permissiva,374588,316,automatic-speech-recognition,https://huggingface.co/openai/whisper-medium,https://github.com/openai/whisper
 black-forest-labs/FLUX.1-schnell,black-forest-labs,Imagem,apache-2.0,Permissiva,357523,6540,text-to-image,https://huggingface.co/black-forest-labs/FLUX.1-schnell,https://github.com/black-forest-labs/flux
-Qwen/Qwen3-ASR-1.7B-hf,Qwen,Transcrição (ASR),apache-2.0,Permissiva,337396,156,automatic-speech-recognition,https://huggingface.co/Qwen/Qwen3-ASR-1.7B-hf,https://github.com/QwenLM
+Qwen/Qwen3-ASR-1.7B-hf,Qwen,Transcrição (ASR),apache-2.0,Permissiva,337396,157,automatic-speech-recognition,https://huggingface.co/Qwen/Qwen3-ASR-1.7B-hf,https://github.com/QwenLM
 Qwen/Qwen-Image,Qwen,Imagem,apache-2.0,Permissiva,324445,2692,text-to-image,https://huggingface.co/Qwen/Qwen-Image,https://github.com/QwenLM/Qwen-Image
 facebook/wav2vec2-large-960h-lv60-self,facebook,Transcrição (ASR),apache-2.0,Permissiva,320875,172,automatic-speech-recognition,https://huggingface.co/facebook/wav2vec2-large-960h-lv60-self,https://github.com/facebookresearch
 facebook/seamless-m4t-v2-large,facebook,Transcrição (ASR),cc-by-nc-4.0,Não comercial,313210,1036,automatic-speech-recognition,https://huggingface.co/facebook/seamless-m4t-v2-large,https://github.com/facebookresearch
@@ -104,7 +104,7 @@ fishaudio/drama-3,fishaudio,Voz (TTS),other,Aberta com restrição,33436,1133,te
 openai/whisper-medium.en,openai,Transcrição (ASR),apache-2.0,Permissiva,32386,69,automatic-speech-recognition,https://huggingface.co/openai/whisper-medium.en,https://github.com/openai/whisper
 ai4bharat/IndicF5,ai4bharat,Voz (TTS),mit,Permissiva,30562,379,text-to-speech,https://huggingface.co/ai4bharat/IndicF5,https://github.com/AI4Bharat
 google/magenta-realtime-2,google,Áudio/Música,cc-by-4.0,Permissiva,30417,265,text-to-audio,https://huggingface.co/google/magenta-realtime-2,https://github.com/google-deepmind
-nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B,nvidia,Transcrição (ASR),other,Aberta com restrição,29364,587,automatic-speech-recognition,https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B,https://github.com/NVIDIA
+nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B,nvidia,Transcrição (ASR),other,Aberta com restrição,29364,590,automatic-speech-recognition,https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B,https://github.com/NVIDIA
 facebook/musicgen-large,facebook,Áudio/Música,cc-by-nc-4.0,Não comercial,27259,544,text-to-audio,https://huggingface.co/facebook/musicgen-large,https://github.com/facebookresearch/audiocraft
 black-forest-labs/FLUX.1-Krea-dev,black-forest-labs,Imagem,other,Aberta com restrição,26559,957,text-to-image,https://huggingface.co/black-forest-labs/FLUX.1-Krea-dev,https://github.com/black-forest-labs/flux
 nvidia/parakeet-rnnt-0.6b,nvidia,Transcrição (ASR),cc-by-4.0,Permissiva,26336,18,automatic-speech-recognition,https://huggingface.co/nvidia/parakeet-rnnt-0.6b,https://github.com/NVIDIA

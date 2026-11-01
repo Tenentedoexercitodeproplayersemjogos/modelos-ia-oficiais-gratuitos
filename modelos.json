@@ -114,7 +114,7 @@
   "org": "Qwen",
   "lic": "apache-2.0",
   "dl": 4199333,
-  "likes": 607,
+  "likes": 608,
   "pipe": "text-generation",
   "grupo_licenca": "Permissiva",
   "hf_url": "https://huggingface.co/Qwen/Qwen3-1.7B",

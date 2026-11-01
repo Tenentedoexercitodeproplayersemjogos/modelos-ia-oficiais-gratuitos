@@ -9,7 +9,7 @@ Qwen/Qwen2.5-7B-Instruct,Qwen,apache-2.0,Permissiva,5601971,2483,text-generation
 Qwen/Qwen2.5-0.5B-Instruct,Qwen,apache-2.0,Permissiva,4960320,724,text-generation,https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct,https://github.com/QwenLM/Qwen2.5
 Qwen/Qwen2.5-1.5B-Instruct,Qwen,apache-2.0,Permissiva,4554130,923,text-generation,https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct,https://github.com/QwenLM/Qwen2.5
 meta-llama/Llama-3.1-8B-Instruct,meta-llama,llama3.1,Aberta com restrição,4501381,8737,text-generation,https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct,https://github.com/meta-llama/llama-models
-Qwen/Qwen3-1.7B,Qwen,apache-2.0,Permissiva,4199333,607,text-generation,https://huggingface.co/Qwen/Qwen3-1.7B,https://github.com/QwenLM/Qwen3
+Qwen/Qwen3-1.7B,Qwen,apache-2.0,Permissiva,4199333,608,text-generation,https://huggingface.co/Qwen/Qwen3-1.7B,https://github.com/QwenLM/Qwen3
 deepseek-ai/DeepSeek-V4-Flash-0731,deepseek-ai,mit,Permissiva,3168654,4094,text-generation,https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731,https://github.com/deepseek-ai
 Qwen/Qwen2.5-3B-Instruct,Qwen,other,Aberta com restrição,3112986,628,text-generation,https://huggingface.co/Qwen/Qwen2.5-3B-Instruct,https://github.com/QwenLM/Qwen2.5
 Qwen/Qwen3-32B,Qwen,apache-2.0,Permissiva,2934052,791,text-generation,https://huggingface.co/Qwen/Qwen3-32B,https://github.com/QwenLM/Qwen3
