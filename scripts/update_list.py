@@ -257,6 +257,18 @@ def write_readme(rows, path="README.md"):
     A("- Licença gratuita ou aberta (Apache-2.0, MIT, BSD, CC-BY, Llama, Gemma, Qwen, OpenRAIL, CC-BY-NC)")
     A("- Quants oficiais incluídos apenas quando publicados pela própria dona")
     A("- Dados: [`modelos.csv`](modelos.csv) · [`modelos.json`](modelos.json)\n")
+    midia = []
+    if os.path.exists("midia.json"):
+        try:
+            midia = json.load(open("midia.json", encoding="utf-8"))
+        except Exception:
+            midia = []
+    if midia:
+        cats = Counter(r["cat"] for r in midia)
+        A("## Modelos não-texto (imagem, vídeo, áudio e voz)\n")
+        A(f"**{len(midia)} modelos** oficiais em {len(cats)} categorias: " +
+          " · ".join(f"{k} ({v})" for k, v in cats.items()) + ".\n")
+        A("📄 Lista completa: [`midia.md`](midia.md) · [`midia.csv`](midia.csv) · [`midia.json`](midia.json)\n")
     A("## Índice de organizações\n")
     for org in sorted(posorg, key=lambda o: (-len(posorg[o]), o)):
         A(f"- [{org}](#{org.lower().replace('.', '').replace('_', '-')}) ({len(posorg[org])})")
