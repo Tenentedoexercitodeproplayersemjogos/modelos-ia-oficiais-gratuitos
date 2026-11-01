@@ -1,8 +1,8 @@
 # Modelos de IA oficiais e gratuitos
 
-Lista de **1059 modelos** de IA publicados pelas **próprias organizações criadoras**, com licença gratuita/aberta.
+Lista de **1073 entradas** de IA publicadas pelas **próprias organizações criadoras** ou com custo zero para usar, com licença gratuita/aberta.
 
-São **663** de texto/código, **158** de mídia (imagem, vídeo, áudio e voz) e **238** de VLMs, embeddings, rerankers, edição de imagem e 3D.
+São **663** de texto/código, **158** de mídia (imagem, vídeo, áudio e voz), **238** de VLMs, embeddings, rerankers, edição de imagem e 3D e **14** grátis para usar na OpenRouter.
 
 🔗 **Coleção no Hugging Face:** https://huggingface.co/collections/Darkzinhoo/modelos-de-ia-oficiais-e-gratuitos-6ae598997b5be2d991c1bc10
 
@@ -32,6 +32,12 @@ São **663** de texto/código, **158** de mídia (imagem, vídeo, áudio e voz) 
 **238 modelos** oficiais em 5 categorias: Embeddings (101) · VLMs (imagem → texto) (90) · 3D (14) · Rerankers (19) · Edição de imagem (14).
 
 📄 Lista completa: [`extras.md`](extras.md) · [`extras.csv`](extras.csv) · [`extras.json`](extras.json)
+
+## Grátis para usar (OpenRouter)
+
+**14 modelos** com custo zero na OpenRouter. ⚠️ Grátis para usar ≠ licença livre; a licença mostrada é a declarada no Hugging Face quando existe.
+
+📄 Lista completa: [`openrouter.md`](openrouter.md) · [`openrouter.csv`](openrouter.csv) · [`openrouter.json`](openrouter.json)
 
 ## Índice de organizações
 
