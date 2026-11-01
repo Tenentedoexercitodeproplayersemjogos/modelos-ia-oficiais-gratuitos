@@ -243,8 +243,8 @@ def write_readme(rows, path="README.md"):
     esp = [r for r in rows if CODE.search(r["id"].lower().split("/", 1)[1])]
     gen = [r for r in rows if not CODE.search(r["id"].lower().split("/", 1)[1])]
     g = Counter(grupo(r["lic"]) for r in rows)
-    midia, extras = [], []
-    for fn, nome in (("midia.json", "midia"), ("extras.json", "extras")):
+    midia, extras, openrouter = [], [], []
+    for fn, nome in (("midia.json", "midia"), ("extras.json", "extras"), ("openrouter.json", "openrouter")):
         if os.path.exists(fn):
             try:
                 data = json.load(open(fn, encoding="utf-8"))
@@ -252,14 +252,16 @@ def write_readme(rows, path="README.md"):
                 data = []
             if nome == "midia":
                 midia = data
-            else:
+            elif nome == "extras":
                 extras = data
-    total = len(rows) + len(midia) + len(extras)
+            else:
+                openrouter = data
+    total = len(rows) + len(midia) + len(extras) + len(openrouter)
     L = []
     A = L.append
     A("# Modelos de IA oficiais e gratuitos\n")
-    A(f"Lista de **{total} modelos** de IA publicados pelas **próprias organizações criadoras**, com licença gratuita/aberta.\n")
-    A(f"São **{len(rows)}** de texto/código, **{len(midia)}** de mídia (imagem, vídeo, áudio e voz) e **{len(extras)}** de VLMs, embeddings, rerankers, edição de imagem e 3D.\n")
+    A(f"Lista de **{total} entradas** de IA publicadas pelas **próprias organizações criadoras** ou com custo zero para usar, com licença gratuita/aberta.\n")
+    A(f"São **{len(rows)}** de texto/código, **{len(midia)}** de mídia (imagem, vídeo, áudio e voz), **{len(extras)}** de VLMs, embeddings, rerankers, edição de imagem e 3D e **{len(openrouter)}** grátis para usar na OpenRouter.\n")
     A("🔗 **Coleção no Hugging Face:** https://huggingface.co/collections/Darkzinhoo/modelos-de-ia-oficiais-e-gratuitos-6ae598997b5be2d991c1bc10\n")
     A("🌐 **Site com busca e filtros:** https://tenentedoexercitodeproplayersemjogos.github.io/modelos-ia-oficiais-gratuitos/\n")
     A("## Resumo (texto e código)\n")
@@ -283,6 +285,10 @@ def write_readme(rows, path="README.md"):
         A(f"**{len(extras)} modelos** oficiais em {len(cats)} categorias: " +
           " · ".join(f"{k} ({v})" for k, v in cats.items()) + ".\n")
         A("📄 Lista completa: [`extras.md`](extras.md) · [`extras.csv`](extras.csv) · [`extras.json`](extras.json)\n")
+    if openrouter:
+        A("## Grátis para usar (OpenRouter)\n")
+        A(f"**{len(openrouter)} modelos** com custo zero na OpenRouter. ⚠️ Grátis para usar ≠ licença livre; a licença mostrada é a declarada no Hugging Face quando existe.\n")
+        A("📄 Lista completa: [`openrouter.md`](openrouter.md) · [`openrouter.csv`](openrouter.csv) · [`openrouter.json`](openrouter.json)\n")
     A("## Índice de organizações\n")
     for org in sorted(posorg, key=lambda o: (-len(posorg[o]), o)):
         A(f"- [{org}](#{org.lower().replace('.', '').replace('_', '-')}) ({len(posorg[org])})")
