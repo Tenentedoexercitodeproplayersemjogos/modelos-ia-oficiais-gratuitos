@@ -4,6 +4,8 @@ Lista de **663 modelos** de IA publicados pelas **próprias organizações criad
 
 🔗 **Coleção no Hugging Face:** https://huggingface.co/collections/Darkzinhoo/modelos-de-ia-oficiais-e-gratuitos-6ae598997b5be2d991c1bc10
 
+🌐 **Site com busca e filtros:** https://tenentedoexercitodeproplayersemjogos.github.io/modelos-ia-oficiais-gratuitos/
+
 ## Resumo
 
 - **663** modelos de **37** organizações
@@ -22,6 +24,12 @@ Lista de **663 modelos** de IA publicados pelas **próprias organizações criad
 **158 modelos** oficiais em 5 categorias: Voz (TTS) (34) · Transcrição (ASR) (61) · Imagem (18) · Vídeo (25) · Áudio/Música (20).
 
 📄 Lista completa: [`midia.md`](midia.md) · [`midia.csv`](midia.csv) · [`midia.json`](midia.json)
+
+## Outros modelos (VLMs, embeddings, rerankers, edição e 3D)
+
+**238 modelos** oficiais em 5 categorias: Embeddings (101) · VLMs (imagem → texto) (90) · 3D (14) · Rerankers (19) · Edição de imagem (14).
+
+📄 Lista completa: [`extras.md`](extras.md) · [`extras.csv`](extras.csv) · [`extras.json`](extras.json)
 
 ## Índice de organizações
 
