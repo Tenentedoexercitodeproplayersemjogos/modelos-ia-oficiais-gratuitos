@@ -243,13 +243,26 @@ def write_readme(rows, path="README.md"):
     esp = [r for r in rows if CODE.search(r["id"].lower().split("/", 1)[1])]
     gen = [r for r in rows if not CODE.search(r["id"].lower().split("/", 1)[1])]
     g = Counter(grupo(r["lic"]) for r in rows)
+    midia, extras = [], []
+    for fn, nome in (("midia.json", "midia"), ("extras.json", "extras")):
+        if os.path.exists(fn):
+            try:
+                data = json.load(open(fn, encoding="utf-8"))
+            except Exception:
+                data = []
+            if nome == "midia":
+                midia = data
+            else:
+                extras = data
+    total = len(rows) + len(midia) + len(extras)
     L = []
     A = L.append
     A("# Modelos de IA oficiais e gratuitos\n")
-    A(f"Lista de **{len(rows)} modelos** de IA publicados pelas **próprias organizações criadoras**, com licença gratuita/aberta. Inclui modelos especializados em código e generalistas usados para programar.\n")
+    A(f"Lista de **{total} modelos** de IA publicados pelas **próprias organizações criadoras**, com licença gratuita/aberta.\n")
+    A(f"São **{len(rows)}** de texto/código, **{len(midia)}** de mídia (imagem, vídeo, áudio e voz) e **{len(extras)}** de VLMs, embeddings, rerankers, edição de imagem e 3D.\n")
     A("🔗 **Coleção no Hugging Face:** https://huggingface.co/collections/Darkzinhoo/modelos-de-ia-oficiais-e-gratuitos-6ae598997b5be2d991c1bc10\n")
     A("🌐 **Site com busca e filtros:** https://tenentedoexercitodeproplayersemjogos.github.io/modelos-ia-oficiais-gratuitos/\n")
-    A("## Resumo\n")
+    A("## Resumo (texto e código)\n")
     A(f"- **{len(rows)}** modelos de **{len(posorg)}** organizações")
     A(f"- **{len(esp)}** especializados em código · **{len(gen)}** generalistas")
     A(f"- **{g['Permissiva']}** licenças permissivas (Apache/MIT/BSD/CC-BY) · **{g['Aberta com restrição']}** abertas com restrição (Llama/Gemma/Qwen/OpenRAIL) · **{g['Não comercial']}** não comerciais · **{g['Não declarada']}** sem licença declarada\n")
@@ -258,24 +271,12 @@ def write_readme(rows, path="README.md"):
     A("- Licença gratuita ou aberta (Apache-2.0, MIT, BSD, CC-BY, Llama, Gemma, Qwen, OpenRAIL, CC-BY-NC)")
     A("- Quants oficiais incluídos apenas quando publicados pela própria dona")
     A("- Dados: [`modelos.csv`](modelos.csv) · [`modelos.json`](modelos.json)\n")
-    midia = []
-    if os.path.exists("midia.json"):
-        try:
-            midia = json.load(open("midia.json", encoding="utf-8"))
-        except Exception:
-            midia = []
     if midia:
         cats = Counter(r["cat"] for r in midia)
         A("## Modelos não-texto (imagem, vídeo, áudio e voz)\n")
         A(f"**{len(midia)} modelos** oficiais em {len(cats)} categorias: " +
           " · ".join(f"{k} ({v})" for k, v in cats.items()) + ".\n")
         A("📄 Lista completa: [`midia.md`](midia.md) · [`midia.csv`](midia.csv) · [`midia.json`](midia.json)\n")
-    extras = []
-    if os.path.exists("extras.json"):
-        try:
-            extras = json.load(open("extras.json", encoding="utf-8"))
-        except Exception:
-            extras = []
     if extras:
         cats = Counter(r["cat"] for r in extras)
         A("## Outros modelos (VLMs, embeddings, rerankers, edição e 3D)\n")
