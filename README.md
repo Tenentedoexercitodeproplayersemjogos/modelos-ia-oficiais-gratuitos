@@ -1,12 +1,14 @@
 # Modelos de IA oficiais e gratuitos
 
-Lista de **663 modelos** de IA publicados pelas **próprias organizações criadoras**, com licença gratuita/aberta. Inclui modelos especializados em código e generalistas usados para programar.
+Lista de **1059 modelos** de IA publicados pelas **próprias organizações criadoras**, com licença gratuita/aberta.
+
+São **663** de texto/código, **158** de mídia (imagem, vídeo, áudio e voz) e **238** de VLMs, embeddings, rerankers, edição de imagem e 3D.
 
 🔗 **Coleção no Hugging Face:** https://huggingface.co/collections/Darkzinhoo/modelos-de-ia-oficiais-e-gratuitos-6ae598997b5be2d991c1bc10
 
 🌐 **Site com busca e filtros:** https://tenentedoexercitodeproplayersemjogos.github.io/modelos-ia-oficiais-gratuitos/
 
-## Resumo
+## Resumo (texto e código)
 
 - **663** modelos de **37** organizações
 - **272** especializados em código · **391** generalistas
