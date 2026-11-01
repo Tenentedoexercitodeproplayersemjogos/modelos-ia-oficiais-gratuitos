@@ -248,6 +248,7 @@ def write_readme(rows, path="README.md"):
     A("# Modelos de IA oficiais e gratuitos\n")
     A(f"Lista de **{len(rows)} modelos** de IA publicados pelas **próprias organizações criadoras**, com licença gratuita/aberta. Inclui modelos especializados em código e generalistas usados para programar.\n")
     A("🔗 **Coleção no Hugging Face:** https://huggingface.co/collections/Darkzinhoo/modelos-de-ia-oficiais-e-gratuitos-6ae598997b5be2d991c1bc10\n")
+    A("🌐 **Site com busca e filtros:** https://tenentedoexercitodeproplayersemjogos.github.io/modelos-ia-oficiais-gratuitos/\n")
     A("## Resumo\n")
     A(f"- **{len(rows)}** modelos de **{len(posorg)}** organizações")
     A(f"- **{len(esp)}** especializados em código · **{len(gen)}** generalistas")
@@ -269,6 +270,18 @@ def write_readme(rows, path="README.md"):
         A(f"**{len(midia)} modelos** oficiais em {len(cats)} categorias: " +
           " · ".join(f"{k} ({v})" for k, v in cats.items()) + ".\n")
         A("📄 Lista completa: [`midia.md`](midia.md) · [`midia.csv`](midia.csv) · [`midia.json`](midia.json)\n")
+    extras = []
+    if os.path.exists("extras.json"):
+        try:
+            extras = json.load(open("extras.json", encoding="utf-8"))
+        except Exception:
+            extras = []
+    if extras:
+        cats = Counter(r["cat"] for r in extras)
+        A("## Outros modelos (VLMs, embeddings, rerankers, edição e 3D)\n")
+        A(f"**{len(extras)} modelos** oficiais em {len(cats)} categorias: " +
+          " · ".join(f"{k} ({v})" for k, v in cats.items()) + ".\n")
+        A("📄 Lista completa: [`extras.md`](extras.md) · [`extras.csv`](extras.csv) · [`extras.json`](extras.json)\n")
     A("## Índice de organizações\n")
     for org in sorted(posorg, key=lambda o: (-len(posorg[o]), o)):
         A(f"- [{org}](#{org.lower().replace('.', '').replace('_', '-')}) ({len(posorg[org])})")
