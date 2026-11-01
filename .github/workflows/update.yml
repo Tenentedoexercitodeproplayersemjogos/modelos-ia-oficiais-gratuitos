@@ -27,6 +27,11 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: python scripts/update_media.py
 
+      - name: Gerar outros modelos (VLMs, embeddings, rerankers, edição e 3D)
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/update_extras.py
+
       - name: Gerar lista a partir do Hugging Face
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
@@ -36,7 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md modelos.csv modelos.json midia.md midia.csv midia.json
+          git add README.md modelos.csv modelos.json midia.md midia.csv midia.json extras.md extras.csv extras.json
           if git diff --staged --quiet; then
             echo "Sem mudancas."
           else
