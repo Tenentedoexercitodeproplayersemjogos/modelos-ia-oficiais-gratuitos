@@ -8,7 +8,7 @@
   "hf_id": "RecursiveSI/flint",
   "hf_url": "https://huggingface.co/RecursiveSI/flint",
   "licenca": "apache-2.0",
-  "dl_hf": 26703,
+  "dl_hf": 29574,
   "criado": "2026-10-21",
   "url": "https://openrouter.ai/recursive/flint-v1.0:free"
  },
@@ -21,7 +21,7 @@
   "hf_id": "XingChen-AGI/Xing4.0-29B-A4B",
   "hf_url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
   "licenca": "apache-2.0",
-  "dl_hf": 5744,
+  "dl_hf": 5601,
   "criado": "2026-10-16",
   "url": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free"
  },
@@ -60,7 +60,7 @@
   "hf_id": "LiquidAI/LFM2.5-2.6B",
   "hf_url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
   "licenca": "other",
-  "dl_hf": 69948,
+  "dl_hf": 69615,
   "criado": "2026-08-11",
   "url": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free"
  },
@@ -73,7 +73,7 @@
   "hf_id": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
   "hf_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
   "licenca": "other",
-  "dl_hf": 1177164,
+  "dl_hf": 1149020,
   "criado": "2026-08-11",
   "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free"
  },
@@ -86,7 +86,7 @@
   "hf_id": "thinkingmachines/Inkling-Small",
   "hf_url": "https://huggingface.co/thinkingmachines/Inkling-Small",
   "licenca": "apache-2.0",
-  "dl_hf": 1411262,
+  "dl_hf": 1364234,
   "criado": "2026-07-30",
   "url": "https://openrouter.ai/thinkingmachines/inkling-small:free"
  },
@@ -99,7 +99,7 @@
   "hf_id": "thinkingmachines/Inkling",
   "hf_url": "https://huggingface.co/thinkingmachines/Inkling",
   "licenca": "apache-2.0",
-  "dl_hf": 2084207,
+  "dl_hf": 2005047,
   "criado": "2026-07-17",
   "url": "https://openrouter.ai/thinkingmachines/inkling:free"
  },
@@ -112,7 +112,7 @@
   "hf_id": "CohereLabs/North-Mini-Code-1.0",
   "hf_url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
   "licenca": "apache-2.0",
-  "dl_hf": 8123,
+  "dl_hf": 8061,
   "criado": "2026-06-17",
   "url": "https://openrouter.ai/cohere/north-mini-code:free"
  },
@@ -125,7 +125,7 @@
   "hf_id": "nvidia/Nemotron-3.5-Content-Safety",
   "hf_url": "https://huggingface.co/nvidia/Nemotron-3.5-Content-Safety",
   "licenca": "other",
-  "dl_hf": 46053,
+  "dl_hf": 45588,
   "criado": "2026-06-04",
   "url": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free"
  },
@@ -138,7 +138,7 @@
   "hf_id": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
   "hf_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
   "licenca": "other",
-  "dl_hf": 1429742,
+  "dl_hf": 1390699,
   "criado": "2026-06-04",
   "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free"
  },
@@ -151,7 +151,7 @@
   "hf_id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
   "hf_url": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
   "licenca": "other",
-  "dl_hf": 116749,
+  "dl_hf": 115674,
   "criado": "2026-04-28",
   "url": "https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free"
  },
@@ -164,7 +164,7 @@
   "hf_id": "google/gemma-4-26B-A4B-it",
   "hf_url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
   "licenca": "apache-2.0",
-  "dl_hf": 6032823,
+  "dl_hf": 5944935,
   "criado": "2026-04-03",
   "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free"
  },
@@ -177,7 +177,7 @@
   "hf_id": "google/gemma-4-31B-it",
   "hf_url": "https://huggingface.co/google/gemma-4-31B-it",
   "licenca": "apache-2.0",
-  "dl_hf": 8301351,
+  "dl_hf": 8147734,
   "criado": "2026-04-02",
   "url": "https://openrouter.ai/google/gemma-4-31b-it:free"
  }
