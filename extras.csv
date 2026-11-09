@@ -1,237 +1,229 @@
 id,organizacao,categoria,licenca,grupo_licenca,downloads,likes,tarefa,hf_url,github_url
-BAAI/bge-small-en-v1.5,BAAI,Embeddings,mit,Permissiva,49836681,662,feature-extraction,https://huggingface.co/BAAI/bge-small-en-v1.5,https://github.com/FlagOpen/FlagEmbedding
-BAAI/bge-m3,BAAI,Embeddings,mit,Permissiva,30252576,3958,sentence-similarity,https://huggingface.co/BAAI/bge-m3,https://github.com/FlagOpen/FlagEmbedding
-nomic-ai/nomic-embed-text-v1.5,nomic-ai,Embeddings,apache-2.0,Permissiva,11853539,988,sentence-similarity,https://huggingface.co/nomic-ai/nomic-embed-text-v1.5,https://github.com/nomic-ai
-intfloat/multilingual-e5-small,intfloat,Embeddings,mit,Permissiva,9281664,480,sentence-similarity,https://huggingface.co/intfloat/multilingual-e5-small,https://github.com/intfloat
-BAAI/bge-large-en-v1.5,BAAI,Embeddings,mit,Permissiva,9177978,781,feature-extraction,https://huggingface.co/BAAI/bge-large-en-v1.5,https://github.com/FlagOpen/FlagEmbedding
-google/gemma-4-31B-it,google,VLMs (imagem → texto),apache-2.0,Permissiva,8147734,4270,image-text-to-text,https://huggingface.co/google/gemma-4-31B-it,https://github.com/google-deepmind
-BAAI/bge-base-en-v1.5,BAAI,Embeddings,mit,Permissiva,8054219,540,feature-extraction,https://huggingface.co/BAAI/bge-base-en-v1.5,https://github.com/FlagOpen/FlagEmbedding
-Qwen/Qwen3.8-27B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,7915637,18977,image-text-to-text,https://huggingface.co/Qwen/Qwen3.8-27B,https://github.com/QwenLM
-Qwen/Qwen3-VL-8B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,6915010,1236,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct,https://github.com/QwenLM/Qwen3-VL
-intfloat/multilingual-e5-large,intfloat,Embeddings,mit,Permissiva,6767471,1282,feature-extraction,https://huggingface.co/intfloat/multilingual-e5-large,https://github.com/intfloat
-Qwen/Qwen3.5-9B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,6412961,2291,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-9B,https://github.com/QwenLM
-Qwen/Qwen3.5-4B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,6376702,1181,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-4B,https://github.com/QwenLM
-zai-org/GLM-5.3-Flash,zai-org,VLMs (imagem → texto),mit,Permissiva,6313299,3019,image-text-to-text,https://huggingface.co/zai-org/GLM-5.3-Flash,https://github.com/zai-org
-microsoft/Florence-2-base,microsoft,VLMs (imagem → texto),mit,Permissiva,5985608,433,image-text-to-text,https://huggingface.co/microsoft/Florence-2-base,https://github.com/microsoft
-google/gemma-4-26B-A4B-it,google,VLMs (imagem → texto),apache-2.0,Permissiva,5944935,1726,image-text-to-text,https://huggingface.co/google/gemma-4-26B-A4B-it,https://github.com/google-deepmind
-Qwen/Qwen2.5-VL-7B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,5886476,1762,image-text-to-text,https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct,https://github.com/QwenLM
-intfloat/multilingual-e5-base,intfloat,Embeddings,mit,Permissiva,5160583,419,sentence-similarity,https://huggingface.co/intfloat/multilingual-e5-base,https://github.com/intfloat
-Qwen/Qwen3.6-35B-A3B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,4555162,3068,image-text-to-text,https://huggingface.co/Qwen/Qwen3.6-35B-A3B,https://github.com/QwenLM
-Qwen/Qwen3-VL-4B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,3936514,523,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct,https://github.com/QwenLM/Qwen3-VL
-Qwen/Qwen3.8-Flash-Next,Qwen,VLMs (imagem → texto),other,Aberta com restrição,3929164,6705,image-text-to-text,https://huggingface.co/Qwen/Qwen3.8-Flash-Next,https://github.com/QwenLM
-Qwen/Qwen3.5-0.8B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,3693505,793,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-0.8B,https://github.com/QwenLM
-Qwen/Qwen3.5-2B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,3402183,465,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-2B,https://github.com/QwenLM
-BAAI/bge-small-zh-v1.5,BAAI,Embeddings,mit,Permissiva,3247359,165,feature-extraction,https://huggingface.co/BAAI/bge-small-zh-v1.5,https://github.com/FlagOpen/FlagEmbedding
-Snowflake/snowflake-arctic-embed-l-v2.0,Snowflake,Embeddings,apache-2.0,Permissiva,2821909,268,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-l-v2.0,https://github.com/Snowflake-Labs
-microsoft/TRELLIS.2-4B,microsoft,3D,mit,Permissiva,2792326,1442,image-to-3d,https://huggingface.co/microsoft/TRELLIS.2-4B,https://github.com/microsoft/TRELLIS
-microsoft/TRELLIS-image-large,microsoft,3D,mit,Permissiva,2621726,720,image-to-3d,https://huggingface.co/microsoft/TRELLIS-image-large,https://github.com/microsoft/TRELLIS
-BAAI/bge-base-en,BAAI,Embeddings,mit,Permissiva,2539846,73,feature-extraction,https://huggingface.co/BAAI/bge-base-en,https://github.com/FlagOpen/FlagEmbedding
-Qwen/Qwen3-Reranker-4B,Qwen,Rerankers,apache-2.0,Permissiva,2448286,191,text-ranking,https://huggingface.co/Qwen/Qwen3-Reranker-4B,https://github.com/QwenLM/Qwen3-Embedding
-Qwen/Qwen3.6-27B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,2263609,2342,image-text-to-text,https://huggingface.co/Qwen/Qwen3.6-27B,https://github.com/QwenLM
-mixedbread-ai/mxbai-embed-large-v1,mixedbread-ai,Embeddings,apache-2.0,Permissiva,2260288,847,feature-extraction,https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1,https://github.com/mixedbread-ai
-Alibaba-NLP/gte-large-en-v1.5,Alibaba-NLP,Embeddings,apache-2.0,Permissiva,2110021,254,sentence-similarity,https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5,https://github.com/Alibaba-NLP
-BAAI/bge-reranker-large,BAAI,Embeddings,mit,Permissiva,1992867,485,feature-extraction,https://huggingface.co/BAAI/bge-reranker-large,https://github.com/FlagOpen/FlagEmbedding
-Qwen/Qwen3.5-27B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,1792337,1081,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-27B,https://github.com/QwenLM
-intfloat/multilingual-e5-large-instruct,intfloat,Embeddings,mit,Permissiva,1784262,656,feature-extraction,https://huggingface.co/intfloat/multilingual-e5-large-instruct,https://github.com/intfloat
-jinaai/jina-reranker-v2-base-multilingual,jinaai,Rerankers,cc-by-nc-4.0,Não comercial,1744583,372,text-ranking,https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual,https://github.com/jina-ai
-Qwen/Qwen3.5-35B-A3B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,1691828,1550,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-35B-A3B,https://github.com/QwenLM
-HuggingFaceTB/SmolVLM2-500M-Video-Instruct,HuggingFaceTB,VLMs (imagem → texto),apache-2.0,Permissiva,1671244,201,image-text-to-text,https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct,https://github.com/huggingface
-jinaai/jina-embeddings-v3,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,1614543,1174,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v3,https://github.com/jina-ai
-Qwen/Qwen2.5-VL-3B-Instruct,Qwen,VLMs (imagem → texto),nao-declarada,Não declarada,1533770,742,image-text-to-text,https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct,https://github.com/QwenLM
-Alibaba-NLP/gte-reranker-modernbert-base,Alibaba-NLP,Rerankers,apache-2.0,Permissiva,1442401,111,text-ranking,https://huggingface.co/Alibaba-NLP/gte-reranker-modernbert-base,https://github.com/Alibaba-NLP
-Qwen/Qwen3-VL-2B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,1369847,510,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct,https://github.com/QwenLM/Qwen3-VL
-google/embeddinggemma-300m,google,Embeddings,gemma,Aberta com restrição,1345641,2079,sentence-similarity,https://huggingface.co/google/embeddinggemma-300m,https://github.com/google-deepmind
-jinaai/jina-embeddings-v2-small-en,jinaai,Embeddings,apache-2.0,Permissiva,1306570,159,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v2-small-en,https://github.com/jina-ai
-Qwen/Qwen3-Reranker-0.6B,Qwen,Rerankers,apache-2.0,Permissiva,1292593,433,text-ranking,https://huggingface.co/Qwen/Qwen3-Reranker-0.6B,https://github.com/QwenLM/Qwen3-Embedding
-facebook/w2v-bert-2.0,facebook,Embeddings,mit,Permissiva,1245285,243,feature-extraction,https://huggingface.co/facebook/w2v-bert-2.0,https://github.com/facebookresearch
-intfloat/e5-small-v2,intfloat,Embeddings,mit,Permissiva,1121349,136,sentence-similarity,https://huggingface.co/intfloat/e5-small-v2,https://github.com/intfloat
-microsoft/wavlm-large,microsoft,Embeddings,nao-declarada,Não declarada,1063134,122,feature-extraction,https://huggingface.co/microsoft/wavlm-large,https://github.com/microsoft
-Qwen/Qwen2-VL-2B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,1030520,529,image-text-to-text,https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct,https://github.com/QwenLM
-intfloat/e5-base-v2,intfloat,Embeddings,mit,Permissiva,1003660,173,sentence-similarity,https://huggingface.co/intfloat/e5-base-v2,https://github.com/intfloat
-jinaai/jina-embeddings-v5-omni-small,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,997929,176,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v5-omni-small,https://github.com/jina-ai
-Qwen/Qwen3.5-122B-A10B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,994398,652,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-122B-A10B,https://github.com/QwenLM
-intfloat/e5-base,intfloat,Embeddings,mit,Permissiva,993619,36,sentence-similarity,https://huggingface.co/intfloat/e5-base,https://github.com/intfloat
-google/gemma-3-4b-it,google,VLMs (imagem → texto),gemma,Aberta com restrição,962830,1615,image-text-to-text,https://huggingface.co/google/gemma-3-4b-it,https://github.com/google-deepmind
-Alibaba-NLP/gte-multilingual-base,Alibaba-NLP,Embeddings,apache-2.0,Permissiva,960099,390,sentence-similarity,https://huggingface.co/Alibaba-NLP/gte-multilingual-base,https://github.com/Alibaba-NLP
-Qwen/Qwen3.5-397B-A17B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,946819,1581,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-397B-A17B,https://github.com/QwenLM
-nomic-ai/nomic-embed-text-v1,nomic-ai,Embeddings,apache-2.0,Permissiva,881974,597,sentence-similarity,https://huggingface.co/nomic-ai/nomic-embed-text-v1,https://github.com/nomic-ai
-OpenGVLab/InternVL2-1B,OpenGVLab,VLMs (imagem → texto),mit,Permissiva,842180,84,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL2-1B,https://github.com/OpenGVLab
-nomic-ai/nomic-embed-text-v2-moe,nomic-ai,Embeddings,apache-2.0,Permissiva,816430,513,sentence-similarity,https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe,https://github.com/nomic-ai
-Qwen/Qwen2.5-VL-32B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,815757,510,image-text-to-text,https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct,https://github.com/QwenLM
-jinaai/jina-reranker-v3,jinaai,Rerankers,cc-by-nc-4.0,Não comercial,810420,156,text-ranking,https://huggingface.co/jinaai/jina-reranker-v3,https://github.com/jina-ai
-intfloat/e5-large-v2,intfloat,Embeddings,mit,Permissiva,791030,294,sentence-similarity,https://huggingface.co/intfloat/e5-large-v2,https://github.com/intfloat
-moonshotai/Kimi-K3,moonshotai,VLMs (imagem → texto),other,Aberta com restrição,781702,11913,image-text-to-text,https://huggingface.co/moonshotai/Kimi-K3,https://github.com/MoonshotAI
-mixedbread-ai/mxbai-rerank-xsmall-v1,mixedbread-ai,Rerankers,apache-2.0,Permissiva,697131,59,text-ranking,https://huggingface.co/mixedbread-ai/mxbai-rerank-xsmall-v1,https://github.com/mixedbread-ai
-allenai/specter2_base,allenai,Embeddings,apache-2.0,Permissiva,691960,57,feature-extraction,https://huggingface.co/allenai/specter2_base,https://github.com/allenai
-black-forest-labs/FLUX.2-klein-base-4B,black-forest-labs,Edição de imagem,apache-2.0,Permissiva,682868,189,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-klein-base-4B,https://github.com/black-forest-labs/flux
-Qwen/Qwen3.5-0.8B-Base,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,678053,134,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-0.8B-Base,https://github.com/QwenLM
-OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview-HF,OpenGVLab,VLMs (imagem → texto),apache-2.0,Permissiva,647240,10,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview-HF,https://github.com/OpenGVLab
-Snowflake/snowflake-arctic-embed-l,Snowflake,Embeddings,apache-2.0,Permissiva,628146,114,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-l,https://github.com/Snowflake-Labs
-google/diffusiongemma-26B-A4B-it,google,VLMs (imagem → texto),apache-2.0,Permissiva,621586,1319,image-text-to-text,https://huggingface.co/google/diffusiongemma-26B-A4B-it,https://github.com/google-deepmind
-Qwen/Qwen2-VL-7B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,612822,1297,image-text-to-text,https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct,https://github.com/QwenLM
-nvidia/Cosmos-Reason2-2B,nvidia,VLMs (imagem → texto),other,Aberta com restrição,597828,354,image-text-to-text,https://huggingface.co/nvidia/Cosmos-Reason2-2B,https://github.com/NVIDIA
-Qwen/Qwen3.5-4B-Base,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,596500,123,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-4B-Base,https://github.com/QwenLM
-nvidia/llama-nemotron-rerank-1b-v2,nvidia,Rerankers,other,Aberta com restrição,576881,71,text-ranking,https://huggingface.co/nvidia/llama-nemotron-rerank-1b-v2,https://github.com/NVIDIA
-Qwen/Qwen-Image-Edit-2509,Qwen,Edição de imagem,apache-2.0,Permissiva,534409,1265,image-to-image,https://huggingface.co/Qwen/Qwen-Image-Edit-2509,https://github.com/QwenLM/Qwen-Image
-facebook/VGGT-1B,facebook,3D,cc-by-nc-4.0,Não comercial,521813,155,image-to-3d,https://huggingface.co/facebook/VGGT-1B,https://github.com/facebookresearch
-Alibaba-NLP/gte-base-en-v1.5,Alibaba-NLP,Embeddings,apache-2.0,Permissiva,484015,72,sentence-similarity,https://huggingface.co/Alibaba-NLP/gte-base-en-v1.5,https://github.com/Alibaba-NLP
-Qwen/Qwen3-VL-30B-A3B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,441260,627,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct,https://github.com/QwenLM/Qwen3-VL
-Snowflake/snowflake-arctic-embed-xs,Snowflake,Embeddings,nao-declarada,Não declarada,437447,43,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-xs,https://github.com/Snowflake-Labs
-mixedbread-ai/deepset-mxbai-embed-de-large-v1,mixedbread-ai,Embeddings,apache-2.0,Permissiva,425593,61,feature-extraction,https://huggingface.co/mixedbread-ai/deepset-mxbai-embed-de-large-v1,https://github.com/mixedbread-ai
-black-forest-labs/FLUX.2-klein-4B,black-forest-labs,Edição de imagem,apache-2.0,Permissiva,424878,1086,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-klein-4B,https://github.com/black-forest-labs/flux
-google/medgemma-4b-it,google,VLMs (imagem → texto),other,Aberta com restrição,414992,1133,image-text-to-text,https://huggingface.co/google/medgemma-4b-it,https://github.com/google-deepmind
-moonshotai/Kimi-K2.5,moonshotai,VLMs (imagem → texto),other,Aberta com restrição,407890,2898,image-text-to-text,https://huggingface.co/moonshotai/Kimi-K2.5,https://github.com/MoonshotAI
-google/embeddinggemma-2,google,Embeddings,apache-2.0,Permissiva,407228,3074,feature-extraction,https://huggingface.co/google/embeddinggemma-2,https://github.com/google-deepmind
-Salesforce/blip2-opt-2.7b,Salesforce,VLMs (imagem → texto),mit,Permissiva,400931,448,image-text-to-text,https://huggingface.co/Salesforce/blip2-opt-2.7b,https://github.com/salesforce
-microsoft/Florence-2-large,microsoft,VLMs (imagem → texto),mit,Permissiva,393250,1886,image-text-to-text,https://huggingface.co/microsoft/Florence-2-large,https://github.com/microsoft
-Snowflake/snowflake-arctic-embed-m,Snowflake,Embeddings,apache-2.0,Permissiva,386627,169,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-m,https://github.com/Snowflake-Labs
-microsoft/wavlm-base-plus,microsoft,Embeddings,nao-declarada,Não declarada,364798,50,feature-extraction,https://huggingface.co/microsoft/wavlm-base-plus,https://github.com/microsoft
-google/gemma-3-12b-it,google,VLMs (imagem → texto),gemma,Aberta com restrição,357592,900,image-text-to-text,https://huggingface.co/google/gemma-3-12b-it,https://github.com/google-deepmind
-jinaai/jina-embeddings-v2-base-en,jinaai,Embeddings,apache-2.0,Permissiva,357283,739,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v2-base-en,https://github.com/jina-ai
-google/gemma-3-27b-it,google,VLMs (imagem → texto),gemma,Aberta com restrição,355260,2064,image-text-to-text,https://huggingface.co/google/gemma-3-27b-it,https://github.com/google-deepmind
-BAAI/bge-large-zh-v1.5,BAAI,Embeddings,mit,Permissiva,349805,650,feature-extraction,https://huggingface.co/BAAI/bge-large-zh-v1.5,https://github.com/FlagOpen/FlagEmbedding
-Qwen/Qwen3.5-2B-Base,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,341662,108,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-2B-Base,https://github.com/QwenLM
-nvidia/llama-nemotron-embed-1b-v2,nvidia,Embeddings,other,Aberta com restrição,339115,72,feature-extraction,https://huggingface.co/nvidia/llama-nemotron-embed-1b-v2,https://github.com/NVIDIA
-black-forest-labs/FLUX.2-dev,black-forest-labs,Edição de imagem,other,Aberta com restrição,330147,2497,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-dev,https://github.com/black-forest-labs/flux
-nvidia/LocateAnything-3B,nvidia,VLMs (imagem → texto),other,Aberta com restrição,322510,3163,image-text-to-text,https://huggingface.co/nvidia/LocateAnything-3B,https://github.com/NVIDIA
-nvidia/NV-Embed-v2,nvidia,Embeddings,cc-by-nc-4.0,Não comercial,313399,524,feature-extraction,https://huggingface.co/nvidia/NV-Embed-v2,https://github.com/NVIDIA
-microsoft/Phi-3.5-vision-instruct,microsoft,VLMs (imagem → texto),mit,Permissiva,313018,750,image-text-to-text,https://huggingface.co/microsoft/Phi-3.5-vision-instruct,https://github.com/microsoft
-google/gemma-4-31B-it-qat-w4a16-ct,google,VLMs (imagem → texto),apache-2.0,Permissiva,312156,99,image-text-to-text,https://huggingface.co/google/gemma-4-31B-it-qat-w4a16-ct,https://github.com/google-deepmind
-Qwen/Qwen3-VL-235B-A22B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,306495,429,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct,https://github.com/QwenLM/Qwen3-VL
-Qwen/Qwen3.5-9B-Base,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,300269,139,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-9B-Base,https://github.com/QwenLM
-black-forest-labs/FLUX.1-Kontext-dev,black-forest-labs,Edição de imagem,other,Aberta com restrição,297010,2937,image-to-image,https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev,https://github.com/black-forest-labs/flux
-google/gemma-3-4b-pt,google,VLMs (imagem → texto),gemma,Aberta com restrição,290380,172,image-text-to-text,https://huggingface.co/google/gemma-3-4b-pt,https://github.com/google-deepmind
-BAAI/bge-base-zh-v1.5,BAAI,Embeddings,mit,Permissiva,287354,112,feature-extraction,https://huggingface.co/BAAI/bge-base-zh-v1.5,https://github.com/FlagOpen/FlagEmbedding
-google/paligemma-3b-pt-224,google,VLMs (imagem → texto),gemma,Aberta com restrição,284440,694,image-text-to-text,https://huggingface.co/google/paligemma-3b-pt-224,https://github.com/google-deepmind
-facebook/hubert-large-ll60k,facebook,Embeddings,apache-2.0,Permissiva,252636,42,feature-extraction,https://huggingface.co/facebook/hubert-large-ll60k,https://github.com/facebookresearch
-moonshotai/Kimi-K2.6,moonshotai,VLMs (imagem → texto),other,Aberta com restrição,246535,1640,image-text-to-text,https://huggingface.co/moonshotai/Kimi-K2.6,https://github.com/MoonshotAI
-jinaai/jina-embeddings-v3-hf,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,242408,3,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v3-hf,https://github.com/jina-ai
-OpenGVLab/InternVL2_5-4B-MPO,OpenGVLab,VLMs (imagem → texto),mit,Permissiva,241153,18,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL2_5-4B-MPO,https://github.com/OpenGVLab
-stabilityai/TripoSR,stabilityai,3D,mit,Permissiva,229984,684,image-to-3d,https://huggingface.co/stabilityai/TripoSR,https://github.com/VAST-AI-Research/TripoSR
-microsoft/harrier-oss-v1-0.6b,microsoft,Embeddings,mit,Permissiva,229810,329,feature-extraction,https://huggingface.co/microsoft/harrier-oss-v1-0.6b,https://github.com/microsoft
-nvidia/dragon-multiturn-context-encoder,nvidia,Embeddings,other,Aberta com restrição,226686,31,feature-extraction,https://huggingface.co/nvidia/dragon-multiturn-context-encoder,https://github.com/NVIDIA
-nvidia/dragon-multiturn-query-encoder,nvidia,Embeddings,other,Aberta com restrição,226667,66,feature-extraction,https://huggingface.co/nvidia/dragon-multiturn-query-encoder,https://github.com/NVIDIA
-intfloat/e5-large,intfloat,Embeddings,mit,Permissiva,222508,83,sentence-similarity,https://huggingface.co/intfloat/e5-large,https://github.com/intfloat
-facebook/bart-base,facebook,Embeddings,apache-2.0,Permissiva,218386,215,feature-extraction,https://huggingface.co/facebook/bart-base,https://github.com/facebookresearch
-BAAI/bge-small-en,BAAI,Embeddings,mit,Permissiva,218049,95,feature-extraction,https://huggingface.co/BAAI/bge-small-en,https://github.com/FlagOpen/FlagEmbedding
-Qwen/Qwen-Image-Edit-2511,Qwen,Edição de imagem,apache-2.0,Permissiva,209787,1530,image-to-image,https://huggingface.co/Qwen/Qwen-Image-Edit-2511,https://github.com/QwenLM/Qwen-Image
-HuggingFaceTB/SmolVLM-500M-Instruct,HuggingFaceTB,VLMs (imagem → texto),apache-2.0,Permissiva,196495,200,image-text-to-text,https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct,https://github.com/huggingface
-MiniMaxAI/MiniMax-M3,MiniMaxAI,VLMs (imagem → texto),other,Aberta com restrição,189276,1601,image-text-to-text,https://huggingface.co/MiniMaxAI/MiniMax-M3,
-OpenMOSS-Team/MOSS-Audio-Tokenizer-Nano,OpenMOSS-Team,Embeddings,apache-2.0,Permissiva,187427,30,feature-extraction,https://huggingface.co/OpenMOSS-Team/MOSS-Audio-Tokenizer-Nano,
-microsoft/Florence-2-base-ft,microsoft,VLMs (imagem → texto),mit,Permissiva,185667,154,image-text-to-text,https://huggingface.co/microsoft/Florence-2-base-ft,https://github.com/microsoft
-BAAI/bge-large-en,BAAI,Embeddings,mit,Permissiva,185647,231,feature-extraction,https://huggingface.co/BAAI/bge-large-en,https://github.com/FlagOpen/FlagEmbedding
-google/medgemma-1.5-4b-it,google,VLMs (imagem → texto),other,Aberta com restrição,179368,1095,image-text-to-text,https://huggingface.co/google/medgemma-1.5-4b-it,https://github.com/google-deepmind
-black-forest-labs/FLUX.2-small-decoder,black-forest-labs,Edição de imagem,apache-2.0,Permissiva,173046,187,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-small-decoder,https://github.com/black-forest-labs/flux
-jinaai/jina-clip-v1,jinaai,Embeddings,apache-2.0,Permissiva,166854,258,feature-extraction,https://huggingface.co/jinaai/jina-clip-v1,https://github.com/jina-ai
-Alibaba-NLP/gte-Qwen2-1.5B-instruct,Alibaba-NLP,Embeddings,apache-2.0,Permissiva,159266,240,sentence-similarity,https://huggingface.co/Alibaba-NLP/gte-Qwen2-1.5B-instruct,https://github.com/Alibaba-NLP
-Qwen/Qwen3-VL-32B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,157656,256,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct,https://github.com/QwenLM/Qwen3-VL
-black-forest-labs/flux-3-image-klein,black-forest-labs,Edição de imagem,other,Aberta com restrição,155600,798,image-to-image,https://huggingface.co/black-forest-labs/flux-3-image-klein,https://github.com/black-forest-labs/flux
-black-forest-labs/FLUX.2-klein-9B,black-forest-labs,Edição de imagem,other,Aberta com restrição,154967,1784,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-klein-9B,https://github.com/black-forest-labs/flux
-jinaai/jina-reranker-v3.5,jinaai,Rerankers,cc-by-nc-4.0,Não comercial,147750,56,text-ranking,https://huggingface.co/jinaai/jina-reranker-v3.5,https://github.com/jina-ai
-google/canine-c,google,Embeddings,apache-2.0,Permissiva,147641,48,feature-extraction,https://huggingface.co/google/canine-c,https://github.com/google-deepmind
-mixedbread-ai/mxbai-embed-2d-large-v1,mixedbread-ai,Embeddings,apache-2.0,Permissiva,147619,43,feature-extraction,https://huggingface.co/mixedbread-ai/mxbai-embed-2d-large-v1,https://github.com/mixedbread-ai
-facebook/hubert-base-ls960,facebook,Embeddings,apache-2.0,Permissiva,142211,83,feature-extraction,https://huggingface.co/facebook/hubert-base-ls960,https://github.com/facebookresearch
-Alibaba-NLP/gte-modernbert-base,Alibaba-NLP,Embeddings,apache-2.0,Permissiva,140710,204,sentence-similarity,https://huggingface.co/Alibaba-NLP/gte-modernbert-base,https://github.com/Alibaba-NLP
-facebook/bart-large,facebook,Embeddings,apache-2.0,Permissiva,139948,208,feature-extraction,https://huggingface.co/facebook/bart-large,https://github.com/facebookresearch
-Qwen/Qwen-Image-Edit,Qwen,Edição de imagem,apache-2.0,Permissiva,137718,2570,image-to-image,https://huggingface.co/Qwen/Qwen-Image-Edit,https://github.com/QwenLM/Qwen-Image
-OpenGVLab/InternVL2-2B,OpenGVLab,VLMs (imagem → texto),mit,Permissiva,132791,83,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL2-2B,https://github.com/OpenGVLab
-HuggingFaceTB/SmolVLM-256M-Instruct,HuggingFaceTB,VLMs (imagem → texto),apache-2.0,Permissiva,132216,424,image-text-to-text,https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct,https://github.com/huggingface
-Qwen/Qwen3-VL-8B-Thinking,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,126325,234,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking,https://github.com/QwenLM/Qwen3-VL
-OpenGVLab/Mini-InternVL-Chat-2B-V1-5,OpenGVLab,VLMs (imagem → texto),mit,Permissiva,123612,74,image-text-to-text,https://huggingface.co/OpenGVLab/Mini-InternVL-Chat-2B-V1-5,https://github.com/OpenGVLab
-nvidia/NVIDIA-Nemotron-Parse-v1.1,nvidia,VLMs (imagem → texto),other,Aberta com restrição,123194,175,image-text-to-text,https://huggingface.co/nvidia/NVIDIA-Nemotron-Parse-v1.1,https://github.com/NVIDIA
-ibm-granite/granite-vision-4.1-4b,ibm-granite,VLMs (imagem → texto),apache-2.0,Permissiva,121515,114,image-text-to-text,https://huggingface.co/ibm-granite/granite-vision-4.1-4b,https://github.com/ibm-granite
-Qwen/Qwen3.5-35B-A3B-Base,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,120966,159,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base,https://github.com/QwenLM
-black-forest-labs/flux-3-image-klein-base,black-forest-labs,Edição de imagem,other,Aberta com restrição,119243,214,image-to-image,https://huggingface.co/black-forest-labs/flux-3-image-klein-base,https://github.com/black-forest-labs/flux
-ibm-granite/granite-speech-4.1-2b-nar,ibm-granite,Embeddings,apache-2.0,Permissiva,116437,61,feature-extraction,https://huggingface.co/ibm-granite/granite-speech-4.1-2b-nar,https://github.com/ibm-granite
-Snowflake/snowflake-arctic-embed-m-v1.5,Snowflake,Embeddings,apache-2.0,Permissiva,114976,73,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-m-v1.5,https://github.com/Snowflake-Labs
-facebook/map-anything-apache,facebook,3D,apache-2.0,Permissiva,113277,48,image-to-3d,https://huggingface.co/facebook/map-anything-apache,https://github.com/facebookresearch
-ibm-granite/granite-docling-258M,ibm-granite,VLMs (imagem → texto),apache-2.0,Permissiva,113134,1292,image-text-to-text,https://huggingface.co/ibm-granite/granite-docling-258M,https://github.com/ibm-granite
-meta-llama/Llama-4-Scout-17B-16E-Instruct,meta-llama,VLMs (imagem → texto),other,Aberta com restrição,105430,1383,image-text-to-text,https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct,https://github.com/meta-llama
-nomic-ai/modernbert-embed-base,nomic-ai,Embeddings,apache-2.0,Permissiva,103306,234,sentence-similarity,https://huggingface.co/nomic-ai/modernbert-embed-base,https://github.com/nomic-ai
-microsoft/harrier-oss-v1-270m,microsoft,Embeddings,mit,Permissiva,102808,210,feature-extraction,https://huggingface.co/microsoft/harrier-oss-v1-270m,https://github.com/microsoft
-jinaai/jina-embeddings-v5-omni-small-retrieval,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,101594,19,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v5-omni-small-retrieval,https://github.com/jina-ai
-OpenMOSS-Team/MOSS-Audio-Tokenizer,OpenMOSS-Team,Embeddings,apache-2.0,Permissiva,101047,47,feature-extraction,https://huggingface.co/OpenMOSS-Team/MOSS-Audio-Tokenizer,
-stabilityai/stable-diffusion-xl-refiner-1.0,stabilityai,Edição de imagem,openrail++,Aberta com restrição,100991,2087,image-to-image,https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0,https://github.com/stabilityai
-Qwen/Qwen2.5-VL-72B-Instruct,Qwen,VLMs (imagem → texto),other,Aberta com restrição,99120,666,image-text-to-text,https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct,https://github.com/QwenLM
-moonshotai/Kimi-VL-A3B-Instruct,moonshotai,VLMs (imagem → texto),mit,Permissiva,95666,285,image-text-to-text,https://huggingface.co/moonshotai/Kimi-VL-A3B-Instruct,https://github.com/MoonshotAI
-jinaai/jina-embeddings-v5-text-small,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,89794,207,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v5-text-small,https://github.com/jina-ai
-jinaai/jina-embeddings-v5-text-nano,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,87891,100,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v5-text-nano,https://github.com/jina-ai
-Qwen/Qwen3-Reranker-8B,Qwen,Rerankers,apache-2.0,Permissiva,87783,296,text-ranking,https://huggingface.co/Qwen/Qwen3-Reranker-8B,https://github.com/QwenLM/Qwen3-Embedding
-meta-llama/Llama-Guard-4-12B,meta-llama,VLMs (imagem → texto),other,Aberta com restrição,86781,136,image-text-to-text,https://huggingface.co/meta-llama/Llama-Guard-4-12B,https://github.com/meta-llama
-black-forest-labs/FLUX.2-klein-base-9B,black-forest-labs,Edição de imagem,other,Aberta com restrição,86342,427,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-klein-base-9B,https://github.com/black-forest-labs/flux
-intfloat/e5-mistral-7b-instruct,intfloat,Embeddings,mit,Permissiva,82768,570,feature-extraction,https://huggingface.co/intfloat/e5-mistral-7b-instruct,https://github.com/intfloat
-Snowflake/snowflake-arctic-embed-m-long,Snowflake,Embeddings,apache-2.0,Permissiva,81351,38,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-m-long,https://github.com/Snowflake-Labs
-nvidia/Cosmos-Reason2-8B,nvidia,VLMs (imagem → texto),other,Aberta com restrição,80958,248,image-text-to-text,https://huggingface.co/nvidia/Cosmos-Reason2-8B,https://github.com/NVIDIA
-Qwen/Qwen3-VL-235B-A22B-Thinking,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,80861,420,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking,https://github.com/QwenLM/Qwen3-VL
-allenai/olmOCR-2-7B-1025,allenai,VLMs (imagem → texto),apache-2.0,Permissiva,78742,161,image-text-to-text,https://huggingface.co/allenai/olmOCR-2-7B-1025,https://github.com/allenai
-Qwen/Qwen3-VL-Reranker-2B,Qwen,Rerankers,apache-2.0,Permissiva,77120,238,text-ranking,https://huggingface.co/Qwen/Qwen3-VL-Reranker-2B,https://github.com/QwenLM/Qwen3-VL
-OpenGVLab/InternVL3-1B-hf,OpenGVLab,VLMs (imagem → texto),other,Aberta com restrição,74433,11,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL3-1B-hf,https://github.com/OpenGVLab
-google/paligemma-3b-mix-224,google,VLMs (imagem → texto),gemma,Aberta com restrição,72451,109,image-text-to-text,https://huggingface.co/google/paligemma-3b-mix-224,https://github.com/google-deepmind
-intfloat/e5-small,intfloat,Embeddings,mit,Permissiva,72425,46,sentence-similarity,https://huggingface.co/intfloat/e5-small,https://github.com/intfloat
-google/gemma-4-31B,google,VLMs (imagem → texto),apache-2.0,Permissiva,71142,584,image-text-to-text,https://huggingface.co/google/gemma-4-31B,https://github.com/google-deepmind
-nvidia/Llama-3.1-Nemotron-Nano-VL-8B-V1,nvidia,VLMs (imagem → texto),other,Aberta com restrição,68745,188,image-text-to-text,https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-VL-8B-V1,https://github.com/NVIDIA
-BAAI/bge-small-zh,BAAI,Embeddings,mit,Permissiva,68466,30,feature-extraction,https://huggingface.co/BAAI/bge-small-zh,https://github.com/FlagOpen/FlagEmbedding
-OpenGVLab/InternVL3_5-8B,OpenGVLab,VLMs (imagem → texto),apache-2.0,Permissiva,67303,109,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL3_5-8B,https://github.com/OpenGVLab
-HuggingFaceTB/SmolVLM2-2.2B-Instruct,HuggingFaceTB,VLMs (imagem → texto),apache-2.0,Permissiva,65132,337,image-text-to-text,https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct,https://github.com/huggingface
-google/gemma-4-26B-A4B,google,VLMs (imagem → texto),apache-2.0,Permissiva,63228,458,image-text-to-text,https://huggingface.co/google/gemma-4-26B-A4B,https://github.com/google-deepmind
-black-forest-labs/flux-3-image-klein-pup,black-forest-labs,VLMs (imagem → texto),apache-2.0,Permissiva,62767,74,image-text-to-text,https://huggingface.co/black-forest-labs/flux-3-image-klein-pup,https://github.com/black-forest-labs/flux
-OpenGVLab/InternVL3-8B,OpenGVLab,VLMs (imagem → texto),apache-2.0,Permissiva,61712,112,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL3-8B,https://github.com/OpenGVLab
-BAAI/bge-multilingual-gemma2,BAAI,Embeddings,gemma,Aberta com restrição,60195,204,feature-extraction,https://huggingface.co/BAAI/bge-multilingual-gemma2,https://github.com/FlagOpen/FlagEmbedding
-OpenGVLab/InternVL3-1B,OpenGVLab,VLMs (imagem → texto),apache-2.0,Permissiva,60008,85,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL3-1B,https://github.com/OpenGVLab
-BAAI/llm-embedder,BAAI,Embeddings,mit,Permissiva,59187,128,feature-extraction,https://huggingface.co/BAAI/llm-embedder,https://github.com/FlagOpen
-zai-org/GLM-4.1V-9B-Thinking,zai-org,VLMs (imagem → texto),mit,Permissiva,59136,792,image-text-to-text,https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking,https://github.com/zai-org
-jinaai/jina-embeddings-v5-text-small-retrieval,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,57447,30,sentence-similarity,https://huggingface.co/jinaai/jina-embeddings-v5-text-small-retrieval,https://github.com/jina-ai
-stabilityai/stable-fast-3d,stabilityai,3D,other,Aberta com restrição,57080,1412,image-to-3d,https://huggingface.co/stabilityai/stable-fast-3d,https://github.com/stabilityai
-google/gemma-3-12b-pt,google,VLMs (imagem → texto),gemma,Aberta com restrição,54097,97,image-text-to-text,https://huggingface.co/google/gemma-3-12b-pt,https://github.com/google-deepmind
-Alibaba-NLP/gte-multilingual-reranker-base,Alibaba-NLP,Rerankers,apache-2.0,Permissiva,52685,196,text-ranking,https://huggingface.co/Alibaba-NLP/gte-multilingual-reranker-base,https://github.com/Alibaba-NLP
-meta-llama/Llama-3.2-11B-Vision-Instruct,meta-llama,VLMs (imagem → texto),llama3.2,Aberta com restrição,52610,1687,image-text-to-text,https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct,https://github.com/meta-llama
-Snowflake/snowflake-arctic-embed-m-v2.0,Snowflake,Embeddings,apache-2.0,Permissiva,52018,110,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-m-v2.0,https://github.com/Snowflake-Labs
-jinaai/jina-clip-v2,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,50169,346,feature-extraction,https://huggingface.co/jinaai/jina-clip-v2,https://github.com/jina-ai
-facebook/encodec_24khz,facebook,Embeddings,nao-declarada,Não declarada,48483,59,feature-extraction,https://huggingface.co/facebook/encodec_24khz,https://github.com/facebookresearch
-mixedbread-ai/mxbai-rerank-base-v1,mixedbread-ai,Rerankers,apache-2.0,Permissiva,47376,47,text-ranking,https://huggingface.co/mixedbread-ai/mxbai-rerank-base-v1,https://github.com/mixedbread-ai
-OpenGVLab/InternVL3_5-1B-HF,OpenGVLab,VLMs (imagem → texto),apache-2.0,Permissiva,46731,7,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL3_5-1B-HF,https://github.com/OpenGVLab
-jinaai/jina-embeddings-v2-base-de,jinaai,Embeddings,apache-2.0,Permissiva,46629,85,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v2-base-de,https://github.com/jina-ai
-microsoft/Florence-2-large-ft,microsoft,VLMs (imagem → texto),mit,Permissiva,46456,399,image-text-to-text,https://huggingface.co/microsoft/Florence-2-large-ft,https://github.com/microsoft
-google/paligemma2-3b-mix-224,google,VLMs (imagem → texto),gemma,Aberta com restrição,46445,69,image-text-to-text,https://huggingface.co/google/paligemma2-3b-mix-224,https://github.com/google-deepmind
-allenai/olmOCR-7B-0225-preview,allenai,VLMs (imagem → texto),apache-2.0,Permissiva,45770,705,image-text-to-text,https://huggingface.co/allenai/olmOCR-7B-0225-preview,https://github.com/allenai
-LiquidAI/LFM2.5-VL-450M,LiquidAI,VLMs (imagem → texto),other,Aberta com restrição,45343,236,image-text-to-text,https://huggingface.co/LiquidAI/LFM2.5-VL-450M,https://github.com/LiquidAI
-Alibaba-NLP/gte-Qwen2-7B-instruct,Alibaba-NLP,Embeddings,apache-2.0,Permissiva,45221,482,sentence-similarity,https://huggingface.co/Alibaba-NLP/gte-Qwen2-7B-instruct,https://github.com/Alibaba-NLP
-jinaai/jina-embeddings-v5-text-nano-retrieval,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,43839,18,sentence-similarity,https://huggingface.co/jinaai/jina-embeddings-v5-text-nano-retrieval,https://github.com/jina-ai
-mixedbread-ai/mxbai-rerank-large-v1,mixedbread-ai,Rerankers,apache-2.0,Permissiva,43110,144,text-ranking,https://huggingface.co/mixedbread-ai/mxbai-rerank-large-v1,https://github.com/mixedbread-ai
-BAAI/bge-large-zh,BAAI,Embeddings,mit,Permissiva,41438,346,feature-extraction,https://huggingface.co/BAAI/bge-large-zh,https://github.com/FlagOpen/FlagEmbedding
-Snowflake/snowflake-arctic-embed-s,Snowflake,Embeddings,apache-2.0,Permissiva,40845,29,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-s,https://github.com/Snowflake-Labs
-facebook/encodec_32khz,facebook,Embeddings,nao-declarada,Não declarada,40469,22,feature-extraction,https://huggingface.co/facebook/encodec_32khz,https://github.com/facebookresearch
-mixedbread-ai/mxbai-rerank-large-v2,mixedbread-ai,Rerankers,apache-2.0,Permissiva,37845,146,text-ranking,https://huggingface.co/mixedbread-ai/mxbai-rerank-large-v2,https://github.com/mixedbread-ai
-facebook/map-anything,facebook,3D,cc-by-nc-4.0,Não comercial,37300,109,image-to-3d,https://huggingface.co/facebook/map-anything,https://github.com/facebookresearch
-microsoft/wavlm-base,microsoft,Embeddings,nao-declarada,Não declarada,33651,19,feature-extraction,https://huggingface.co/microsoft/wavlm-base,https://github.com/microsoft
-mixedbread-ai/mxbai-embed-xsmall-v1,mixedbread-ai,Embeddings,apache-2.0,Permissiva,32403,38,feature-extraction,https://huggingface.co/mixedbread-ai/mxbai-embed-xsmall-v1,https://github.com/mixedbread-ai
-jinaai/jina-reranker-v1-turbo-en,jinaai,Rerankers,apache-2.0,Permissiva,26654,67,text-ranking,https://huggingface.co/jinaai/jina-reranker-v1-turbo-en,https://github.com/jina-ai
-nvidia/llama-nemotron-rerank-vl-1b-v2,nvidia,Rerankers,other,Aberta com restrição,25937,75,text-ranking,https://huggingface.co/nvidia/llama-nemotron-rerank-vl-1b-v2,https://github.com/NVIDIA
-OpenMOSS-Team/MOSS-Audio-Tokenizer-v2,OpenMOSS-Team,Embeddings,apache-2.0,Permissiva,24778,25,feature-extraction,https://huggingface.co/OpenMOSS-Team/MOSS-Audio-Tokenizer-v2,
-google/muril-large-cased,google,Embeddings,nao-declarada,Não declarada,24171,26,feature-extraction,https://huggingface.co/google/muril-large-cased,https://github.com/google-deepmind
-Qwen/Qwen3-VL-Reranker-8B,Qwen,Rerankers,apache-2.0,Permissiva,20896,182,text-ranking,https://huggingface.co/Qwen/Qwen3-VL-Reranker-8B,https://github.com/QwenLM/Qwen3-VL
-facebook/dpr-question_encoder-single-nq-base,facebook,Embeddings,cc-by-nc-4.0,Não comercial,19785,40,feature-extraction,https://huggingface.co/facebook/dpr-question_encoder-single-nq-base,https://github.com/facebookresearch
-LiquidAI/LFM2.5-ColBERT-350M,LiquidAI,Embeddings,other,Aberta com restrição,19016,121,sentence-similarity,https://huggingface.co/LiquidAI/LFM2.5-ColBERT-350M,https://github.com/LiquidAI
-nvidia/llama-embed-nemotron-8b,nvidia,Embeddings,other,Aberta com restrição,15971,174,feature-extraction,https://huggingface.co/nvidia/llama-embed-nemotron-8b,https://github.com/NVIDIA
-jinaai/jina-embeddings-v2-base-zh,jinaai,Embeddings,apache-2.0,Permissiva,15789,245,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v2-base-zh,https://github.com/jina-ai
-facebook/contriever-msmarco,facebook,Embeddings,nao-declarada,Não declarada,14682,38,feature-extraction,https://huggingface.co/facebook/contriever-msmarco,https://github.com/facebookresearch
-microsoft/TRELLIS-text-xlarge,microsoft,3D,mit,Permissiva,14394,91,text-to-3d,https://huggingface.co/microsoft/TRELLIS-text-xlarge,https://github.com/microsoft/TRELLIS
-google/canine-s,google,Embeddings,apache-2.0,Permissiva,13996,37,feature-extraction,https://huggingface.co/google/canine-s,https://github.com/google-deepmind
-nvidia/llama-nemotron-embed-vl-1b-v2,nvidia,Embeddings,other,Aberta com restrição,13971,111,sentence-similarity,https://huggingface.co/nvidia/llama-nemotron-embed-vl-1b-v2,https://github.com/NVIDIA
-allenai/specter,allenai,Embeddings,apache-2.0,Permissiva,13253,65,feature-extraction,https://huggingface.co/allenai/specter,https://github.com/allenai
-jinaai/jina-reranker-v1-tiny-en,jinaai,Rerankers,apache-2.0,Permissiva,13215,29,text-ranking,https://huggingface.co/jinaai/jina-reranker-v1-tiny-en,https://github.com/jina-ai
-nvidia/C-RADIOv4-SO400M,nvidia,Embeddings,other,Aberta com restrição,13167,50,feature-extraction,https://huggingface.co/nvidia/C-RADIOv4-SO400M,https://github.com/NVIDIA
-LiquidAI/Liquid-Codec,LiquidAI,Embeddings,other,Aberta com restrição,13130,6,feature-extraction,https://huggingface.co/LiquidAI/Liquid-Codec,https://github.com/LiquidAI
-mixedbread-ai/mxbai-edge-colbert-v0-32m,mixedbread-ai,Embeddings,apache-2.0,Permissiva,12513,49,sentence-similarity,https://huggingface.co/mixedbread-ai/mxbai-edge-colbert-v0-32m,https://github.com/mixedbread-ai
-mixedbread-ai/mxbai-edge-colbert-v0-17m,mixedbread-ai,Embeddings,apache-2.0,Permissiva,12440,38,sentence-similarity,https://huggingface.co/mixedbread-ai/mxbai-edge-colbert-v0-17m,https://github.com/mixedbread-ai
-mixedbread-ai/mxbai-rerank-base-v2,mixedbread-ai,Rerankers,apache-2.0,Permissiva,12341,64,text-ranking,https://huggingface.co/mixedbread-ai/mxbai-rerank-base-v2,https://github.com/mixedbread-ai
-nvidia/C-RADIOv4-H,nvidia,Embeddings,other,Aberta com restrição,11914,90,feature-extraction,https://huggingface.co/nvidia/C-RADIOv4-H,https://github.com/NVIDIA
-nomic-ai/modernbert-embed-base-unsupervised,nomic-ai,Embeddings,apache-2.0,Permissiva,10730,10,sentence-similarity,https://huggingface.co/nomic-ai/modernbert-embed-base-unsupervised,https://github.com/nomic-ai
-jinaai/jina-embeddings-v5-omni-nano,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,10275,46,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v5-omni-nano,https://github.com/jina-ai
-microsoft/TRELLIS-text-large,microsoft,3D,mit,Permissiva,9057,22,text-to-3d,https://huggingface.co/microsoft/TRELLIS-text-large,https://github.com/microsoft/TRELLIS
-black-forest-labs/FLUX.2-klein-9b-kv,black-forest-labs,Edição de imagem,other,Aberta com restrição,7268,241,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-klein-9b-kv,https://github.com/black-forest-labs/flux
-stabilityai/stable-point-aware-3d,stabilityai,3D,other,Aberta com restrição,6769,439,image-to-3d,https://huggingface.co/stabilityai/stable-point-aware-3d,https://github.com/stabilityai
-openai/shap-e,openai,3D,mit,Permissiva,5894,298,text-to-3d,https://huggingface.co/openai/shap-e,https://github.com/openai/shap-e
-facebook/VGGT-1B-Commercial,facebook,3D,other,Aberta com restrição,4576,145,image-to-3d,https://huggingface.co/facebook/VGGT-1B-Commercial,https://github.com/facebookresearch
-nvidia/Lyra-2.0,nvidia,3D,nao-declarada,Não declarada,2301,370,image-to-3d,https://huggingface.co/nvidia/Lyra-2.0,https://github.com/NVIDIA
-microsoft/TRELLIS-text-base,microsoft,3D,mit,Permissiva,2193,27,text-to-3d,https://huggingface.co/microsoft/TRELLIS-text-base,https://github.com/microsoft/TRELLIS
+BAAI/bge-small-en-v1.5,BAAI,Embeddings,mit,Permissiva,47585573,669,feature-extraction,https://huggingface.co/BAAI/bge-small-en-v1.5,https://github.com/FlagOpen/FlagEmbedding
+BAAI/bge-m3,BAAI,Embeddings,mit,Permissiva,29564329,3978,sentence-similarity,https://huggingface.co/BAAI/bge-m3,https://github.com/FlagOpen/FlagEmbedding
+nomic-ai/nomic-embed-text-v1.5,nomic-ai,Embeddings,apache-2.0,Permissiva,11931543,989,sentence-similarity,https://huggingface.co/nomic-ai/nomic-embed-text-v1.5,https://github.com/nomic-ai
+microsoft/Florence-2-base,microsoft,VLMs (imagem → texto),mit,Permissiva,11733723,437,image-text-to-text,https://huggingface.co/microsoft/Florence-2-base,https://github.com/microsoft
+intfloat/multilingual-e5-small,intfloat,Embeddings,mit,Permissiva,9411746,483,sentence-similarity,https://huggingface.co/intfloat/multilingual-e5-small,https://github.com/intfloat
+BAAI/bge-base-en-v1.5,BAAI,Embeddings,mit,Permissiva,8332043,541,feature-extraction,https://huggingface.co/BAAI/bge-base-en-v1.5,https://github.com/FlagOpen/FlagEmbedding
+BAAI/bge-large-en-v1.5,BAAI,Embeddings,mit,Permissiva,8166171,781,feature-extraction,https://huggingface.co/BAAI/bge-large-en-v1.5,https://github.com/FlagOpen/FlagEmbedding
+Qwen/Qwen3.8-27B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,7508158,19459,image-text-to-text,https://huggingface.co/Qwen/Qwen3.8-27B,https://github.com/QwenLM
+intfloat/multilingual-e5-large,intfloat,Embeddings,mit,Permissiva,7131743,1284,feature-extraction,https://huggingface.co/intfloat/multilingual-e5-large,https://github.com/intfloat
+Qwen/Qwen3-VL-8B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,7092774,1247,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct,https://github.com/QwenLM/Qwen3-VL
+google/gemma-4-31B-it,google,VLMs (imagem → texto),apache-2.0,Permissiva,7079469,4324,image-text-to-text,https://huggingface.co/google/gemma-4-31B-it,https://github.com/google-deepmind
+zai-org/GLM-5.3-Flash,zai-org,VLMs (imagem → texto),mit,Permissiva,6388408,3099,image-text-to-text,https://huggingface.co/zai-org/GLM-5.3-Flash,https://github.com/zai-org
+Qwen/Qwen3.5-9B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,6366157,2337,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-9B,https://github.com/QwenLM
+Qwen/Qwen2.5-VL-7B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,5980572,1767,image-text-to-text,https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct,https://github.com/QwenLM
+google/gemma-4-26B-A4B-it,google,VLMs (imagem → texto),apache-2.0,Permissiva,5506751,1749,image-text-to-text,https://huggingface.co/google/gemma-4-26B-A4B-it,https://github.com/google-deepmind
+Qwen/Qwen3.5-4B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,5274172,1211,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-4B,https://github.com/QwenLM
+intfloat/multilingual-e5-base,intfloat,Embeddings,mit,Permissiva,4907595,421,sentence-similarity,https://huggingface.co/intfloat/multilingual-e5-base,https://github.com/intfloat
+Qwen/Qwen3.6-35B-A3B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,4209694,3108,image-text-to-text,https://huggingface.co/Qwen/Qwen3.6-35B-A3B,https://github.com/QwenLM
+Qwen/Qwen3-VL-4B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,3747873,528,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct,https://github.com/QwenLM/Qwen3-VL
+Qwen/Qwen3.5-2B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,3743248,473,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-2B,https://github.com/QwenLM
+Snowflake/snowflake-arctic-embed-l-v2.0,Snowflake,Embeddings,apache-2.0,Permissiva,3554646,267,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-l-v2.0,https://github.com/Snowflake-Labs
+Qwen/Qwen3.5-0.8B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,3549829,827,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-0.8B,https://github.com/QwenLM
+Qwen/Qwen3.8-Flash-Next,Qwen,VLMs (imagem → texto),other,Aberta com restrição,3471211,6874,image-text-to-text,https://huggingface.co/Qwen/Qwen3.8-Flash-Next,https://github.com/QwenLM
+BAAI/bge-small-zh-v1.5,BAAI,Embeddings,mit,Permissiva,3096936,168,feature-extraction,https://huggingface.co/BAAI/bge-small-zh-v1.5,https://github.com/FlagOpen/FlagEmbedding
+microsoft/TRELLIS.2-4B,microsoft,3D,mit,Permissiva,2687503,1467,image-to-3d,https://huggingface.co/microsoft/TRELLIS.2-4B,https://github.com/microsoft/TRELLIS
+BAAI/bge-base-en,BAAI,Embeddings,mit,Permissiva,2681684,73,feature-extraction,https://huggingface.co/BAAI/bge-base-en,https://github.com/FlagOpen/FlagEmbedding
+microsoft/TRELLIS-image-large,microsoft,3D,mit,Permissiva,2667596,722,image-to-3d,https://huggingface.co/microsoft/TRELLIS-image-large,https://github.com/microsoft/TRELLIS
+Qwen/Qwen3-Reranker-4B,Qwen,Rerankers,apache-2.0,Permissiva,2642003,193,text-ranking,https://huggingface.co/Qwen/Qwen3-Reranker-4B,https://github.com/QwenLM/Qwen3-Embedding
+Qwen/Qwen3.6-27B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,2349158,2351,image-text-to-text,https://huggingface.co/Qwen/Qwen3.6-27B,https://github.com/QwenLM
+mixedbread-ai/mxbai-embed-large-v1,mixedbread-ai,Embeddings,apache-2.0,Permissiva,2306624,847,feature-extraction,https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1,https://github.com/mixedbread-ai
+BAAI/bge-reranker-large,BAAI,Embeddings,mit,Permissiva,2041111,486,feature-extraction,https://huggingface.co/BAAI/bge-reranker-large,https://github.com/FlagOpen/FlagEmbedding
+Alibaba-NLP/gte-large-en-v1.5,Alibaba-NLP,Embeddings,apache-2.0,Permissiva,1932876,254,sentence-similarity,https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5,https://github.com/Alibaba-NLP
+HuggingFaceTB/SmolVLM2-500M-Video-Instruct,HuggingFaceTB,VLMs (imagem → texto),apache-2.0,Permissiva,1773711,203,image-text-to-text,https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct,https://github.com/huggingface
+intfloat/multilingual-e5-large-instruct,intfloat,Embeddings,mit,Permissiva,1746705,656,feature-extraction,https://huggingface.co/intfloat/multilingual-e5-large-instruct,https://github.com/intfloat
+Qwen/Qwen2.5-VL-3B-Instruct,Qwen,VLMs (imagem → texto),nao-declarada,Não declarada,1736195,744,image-text-to-text,https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct,https://github.com/QwenLM
+Qwen/Qwen3.5-27B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,1677896,1091,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-27B,https://github.com/QwenLM
+jinaai/jina-reranker-v2-base-multilingual,jinaai,Rerankers,cc-by-nc-4.0,Não comercial,1621941,371,text-ranking,https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual,https://github.com/jina-ai
+Qwen/Qwen3.5-35B-A3B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,1591542,1557,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-35B-A3B,https://github.com/QwenLM
+jinaai/jina-embeddings-v3,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,1476769,1174,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v3,https://github.com/jina-ai
+microsoft/wavlm-large,microsoft,Embeddings,nao-declarada,Não declarada,1352896,124,feature-extraction,https://huggingface.co/microsoft/wavlm-large,https://github.com/microsoft
+Qwen/Qwen3-Reranker-0.6B,Qwen,Rerankers,apache-2.0,Permissiva,1352539,436,text-ranking,https://huggingface.co/Qwen/Qwen3-Reranker-0.6B,https://github.com/QwenLM/Qwen3-Embedding
+Alibaba-NLP/gte-reranker-modernbert-base,Alibaba-NLP,Rerankers,apache-2.0,Permissiva,1337455,112,text-ranking,https://huggingface.co/Alibaba-NLP/gte-reranker-modernbert-base,https://github.com/Alibaba-NLP
+facebook/w2v-bert-2.0,facebook,Embeddings,mit,Permissiva,1328419,243,feature-extraction,https://huggingface.co/facebook/w2v-bert-2.0,https://github.com/facebookresearch
+jinaai/jina-embeddings-v2-small-en,jinaai,Embeddings,apache-2.0,Permissiva,1286466,159,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v2-small-en,https://github.com/jina-ai
+google/embeddinggemma-300m,google,Embeddings,gemma,Aberta com restrição,1160876,2105,sentence-similarity,https://huggingface.co/google/embeddinggemma-300m,https://github.com/google-deepmind
+Qwen/Qwen3-VL-2B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,1091858,516,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct,https://github.com/QwenLM/Qwen3-VL
+Qwen/Qwen2-VL-2B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,1024149,529,image-text-to-text,https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct,https://github.com/QwenLM
+jinaai/jina-embeddings-v5-omni-small,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,1012587,177,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v5-omni-small,https://github.com/jina-ai
+intfloat/e5-base-v2,intfloat,Embeddings,mit,Permissiva,1012094,173,sentence-similarity,https://huggingface.co/intfloat/e5-base-v2,https://github.com/intfloat
+google/gemma-3-4b-it,google,VLMs (imagem → texto),gemma,Aberta com restrição,1008800,1640,image-text-to-text,https://huggingface.co/google/gemma-3-4b-it,https://github.com/google-deepmind
+intfloat/e5-small-v2,intfloat,Embeddings,mit,Permissiva,985516,136,sentence-similarity,https://huggingface.co/intfloat/e5-small-v2,https://github.com/intfloat
+OpenGVLab/InternVL2-1B,OpenGVLab,VLMs (imagem → texto),mit,Permissiva,963910,84,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL2-1B,https://github.com/OpenGVLab
+intfloat/e5-base,intfloat,Embeddings,mit,Permissiva,953488,36,sentence-similarity,https://huggingface.co/intfloat/e5-base,https://github.com/intfloat
+Qwen/Qwen3.5-122B-A10B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,904236,653,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-122B-A10B,https://github.com/QwenLM
+Alibaba-NLP/gte-multilingual-base,Alibaba-NLP,Embeddings,apache-2.0,Permissiva,882931,391,sentence-similarity,https://huggingface.co/Alibaba-NLP/gte-multilingual-base,https://github.com/Alibaba-NLP
+Qwen/Qwen3.5-397B-A17B,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,836659,1579,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-397B-A17B,https://github.com/QwenLM
+nomic-ai/nomic-embed-text-v1,nomic-ai,Embeddings,apache-2.0,Permissiva,835626,598,sentence-similarity,https://huggingface.co/nomic-ai/nomic-embed-text-v1,https://github.com/nomic-ai
+Qwen/Qwen3.5-0.8B-Base,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,797869,139,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-0.8B-Base,https://github.com/QwenLM
+jinaai/jina-reranker-v3,jinaai,Rerankers,cc-by-nc-4.0,Não comercial,769782,156,text-ranking,https://huggingface.co/jinaai/jina-reranker-v3,https://github.com/jina-ai
+moonshotai/Kimi-K3,moonshotai,VLMs (imagem → texto),other,Aberta com restrição,742400,11959,image-text-to-text,https://huggingface.co/moonshotai/Kimi-K3,https://github.com/MoonshotAI
+intfloat/e5-large-v2,intfloat,Embeddings,mit,Permissiva,736692,294,sentence-similarity,https://huggingface.co/intfloat/e5-large-v2,https://github.com/intfloat
+black-forest-labs/FLUX.2-klein-base-4B,black-forest-labs,Edição de imagem,apache-2.0,Permissiva,736292,190,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-klein-base-4B,https://github.com/black-forest-labs/flux
+nomic-ai/nomic-embed-text-v2-moe,nomic-ai,Embeddings,apache-2.0,Permissiva,735530,515,sentence-similarity,https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe,https://github.com/nomic-ai
+mixedbread-ai/mxbai-rerank-xsmall-v1,mixedbread-ai,Rerankers,apache-2.0,Permissiva,669293,59,text-ranking,https://huggingface.co/mixedbread-ai/mxbai-rerank-xsmall-v1,https://github.com/mixedbread-ai
+allenai/specter2_base,allenai,Embeddings,apache-2.0,Permissiva,661638,57,feature-extraction,https://huggingface.co/allenai/specter2_base,https://github.com/allenai
+OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview-HF,OpenGVLab,VLMs (imagem → texto),apache-2.0,Permissiva,659014,10,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview-HF,https://github.com/OpenGVLab
+Qwen/Qwen2.5-VL-32B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,646110,510,image-text-to-text,https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct,https://github.com/QwenLM
+google/diffusiongemma-26B-A4B-it,google,VLMs (imagem → texto),apache-2.0,Permissiva,636988,1324,image-text-to-text,https://huggingface.co/google/diffusiongemma-26B-A4B-it,https://github.com/google-deepmind
+Qwen/Qwen3.5-4B-Base,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,592988,125,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-4B-Base,https://github.com/QwenLM
+nvidia/Cosmos-Reason2-2B,nvidia,VLMs (imagem → texto),other,Aberta com restrição,570660,383,image-text-to-text,https://huggingface.co/nvidia/Cosmos-Reason2-2B,https://github.com/NVIDIA
+facebook/VGGT-1B,facebook,3D,cc-by-nc-4.0,Não comercial,569513,157,image-to-3d,https://huggingface.co/facebook/VGGT-1B,https://github.com/facebookresearch
+Qwen/Qwen-Image-Edit-2509,Qwen,Edição de imagem,apache-2.0,Permissiva,554908,1266,image-to-image,https://huggingface.co/Qwen/Qwen-Image-Edit-2509,https://github.com/QwenLM/Qwen-Image
+Qwen/Qwen2-VL-7B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,546277,1297,image-text-to-text,https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct,https://github.com/QwenLM
+Snowflake/snowflake-arctic-embed-xs,Snowflake,Embeddings,nao-declarada,Não declarada,531403,43,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-xs,https://github.com/Snowflake-Labs
+Snowflake/snowflake-arctic-embed-l,Snowflake,Embeddings,apache-2.0,Permissiva,518828,114,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-l,https://github.com/Snowflake-Labs
+mixedbread-ai/deepset-mxbai-embed-de-large-v1,mixedbread-ai,Embeddings,apache-2.0,Permissiva,504335,61,feature-extraction,https://huggingface.co/mixedbread-ai/deepset-mxbai-embed-de-large-v1,https://github.com/mixedbread-ai
+google/embeddinggemma-2,google,Embeddings,apache-2.0,Permissiva,475436,3215,feature-extraction,https://huggingface.co/google/embeddinggemma-2,https://github.com/google-deepmind
+Alibaba-NLP/gte-base-en-v1.5,Alibaba-NLP,Embeddings,apache-2.0,Permissiva,452209,72,sentence-similarity,https://huggingface.co/Alibaba-NLP/gte-base-en-v1.5,https://github.com/Alibaba-NLP
+Qwen/Qwen3-VL-30B-A3B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,441422,627,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct,https://github.com/QwenLM/Qwen3-VL
+google/medgemma-4b-it,google,VLMs (imagem → texto),other,Aberta com restrição,436571,1142,image-text-to-text,https://huggingface.co/google/medgemma-4b-it,https://github.com/google-deepmind
+black-forest-labs/FLUX.2-klein-4B,black-forest-labs,Edição de imagem,apache-2.0,Permissiva,428006,1104,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-klein-4B,https://github.com/black-forest-labs/flux
+Salesforce/blip2-opt-2.7b,Salesforce,VLMs (imagem → texto),mit,Permissiva,399508,448,image-text-to-text,https://huggingface.co/Salesforce/blip2-opt-2.7b,https://github.com/salesforce
+microsoft/Florence-2-large,microsoft,VLMs (imagem → texto),mit,Permissiva,398499,1888,image-text-to-text,https://huggingface.co/microsoft/Florence-2-large,https://github.com/microsoft
+microsoft/wavlm-base-plus,microsoft,Embeddings,nao-declarada,Não declarada,396015,51,feature-extraction,https://huggingface.co/microsoft/wavlm-base-plus,https://github.com/microsoft
+moonshotai/Kimi-K2.5,moonshotai,VLMs (imagem → texto),other,Aberta com restrição,392503,2901,image-text-to-text,https://huggingface.co/moonshotai/Kimi-K2.5,https://github.com/MoonshotAI
+Snowflake/snowflake-arctic-embed-m,Snowflake,Embeddings,apache-2.0,Permissiva,388494,169,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-m,https://github.com/Snowflake-Labs
+google/gemma-3-12b-it,google,VLMs (imagem → texto),gemma,Aberta com restrição,362809,908,image-text-to-text,https://huggingface.co/google/gemma-3-12b-it,https://github.com/google-deepmind
+google/gemma-3-27b-it,google,VLMs (imagem → texto),gemma,Aberta com restrição,361121,2066,image-text-to-text,https://huggingface.co/google/gemma-3-27b-it,https://github.com/google-deepmind
+jinaai/jina-embeddings-v2-base-en,jinaai,Embeddings,apache-2.0,Permissiva,356883,739,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v2-base-en,https://github.com/jina-ai
+nvidia/llama-nemotron-rerank-1b-v2,nvidia,Rerankers,other,Aberta com restrição,347609,72,text-ranking,https://huggingface.co/nvidia/llama-nemotron-rerank-1b-v2,https://github.com/NVIDIA
+nvidia/llama-nemotron-embed-1b-v2,nvidia,Embeddings,other,Aberta com restrição,347140,72,feature-extraction,https://huggingface.co/nvidia/llama-nemotron-embed-1b-v2,https://github.com/NVIDIA
+BAAI/bge-large-zh-v1.5,BAAI,Embeddings,mit,Permissiva,334844,650,feature-extraction,https://huggingface.co/BAAI/bge-large-zh-v1.5,https://github.com/FlagOpen/FlagEmbedding
+Qwen/Qwen3.5-9B-Base,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,331715,147,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-9B-Base,https://github.com/QwenLM
+Qwen/Qwen3-VL-235B-A22B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,327001,431,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct,https://github.com/QwenLM/Qwen3-VL
+Qwen/Qwen3.5-2B-Base,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,325654,108,image-text-to-text,https://huggingface.co/Qwen/Qwen3.5-2B-Base,https://github.com/QwenLM
+microsoft/Phi-3.5-vision-instruct,microsoft,VLMs (imagem → texto),mit,Permissiva,308181,750,image-text-to-text,https://huggingface.co/microsoft/Phi-3.5-vision-instruct,https://github.com/microsoft
+black-forest-labs/FLUX.2-dev,black-forest-labs,Edição de imagem,other,Aberta com restrição,291750,2553,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-dev,https://github.com/black-forest-labs/flux
+google/gemma-3-4b-pt,google,VLMs (imagem → texto),gemma,Aberta com restrição,290917,179,image-text-to-text,https://huggingface.co/google/gemma-3-4b-pt,https://github.com/google-deepmind
+nvidia/NV-Embed-v2,nvidia,Embeddings,cc-by-nc-4.0,Não comercial,278331,525,feature-extraction,https://huggingface.co/nvidia/NV-Embed-v2,https://github.com/NVIDIA
+google/paligemma-3b-pt-224,google,VLMs (imagem → texto),gemma,Aberta com restrição,275814,709,image-text-to-text,https://huggingface.co/google/paligemma-3b-pt-224,https://github.com/google-deepmind
+intfloat/e5-large,intfloat,Embeddings,mit,Permissiva,263138,83,sentence-similarity,https://huggingface.co/intfloat/e5-large,https://github.com/intfloat
+facebook/hubert-large-ll60k,facebook,Embeddings,apache-2.0,Permissiva,261689,42,feature-extraction,https://huggingface.co/facebook/hubert-large-ll60k,https://github.com/facebookresearch
+BAAI/bge-base-zh-v1.5,BAAI,Embeddings,mit,Permissiva,253070,112,feature-extraction,https://huggingface.co/BAAI/bge-base-zh-v1.5,https://github.com/FlagOpen/FlagEmbedding
+OpenGVLab/InternVL2_5-4B-MPO,OpenGVLab,VLMs (imagem → texto),mit,Permissiva,244193,18,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL2_5-4B-MPO,https://github.com/OpenGVLab
+black-forest-labs/FLUX.1-Kontext-dev,black-forest-labs,Edição de imagem,other,Aberta com restrição,244015,2949,image-to-image,https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev,https://github.com/black-forest-labs/flux
+jinaai/jina-embeddings-v3-hf,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,238802,3,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v3-hf,https://github.com/jina-ai
+HuggingFaceTB/SmolVLM-500M-Instruct,HuggingFaceTB,VLMs (imagem → texto),apache-2.0,Permissiva,233175,200,image-text-to-text,https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct,https://github.com/huggingface
+nvidia/dragon-multiturn-query-encoder,nvidia,Embeddings,other,Aberta com restrição,231333,66,feature-extraction,https://huggingface.co/nvidia/dragon-multiturn-query-encoder,https://github.com/NVIDIA
+nvidia/dragon-multiturn-context-encoder,nvidia,Embeddings,other,Aberta com restrição,231167,31,feature-extraction,https://huggingface.co/nvidia/dragon-multiturn-context-encoder,https://github.com/NVIDIA
+moonshotai/Kimi-K2.6,moonshotai,VLMs (imagem → texto),other,Aberta com restrição,222709,1641,image-text-to-text,https://huggingface.co/moonshotai/Kimi-K2.6,https://github.com/MoonshotAI
+microsoft/harrier-oss-v1-0.6b,microsoft,Embeddings,mit,Permissiva,221688,335,feature-extraction,https://huggingface.co/microsoft/harrier-oss-v1-0.6b,https://github.com/microsoft
+google/gemma-4-31B-it-qat-w4a16-ct,google,VLMs (imagem → texto),apache-2.0,Permissiva,218649,102,image-text-to-text,https://huggingface.co/google/gemma-4-31B-it-qat-w4a16-ct,https://github.com/google-deepmind
+OpenMOSS-Team/MOSS-Audio-Tokenizer-Nano,OpenMOSS-Team,Embeddings,apache-2.0,Permissiva,216858,30,feature-extraction,https://huggingface.co/OpenMOSS-Team/MOSS-Audio-Tokenizer-Nano,
+facebook/bart-base,facebook,Embeddings,apache-2.0,Permissiva,216121,216,feature-extraction,https://huggingface.co/facebook/bart-base,https://github.com/facebookresearch
+BAAI/bge-small-en,BAAI,Embeddings,mit,Permissiva,216052,95,feature-extraction,https://huggingface.co/BAAI/bge-small-en,https://github.com/FlagOpen/FlagEmbedding
+Qwen/Qwen-Image-Edit-2511,Qwen,Edição de imagem,apache-2.0,Permissiva,215511,1542,image-to-image,https://huggingface.co/Qwen/Qwen-Image-Edit-2511,https://github.com/QwenLM/Qwen-Image
+google/medgemma-1.5-4b-it,google,VLMs (imagem → texto),other,Aberta com restrição,206699,1119,image-text-to-text,https://huggingface.co/google/medgemma-1.5-4b-it,https://github.com/google-deepmind
+jinaai/jina-clip-v1,jinaai,Embeddings,apache-2.0,Permissiva,201997,258,feature-extraction,https://huggingface.co/jinaai/jina-clip-v1,https://github.com/jina-ai
+Qwen/Qwen3-VL-32B-Instruct,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,186763,257,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct,https://github.com/QwenLM/Qwen3-VL
+black-forest-labs/flux-3-image-klein,black-forest-labs,Edição de imagem,other,Aberta com restrição,185906,895,image-to-image,https://huggingface.co/black-forest-labs/flux-3-image-klein,https://github.com/black-forest-labs/flux
+stabilityai/TripoSR,stabilityai,3D,mit,Permissiva,184631,686,image-to-3d,https://huggingface.co/stabilityai/TripoSR,https://github.com/VAST-AI-Research/TripoSR
+BAAI/bge-large-en,BAAI,Embeddings,mit,Permissiva,184363,231,feature-extraction,https://huggingface.co/BAAI/bge-large-en,https://github.com/FlagOpen/FlagEmbedding
+microsoft/Florence-2-base-ft,microsoft,VLMs (imagem → texto),mit,Permissiva,175196,154,image-text-to-text,https://huggingface.co/microsoft/Florence-2-base-ft,https://github.com/microsoft
+jinaai/jina-reranker-v3.5,jinaai,Rerankers,cc-by-nc-4.0,Não comercial,172369,56,text-ranking,https://huggingface.co/jinaai/jina-reranker-v3.5,https://github.com/jina-ai
+HuggingFaceTB/SmolVLM-256M-Instruct,HuggingFaceTB,VLMs (imagem → texto),apache-2.0,Permissiva,166873,425,image-text-to-text,https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct,https://github.com/huggingface
+black-forest-labs/FLUX.2-small-decoder,black-forest-labs,Edição de imagem,apache-2.0,Permissiva,165173,187,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-small-decoder,https://github.com/black-forest-labs/flux
+nvidia/LocateAnything-3B,nvidia,VLMs (imagem → texto),other,Aberta com restrição,156845,3180,image-text-to-text,https://huggingface.co/nvidia/LocateAnything-3B,https://github.com/NVIDIA
+facebook/hubert-base-ls960,facebook,Embeddings,apache-2.0,Permissiva,155801,83,feature-extraction,https://huggingface.co/facebook/hubert-base-ls960,https://github.com/facebookresearch
+ibm-granite/granite-docling-258M,ibm-granite,VLMs (imagem → texto),apache-2.0,Permissiva,148901,1295,image-text-to-text,https://huggingface.co/ibm-granite/granite-docling-258M,https://github.com/ibm-granite
+MiniMaxAI/MiniMax-M3,MiniMaxAI,VLMs (imagem → texto),other,Aberta com restrição,148023,1600,image-text-to-text,https://huggingface.co/MiniMaxAI/MiniMax-M3,
+black-forest-labs/FLUX.2-klein-9B,black-forest-labs,Edição de imagem,other,Aberta com restrição,144716,1811,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-klein-9B,https://github.com/black-forest-labs/flux
+ByteDance-Seed/UI-TARS-1.5-7B,ByteDance-Seed,VLMs (imagem → texto),apache-2.0,Permissiva,142734,621,image-text-to-text,https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B,https://github.com/ByteDance-Seed
+google/canine-c,google,Embeddings,apache-2.0,Permissiva,136215,48,feature-extraction,https://huggingface.co/google/canine-c,https://github.com/google-deepmind
+ibm-granite/granite-speech-4.1-2b-nar,ibm-granite,Embeddings,apache-2.0,Permissiva,133102,61,feature-extraction,https://huggingface.co/ibm-granite/granite-speech-4.1-2b-nar,https://github.com/ibm-granite
+Qwen/Qwen3-VL-8B-Thinking,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,132965,234,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking,https://github.com/QwenLM/Qwen3-VL
+black-forest-labs/flux-3-image-klein-base,black-forest-labs,Edição de imagem,other,Aberta com restrição,131232,228,image-to-image,https://huggingface.co/black-forest-labs/flux-3-image-klein-base,https://github.com/black-forest-labs/flux
+Qwen/Qwen-Image-Edit,Qwen,Edição de imagem,apache-2.0,Permissiva,130860,2576,image-to-image,https://huggingface.co/Qwen/Qwen-Image-Edit,https://github.com/QwenLM/Qwen-Image
+OpenGVLab/Mini-InternVL-Chat-2B-V1-5,OpenGVLab,VLMs (imagem → texto),mit,Permissiva,129685,74,image-text-to-text,https://huggingface.co/OpenGVLab/Mini-InternVL-Chat-2B-V1-5,https://github.com/OpenGVLab
+Alibaba-NLP/gte-modernbert-base,Alibaba-NLP,Embeddings,apache-2.0,Permissiva,125995,205,sentence-similarity,https://huggingface.co/Alibaba-NLP/gte-modernbert-base,https://github.com/Alibaba-NLP
+nvidia/NVIDIA-Nemotron-Parse-v1.1,nvidia,VLMs (imagem → texto),other,Aberta com restrição,120328,174,image-text-to-text,https://huggingface.co/nvidia/NVIDIA-Nemotron-Parse-v1.1,https://github.com/NVIDIA
+mixedbread-ai/mxbai-embed-2d-large-v1,mixedbread-ai,Embeddings,apache-2.0,Permissiva,119977,43,feature-extraction,https://huggingface.co/mixedbread-ai/mxbai-embed-2d-large-v1,https://github.com/mixedbread-ai
+facebook/map-anything-apache,facebook,3D,apache-2.0,Permissiva,116463,48,image-to-3d,https://huggingface.co/facebook/map-anything-apache,https://github.com/facebookresearch
+Snowflake/snowflake-arctic-embed-m-v1.5,Snowflake,Embeddings,apache-2.0,Permissiva,112456,73,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-m-v1.5,https://github.com/Snowflake-Labs
+Alibaba-NLP/gte-Qwen2-1.5B-instruct,Alibaba-NLP,Embeddings,apache-2.0,Permissiva,111291,240,sentence-similarity,https://huggingface.co/Alibaba-NLP/gte-Qwen2-1.5B-instruct,https://github.com/Alibaba-NLP
+nomic-ai/modernbert-embed-base,nomic-ai,Embeddings,apache-2.0,Permissiva,110415,235,sentence-similarity,https://huggingface.co/nomic-ai/modernbert-embed-base,https://github.com/nomic-ai
+meta-llama/Llama-4-Scout-17B-16E-Instruct,meta-llama,VLMs (imagem → texto),other,Aberta com restrição,109776,1387,image-text-to-text,https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct,https://github.com/meta-llama
+stabilityai/stable-diffusion-xl-refiner-1.0,stabilityai,Edição de imagem,openrail++,Aberta com restrição,107892,2087,image-to-image,https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0,https://github.com/stabilityai
+microsoft/harrier-oss-v1-270m,microsoft,Embeddings,mit,Permissiva,106441,211,feature-extraction,https://huggingface.co/microsoft/harrier-oss-v1-270m,https://github.com/microsoft
+ibm-granite/granite-vision-4.1-4b,ibm-granite,VLMs (imagem → texto),apache-2.0,Permissiva,105282,114,image-text-to-text,https://huggingface.co/ibm-granite/granite-vision-4.1-4b,https://github.com/ibm-granite
+facebook/bart-large,facebook,Embeddings,apache-2.0,Permissiva,104955,208,feature-extraction,https://huggingface.co/facebook/bart-large,https://github.com/facebookresearch
+OpenGVLab/InternVL2-2B,OpenGVLab,VLMs (imagem → texto),mit,Permissiva,103890,83,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL2-2B,https://github.com/OpenGVLab
+Qwen/Qwen2.5-VL-72B-Instruct,Qwen,VLMs (imagem → texto),other,Aberta com restrição,99283,667,image-text-to-text,https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct,https://github.com/QwenLM
+OpenGVLab/InternVL3_5-8B,OpenGVLab,VLMs (imagem → texto),apache-2.0,Permissiva,98324,109,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL3_5-8B,https://github.com/OpenGVLab
+OpenMOSS-Team/MOSS-Audio-Tokenizer,OpenMOSS-Team,Embeddings,apache-2.0,Permissiva,93989,47,feature-extraction,https://huggingface.co/OpenMOSS-Team/MOSS-Audio-Tokenizer,
+meta-llama/Llama-Guard-4-12B,meta-llama,VLMs (imagem → texto),other,Aberta com restrição,90071,138,image-text-to-text,https://huggingface.co/meta-llama/Llama-Guard-4-12B,https://github.com/meta-llama
+jinaai/jina-embeddings-v2-base-de,jinaai,Embeddings,apache-2.0,Permissiva,86933,85,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v2-base-de,https://github.com/jina-ai
+jinaai/jina-embeddings-v5-text-small-retrieval,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,86046,30,sentence-similarity,https://huggingface.co/jinaai/jina-embeddings-v5-text-small-retrieval,https://github.com/jina-ai
+Snowflake/snowflake-arctic-embed-m-long,Snowflake,Embeddings,apache-2.0,Permissiva,84374,38,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-m-long,https://github.com/Snowflake-Labs
+Qwen/Qwen3-Reranker-8B,Qwen,Rerankers,apache-2.0,Permissiva,82460,297,text-ranking,https://huggingface.co/Qwen/Qwen3-Reranker-8B,https://github.com/QwenLM/Qwen3-Embedding
+jinaai/jina-embeddings-v5-text-nano,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,81853,101,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v5-text-nano,https://github.com/jina-ai
+jinaai/jina-embeddings-v5-text-small,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,81266,209,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v5-text-small,https://github.com/jina-ai
+Qwen/Qwen3-VL-235B-A22B-Thinking,Qwen,VLMs (imagem → texto),apache-2.0,Permissiva,80848,420,image-text-to-text,https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking,https://github.com/QwenLM/Qwen3-VL
+allenai/olmOCR-2-7B-1025,allenai,VLMs (imagem → texto),apache-2.0,Permissiva,79600,161,image-text-to-text,https://huggingface.co/allenai/olmOCR-2-7B-1025,https://github.com/allenai
+intfloat/e5-mistral-7b-instruct,intfloat,Embeddings,mit,Permissiva,79560,570,feature-extraction,https://huggingface.co/intfloat/e5-mistral-7b-instruct,https://github.com/intfloat
+intfloat/e5-small,intfloat,Embeddings,mit,Permissiva,77835,46,sentence-similarity,https://huggingface.co/intfloat/e5-small,https://github.com/intfloat
+OpenGVLab/InternVL3-1B-hf,OpenGVLab,VLMs (imagem → texto),other,Aberta com restrição,77331,11,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL3-1B-hf,https://github.com/OpenGVLab
+google/gemma-4-26B-A4B,google,VLMs (imagem → texto),apache-2.0,Permissiva,76113,466,image-text-to-text,https://huggingface.co/google/gemma-4-26B-A4B,https://github.com/google-deepmind
+google/paligemma-3b-mix-224,google,VLMs (imagem → texto),gemma,Aberta com restrição,74406,110,image-text-to-text,https://huggingface.co/google/paligemma-3b-mix-224,https://github.com/google-deepmind
+black-forest-labs/FLUX.2-klein-base-9B,black-forest-labs,Edição de imagem,other,Aberta com restrição,72563,442,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-klein-base-9B,https://github.com/black-forest-labs/flux
+black-forest-labs/flux-3-image-klein-pup,black-forest-labs,VLMs (imagem → texto),apache-2.0,Permissiva,69486,78,image-text-to-text,https://huggingface.co/black-forest-labs/flux-3-image-klein-pup,https://github.com/black-forest-labs/flux
+nvidia/Cosmos-Reason2-8B,nvidia,VLMs (imagem → texto),other,Aberta com restrição,67852,256,image-text-to-text,https://huggingface.co/nvidia/Cosmos-Reason2-8B,https://github.com/NVIDIA
+Qwen/Qwen3-VL-Reranker-2B,Qwen,Rerankers,apache-2.0,Permissiva,67633,238,text-ranking,https://huggingface.co/Qwen/Qwen3-VL-Reranker-2B,https://github.com/QwenLM/Qwen3-VL
+nvidia/Llama-3.1-Nemotron-Nano-VL-8B-V1,nvidia,VLMs (imagem → texto),other,Aberta com restrição,65053,188,image-text-to-text,https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-VL-8B-V1,https://github.com/NVIDIA
+moonshotai/Kimi-VL-A3B-Instruct,moonshotai,VLMs (imagem → texto),mit,Permissiva,64434,285,image-text-to-text,https://huggingface.co/moonshotai/Kimi-VL-A3B-Instruct,https://github.com/MoonshotAI
+HuggingFaceTB/SmolVLM2-2.2B-Instruct,HuggingFaceTB,VLMs (imagem → texto),apache-2.0,Permissiva,63864,339,image-text-to-text,https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct,https://github.com/huggingface
+BAAI/llm-embedder,BAAI,Embeddings,mit,Permissiva,59611,128,feature-extraction,https://huggingface.co/BAAI/llm-embedder,https://github.com/FlagOpen
+OpenGVLab/InternVL3-1B,OpenGVLab,VLMs (imagem → texto),apache-2.0,Permissiva,57726,85,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL3-1B,https://github.com/OpenGVLab
+google/gemma-3-12b-pt,google,VLMs (imagem → texto),gemma,Aberta com restrição,53756,97,image-text-to-text,https://huggingface.co/google/gemma-3-12b-pt,https://github.com/google-deepmind
+MiniMaxAI/MiniMax-M3.1-Flash,MiniMaxAI,VLMs (imagem → texto),other,Aberta com restrição,53060,566,image-text-to-text,https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash,
+BAAI/bge-multilingual-gemma2,BAAI,Embeddings,gemma,Aberta com restrição,52436,204,feature-extraction,https://huggingface.co/BAAI/bge-multilingual-gemma2,https://github.com/FlagOpen/FlagEmbedding
+nvidia/Cosmos-Reason2-32B,nvidia,VLMs (imagem → texto),other,Aberta com restrição,51751,18,image-text-to-text,https://huggingface.co/nvidia/Cosmos-Reason2-32B,https://github.com/NVIDIA
+jinaai/jina-embeddings-v5-omni-small-retrieval,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,51477,19,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v5-omni-small-retrieval,https://github.com/jina-ai
+meta-llama/Llama-3.2-11B-Vision-Instruct,meta-llama,VLMs (imagem → texto),llama3.2,Aberta com restrição,51329,1694,image-text-to-text,https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct,https://github.com/meta-llama
+google/gemma-4-31B,google,VLMs (imagem → texto),apache-2.0,Permissiva,50677,590,image-text-to-text,https://huggingface.co/google/gemma-4-31B,https://github.com/google-deepmind
+Snowflake/snowflake-arctic-embed-m-v2.0,Snowflake,Embeddings,apache-2.0,Permissiva,49941,111,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-m-v2.0,https://github.com/Snowflake-Labs
+allenai/olmOCR-7B-0225-preview,allenai,VLMs (imagem → texto),apache-2.0,Permissiva,49143,705,image-text-to-text,https://huggingface.co/allenai/olmOCR-7B-0225-preview,https://github.com/allenai
+jinaai/jina-clip-v2,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,48891,345,feature-extraction,https://huggingface.co/jinaai/jina-clip-v2,https://github.com/jina-ai
+zai-org/GLM-4.1V-9B-Thinking,zai-org,VLMs (imagem → texto),mit,Permissiva,48170,792,image-text-to-text,https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking,https://github.com/zai-org
+OpenGVLab/InternVL3_5-1B-HF,OpenGVLab,VLMs (imagem → texto),apache-2.0,Permissiva,47978,7,image-text-to-text,https://huggingface.co/OpenGVLab/InternVL3_5-1B-HF,https://github.com/OpenGVLab
+Alibaba-NLP/gte-multilingual-reranker-base,Alibaba-NLP,Rerankers,apache-2.0,Permissiva,43870,195,text-ranking,https://huggingface.co/Alibaba-NLP/gte-multilingual-reranker-base,https://github.com/Alibaba-NLP
+mixedbread-ai/mxbai-rerank-large-v1,mixedbread-ai,Rerankers,apache-2.0,Permissiva,43712,144,text-ranking,https://huggingface.co/mixedbread-ai/mxbai-rerank-large-v1,https://github.com/mixedbread-ai
+Snowflake/snowflake-arctic-embed-s,Snowflake,Embeddings,apache-2.0,Permissiva,43091,29,sentence-similarity,https://huggingface.co/Snowflake/snowflake-arctic-embed-s,https://github.com/Snowflake-Labs
+BAAI/bge-large-zh,BAAI,Embeddings,mit,Permissiva,41298,346,feature-extraction,https://huggingface.co/BAAI/bge-large-zh,https://github.com/FlagOpen/FlagEmbedding
+facebook/encodec_32khz,facebook,Embeddings,nao-declarada,Não declarada,41200,22,feature-extraction,https://huggingface.co/facebook/encodec_32khz,https://github.com/facebookresearch
+stabilityai/stable-fast-3d,stabilityai,3D,other,Aberta com restrição,39118,1480,image-to-3d,https://huggingface.co/stabilityai/stable-fast-3d,https://github.com/stabilityai
+mixedbread-ai/mxbai-rerank-base-v1,mixedbread-ai,Rerankers,apache-2.0,Permissiva,39078,48,text-ranking,https://huggingface.co/mixedbread-ai/mxbai-rerank-base-v1,https://github.com/mixedbread-ai
+facebook/encodec_24khz,facebook,Embeddings,nao-declarada,Não declarada,39062,59,feature-extraction,https://huggingface.co/facebook/encodec_24khz,https://github.com/facebookresearch
+jinaai/jina-reranker-v1-turbo-en,jinaai,Rerankers,apache-2.0,Permissiva,38766,67,text-ranking,https://huggingface.co/jinaai/jina-reranker-v1-turbo-en,https://github.com/jina-ai
+facebook/map-anything,facebook,3D,cc-by-nc-4.0,Não comercial,35486,109,image-to-3d,https://huggingface.co/facebook/map-anything,https://github.com/facebookresearch
+mixedbread-ai/mxbai-embed-xsmall-v1,mixedbread-ai,Embeddings,apache-2.0,Permissiva,35450,38,feature-extraction,https://huggingface.co/mixedbread-ai/mxbai-embed-xsmall-v1,https://github.com/mixedbread-ai
+jinaai/jina-embeddings-v5-text-nano-retrieval,jinaai,Embeddings,cc-by-nc-4.0,Não comercial,34991,18,sentence-similarity,https://huggingface.co/jinaai/jina-embeddings-v5-text-nano-retrieval,https://github.com/jina-ai
+Alibaba-NLP/gte-Qwen2-7B-instruct,Alibaba-NLP,Embeddings,apache-2.0,Permissiva,27644,482,sentence-similarity,https://huggingface.co/Alibaba-NLP/gte-Qwen2-7B-instruct,https://github.com/Alibaba-NLP
+BAAI/bge-small-zh,BAAI,Embeddings,mit,Permissiva,26951,30,feature-extraction,https://huggingface.co/BAAI/bge-small-zh,https://github.com/FlagOpen/FlagEmbedding
+microsoft/wavlm-base,microsoft,Embeddings,nao-declarada,Não declarada,25886,19,feature-extraction,https://huggingface.co/microsoft/wavlm-base,https://github.com/microsoft
+OpenMOSS-Team/MOSS-Audio-Tokenizer-v2,OpenMOSS-Team,Embeddings,apache-2.0,Permissiva,23696,25,feature-extraction,https://huggingface.co/OpenMOSS-Team/MOSS-Audio-Tokenizer-v2,
+mixedbread-ai/mxbai-rerank-large-v2,mixedbread-ai,Rerankers,apache-2.0,Permissiva,22004,146,text-ranking,https://huggingface.co/mixedbread-ai/mxbai-rerank-large-v2,https://github.com/mixedbread-ai
+LiquidAI/LFM2.5-ColBERT-350M,LiquidAI,Embeddings,other,Aberta com restrição,21592,121,sentence-similarity,https://huggingface.co/LiquidAI/LFM2.5-ColBERT-350M,https://github.com/LiquidAI
+google/muril-large-cased,google,Embeddings,nao-declarada,Não declarada,20602,26,feature-extraction,https://huggingface.co/google/muril-large-cased,https://github.com/google-deepmind
+facebook/dpr-question_encoder-single-nq-base,facebook,Embeddings,cc-by-nc-4.0,Não comercial,19209,40,feature-extraction,https://huggingface.co/facebook/dpr-question_encoder-single-nq-base,https://github.com/facebookresearch
+jinaai/jina-reranker-v1-tiny-en,jinaai,Rerankers,apache-2.0,Permissiva,16757,30,text-ranking,https://huggingface.co/jinaai/jina-reranker-v1-tiny-en,https://github.com/jina-ai
+jinaai/jina-embeddings-v2-base-zh,jinaai,Embeddings,apache-2.0,Permissiva,15742,246,feature-extraction,https://huggingface.co/jinaai/jina-embeddings-v2-base-zh,https://github.com/jina-ai
+mixedbread-ai/mxbai-rerank-base-v2,mixedbread-ai,Rerankers,apache-2.0,Permissiva,15439,65,text-ranking,https://huggingface.co/mixedbread-ai/mxbai-rerank-base-v2,https://github.com/mixedbread-ai
+nvidia/C-RADIOv4-SO400M,nvidia,Embeddings,other,Aberta com restrição,14830,51,feature-extraction,https://huggingface.co/nvidia/C-RADIOv4-SO400M,https://github.com/NVIDIA
+facebook/contriever-msmarco,facebook,Embeddings,nao-declarada,Não declarada,13946,38,feature-extraction,https://huggingface.co/facebook/contriever-msmarco,https://github.com/facebookresearch
+nvidia/llama-nemotron-rerank-vl-1b-v2,nvidia,Rerankers,other,Aberta com restrição,13911,75,text-ranking,https://huggingface.co/nvidia/llama-nemotron-rerank-vl-1b-v2,https://github.com/NVIDIA
+mixedbread-ai/mxbai-edge-colbert-v0-32m,mixedbread-ai,Embeddings,apache-2.0,Permissiva,13151,51,sentence-similarity,https://huggingface.co/mixedbread-ai/mxbai-edge-colbert-v0-32m,https://github.com/mixedbread-ai
+microsoft/TRELLIS-text-xlarge,microsoft,3D,mit,Permissiva,12983,92,text-to-3d,https://huggingface.co/microsoft/TRELLIS-text-xlarge,https://github.com/microsoft/TRELLIS
+allenai/specter,allenai,Embeddings,apache-2.0,Permissiva,12899,65,feature-extraction,https://huggingface.co/allenai/specter,https://github.com/allenai
+Qwen/Qwen3-VL-Reranker-8B,Qwen,Rerankers,apache-2.0,Permissiva,12735,183,text-ranking,https://huggingface.co/Qwen/Qwen3-VL-Reranker-8B,https://github.com/QwenLM/Qwen3-VL
+google/canine-s,google,Embeddings,apache-2.0,Permissiva,10498,37,feature-extraction,https://huggingface.co/google/canine-s,https://github.com/google-deepmind
+LiquidAI/Liquid-Codec,LiquidAI,Embeddings,other,Aberta com restrição,10328,7,feature-extraction,https://huggingface.co/LiquidAI/Liquid-Codec,https://github.com/LiquidAI
+microsoft/TRELLIS-text-large,microsoft,3D,mit,Permissiva,8269,22,text-to-3d,https://huggingface.co/microsoft/TRELLIS-text-large,https://github.com/microsoft/TRELLIS
+black-forest-labs/FLUX.2-klein-9b-kv,black-forest-labs,Edição de imagem,other,Aberta com restrição,7221,242,image-to-image,https://huggingface.co/black-forest-labs/FLUX.2-klein-9b-kv,https://github.com/black-forest-labs/flux
+openai/shap-e,openai,3D,mit,Permissiva,4832,298,text-to-3d,https://huggingface.co/openai/shap-e,https://github.com/openai/shap-e
+stabilityai/stable-point-aware-3d,stabilityai,3D,other,Aberta com restrição,4827,445,image-to-3d,https://huggingface.co/stabilityai/stable-point-aware-3d,https://github.com/stabilityai
+facebook/VGGT-1B-Commercial,facebook,3D,other,Aberta com restrição,4003,149,image-to-3d,https://huggingface.co/facebook/VGGT-1B-Commercial,https://github.com/facebookresearch
+nvidia/Lyra-2.0,nvidia,3D,nao-declarada,Não declarada,1975,375,image-to-3d,https://huggingface.co/nvidia/Lyra-2.0,https://github.com/NVIDIA
+microsoft/TRELLIS-text-base,microsoft,3D,mit,Permissiva,1879,27,text-to-3d,https://huggingface.co/microsoft/TRELLIS-text-base,https://github.com/microsoft/TRELLIS
